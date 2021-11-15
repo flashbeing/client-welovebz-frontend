@@ -1,5 +1,5 @@
 <template>
-  <Nuxt class="page" />
+  <Nuxt />
 </template>
 
 <style lang="postcss">
@@ -17,15 +17,5 @@ html {
 *::after {
   box-sizing: border-box;
   margin: 0;
-}
-
-.page {
-  @apply bg-primary text-white h-screen;
-}
-
-@media (max-width: theme('screens.md')) {
-  .page {
-    @apply h-auto;
-  }
 }
 </style>

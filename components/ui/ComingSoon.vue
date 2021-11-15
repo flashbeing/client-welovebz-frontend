@@ -11,7 +11,7 @@ export default {}
 
 <style lang="postcss" scoped>
 .coming-soon-container {
-  @apply flex flex-col items-center gap-24;
+  @apply flex flex-col items-center gap-16;
 
   & > .face-smile {
     @apply pt-24;

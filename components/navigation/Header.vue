@@ -84,12 +84,12 @@ header {
     @apply p-4;
 
     & > .logo {
-      width: 220px;
+      width: 200px;
     }
     & > .lang-selector-container {
-      @apply p-4;
+      @apply p-3;
       & > .lang-selector {
-        @apply pl-4 py-3;
+        @apply pl-3 py-3;
 
         & li {
           @apply text-left;

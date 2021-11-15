@@ -33,11 +33,13 @@ export default {
 
 <style lang="postcss" scoped>
 .main-container {
-  @apply flex flex-col justify-between w-full;
+  @apply bg-primary text-white flex flex-col justify-between w-full h-screen;
 }
 
 .main-section {
   @apply flex justify-items-center w-full;
+
+  background: inherit;
 }
 .coming-soon.desktop {
   width: 50%;
@@ -87,7 +89,7 @@ export default {
 
 @media (max-width: theme('screens.md')) {
   .main-container {
-    @apply text-center;
+    @apply h-auto text-center;
   }
 
   .main-section {
