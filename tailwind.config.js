@@ -7,14 +7,14 @@
 module.exports = {
   theme: {
     fontFamily: {
-      sans: ['Hind', 'sans-serif'],
+      serif: ['Courier Prime', 'serif'],
     },
     extend: {
       colors: {
-        primary: '#21c4fd',
-        'primary-hover': '#31caff',
-        secondary: '#f8f8f8',
-        'secondary-hover': '#fAfAfA',
+        primary: '#2B845F',
+        'primary-hover': '#2B845F',
+        secondary: '#FB5656',
+        'secondary-hover': '#FB5656',
         'light-black': '#343434',
         grey: '#888888',
         green: '#31b748',

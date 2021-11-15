@@ -7,6 +7,21 @@
 * Please use your brain before adding a new definition.
 *
 **/
+
+@font-face {
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'Courier Prime';
+  src: url('~static/fonts/CourierPrime-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Courier Prime';
+  src: url('~static/fonts/CourierPrime-Bold.ttf') format('truetype');
+}
+
 svg {
   @apply inline-block;
 }

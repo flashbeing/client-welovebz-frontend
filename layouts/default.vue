@@ -9,7 +9,7 @@
 
 <style lang="postcss">
 html {
-  @apply font-sans;
+  @apply font-serif;
 
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
