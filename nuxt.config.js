@@ -1,11 +1,11 @@
-const AVAILABLE_LANGUAGES = ['it']
+const AVAILABLE_LANGUAGES = ['de', 'it']
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'WeLoveBz',
     htmlAttrs: {
-      lang: 'it',
+      lang: 'de',
     },
     meta: [
       { charset: 'utf-8' },
@@ -44,9 +44,9 @@ export default {
   i18n: {
     locales: AVAILABLE_LANGUAGES,
     strategy: 'prefix_except_default',
-    defaultLocale: 'it',
+    defaultLocale: 'de',
     vueI18n: {
-      fallbackLocale: 'it',
+      fallbackLocale: 'de',
       messages: AVAILABLE_LANGUAGES.reduce(
         (obj, key) => ({
           ...obj,

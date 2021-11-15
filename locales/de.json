@@ -1,0 +1,16 @@
+{
+  "common": {
+    "comingSoon": "coming soon...",
+    "christmas": "christmas",
+    "surprise": "surprise",
+    "at": "@BZ",
+    "website": "welove.bz"
+  },
+  "project": {
+    "details": [
+      "ist eine Initiative der <strong>Stadt Bozen</strong>, die mit Unterstützung der Gemeinde zum ersten Mal <strong>alle Wirtschaftsverbände</strong> sowie das <strong>Verkehrsamt</strong> vereint.",
+      "Mit vielen <strong>neuen Ideen</strong> und <strong>diversen Aktionen</strong> wird das erlebnisreiche und vielfältige Bozen weiter nach vorne gebracht."
+    ],
+    "beSurprised": "Lasst euch von der neuen Weihnachtsaktion überraschen!"
+  }
+}

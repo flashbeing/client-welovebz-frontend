@@ -1,9 +1,16 @@
 {
   "common": {
-    "homepage": "Homepage",
-    "create": "Crea",
-    "genres": "Generi",
-    "creations": "Creazioni",
-    "makers": "Makers"
+    "comingSoon": "coming soon...",
+    "christmas": "christmas",
+    "surprise": "surprise",
+    "at": "@BZ",
+    "website": "welove.bz"
+  },
+  "project": {
+    "details": [
+      "è un’iniziativa della città di Bolzano che unisce per la prima volta, attraverso il sostegno del Comune, tutte le associazioni di categoria e l’Azienda di Soggiorno.",
+      "Vogliamo rendere Bolzano ancora più attrattiva con nuove idee, eventi e progetti concreti."
+    ],
+    "beSurprised": "Lasciatevi sorprendere dalla nostra nuova proposta natalizia!"
   }
 }
