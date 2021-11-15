@@ -11,7 +11,7 @@
 
 <script>
 import Facebook from '@/assets/icon/facebook.svg'
-import Instagram from '@/assets/icon/Instagram.svg'
+import Instagram from '@/assets/icon/instagram.svg'
 export default {
   components: {
     Facebook,
