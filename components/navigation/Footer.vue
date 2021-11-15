@@ -1,7 +1,11 @@
 <template>
   <footer>
-    <Facebook class="icon fb" />
-    <Instagram class="icon ig" />
+    <a href="">
+      <Facebook class="icon fb" />
+    </a>
+    <a href="">
+      <Instagram class="icon ig" />
+    </a>
   </footer>
 </template>
 
