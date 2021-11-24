@@ -1,28 +1,264 @@
 <template>
-  <div class="main-container">
-    <Header />
-    <section class="main-section">
-      <ComingSoon class="coming-soon desktop" />
-      <div class="content">
-        <h1 class="title">
-          <span class="christmas">{{ $t('common.christmas') }}</span
-          ><br />{{ $t('common.surprise')
-          }}<span class="at">{{ $t('common.at') }}</span>
-        </h1>
-        <ComingSoon class="coming-soon mobile" />
-        <div class="description">
-          <span class="website">{{ $t('common.website') }}</span>
-          <p v-for="(d, i) in details" :key="`detail${i}`" v-html="d"></p>
+  <main>
+    <section class="green">
+      <div class="center">
+        <div class="header">
+          <Icon name="face-smile" />
+          <div class="titles">
+            <h1>
+              {{ $t('page.homepage.heading.title') }}<span>@BZ</span>
+            </h1>
+            <div class="other-text">
+              <h3>{{ $t('page.homepage.heading.subtitle') }}</h3>
+              <h2>{{ $t('page.homepage.heading.secondTitle') }}</h2>
+              <div class="prize">
+
+              </div>
+            </div>
+          </div>
         </div>
-        <p class="be-surprised">{{ $t('project.beSurprised') }}</p>
       </div>
     </section>
-    <Footer />
-  </div>
+    <PartnersList />
+    <section class="green">
+      <div class="center">
+        <TitleHeading>{{ $t('page.homepage.firstSection.title') }}</TitleHeading>
+        <p>
+          {{ $t('page.homepage.firstSection.content') }}
+        </p>
+      </div>
+    </section>
+    <section class="red">
+      <div class="center">
+        <TitleHeading span-custom-style="color:white">{{ $t('page.homepage.secondSection.title') }}</TitleHeading>
+        <Countdown end-date="2021-11-25T13:18:00" />
+        <p>
+          {{ $t('page.homepage.secondSection.content') }}
+        </p>
+      </div>
+    </section>
+    <section class="green">
+      <div class="center">
+        <TitleHeading>{{ $t('page.homepage.thirdSection.title') }}</TitleHeading>
+        <div>
+          <p
+            v-for="(item, index) of prizes.slice(0, maxPrizes)"
+            :key="index">
+            <b>{{(index + 1) + '. ' + item.name}}</b>
+            <span> - </span>
+            {{item.description}}
+          </p>
+        </div>
+        <Accordion :button="$t('page.homepage.thirdSection.button')">
+          <div>
+            <p
+              v-for="(item, index) of prizes.slice(maxPrizes+1)"
+              :key="index">
+              <b>{{(index + 22) + '. ' + item.name}}</b>
+              <span> - </span>
+              {{item.description}}
+            </p>
+          </div>
+        </Accordion>
+      </div>
+    </section>
+    <section class="white">
+      <div class="center">
+        <TitleHeading>{{ $t('page.homepage.fourthSection.title') }}</TitleHeading>
+        <Accordion :button="$t('page.homepage.thirdSection.button')">
+          <div>
+            <p
+              v-for="(item, index) of stores"
+              :key="index">
+              {{item.name}}
+            </p>
+          </div>
+        </Accordion>
+      </div>
+    </section>
+    <section class="black">
+      <div class="partner-title">
+        <div class="center">
+          <TitleHeading>{{ $t('page.homepage.fourthSection.title') }}</TitleHeading>
+        </div>
+      </div>
+      <div class="partners">
+        <div class="center">
+          test
+        </div>
+      </div>
+    </section>
+  </main>
 </template>
 
 <script>
 export default {
+  data(){
+    return {
+      prizes: [
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+        {
+          "name": "porsche macha",
+          "description": "blablalbla"
+        },
+      ],
+      maxPrizes: 21,
+      stores: [
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+        {
+          name: 'store1',
+          lat: 11,
+          lng: 42
+        },
+      ]
+    }
+  },
   computed: {
     details() {
       return this.$t('project.details')
@@ -32,97 +268,126 @@ export default {
 </script>
 
 <style lang="postcss" scoped>
-.main-container {
-  @apply bg-primary text-white flex flex-col justify-between w-full h-screen;
+main {
+  & section {
+    @apply text-center py-10;
+
+    &.red {
+      @apply text-white bg-secondary;
+
+      & h2 {
+        @apply text-black;
+
+        & span {
+          color: white;
+        }
+      }
+    }
+
+    &.white {
+
+      & h2 {
+        @apply text-black text-primary;
+      }
+    }
+
+    &.black {
+
+      & .partner-title {
+        @apply bg-black;
+      }
+
+      & h2 {
+        @apply text-white;
+      }
+
+      & .partners {
+        @apply bg-white pt-10;
+      }
+    }
+
+    &.green {
+      @apply text-white bg-primary;
+
+      & .header {
+        @apply flex justify-between;
+
+        & svg {
+          @apply overflow-visible;
+        }
+
+        & .titles {
+          @apply text-left pt-14;
+
+          width: 60%;
+
+          & h1 {
+            @apply font-medium leading-none;
+
+            font-size: 60px;
+
+            & span {
+              @apply text-grey;
+            }
+          }
+
+          & .other-text {
+            @apply py-20;
+
+
+            & h2 {
+              font-size: 40px;
+            }
+
+            & h3 {
+             font-size: 20px;
+            }
+          }
+        }
+      }
+    }
+  }
 }
+@media only screen and (max-width: 980px) {
+  main {
+    & section {
+      @apply text-center py-10;
 
-.main-section {
-  @apply flex justify-items-center w-full;
+      &.green {
+        @apply text-white bg-primary;
 
-  background: inherit;
-}
-.coming-soon.desktop {
-  width: 50%;
-}
-.coming-soon.mobile {
-  @apply hidden;
-}
-.content {
-  @apply flex flex-col gap-12;
+        & .header {
+          @apply flex justify-between;
 
-  width: 50%;
+          & svg {
+            @apply overflow-visible;
+          }
 
-  & > * {
-    width: 80%;
-  }
+          & .titles {
+            width: 100%;
 
-  & > .title {
-    font-size: 7vmin;
-    line-height: 1;
+            & h1 {
+              @apply font-medium leading-none;
 
-    & > .christmas {
-      @apply text-secondary;
-    }
-    & > .at {
-      @apply opacity-70 pl-6;
+              font-size: 60px;
 
-      font-size: inherit;
-    }
-  }
+              & span {
+                @apply text-grey;
+              }
+            }
+            & .other-text {
+              @apply py-20;
 
-  & > .description {
-    @apply text-2xl;
-    & > .website {
-      @apply text-black;
-    }
-    & > p {
-      @apply pb-10;
-    }
-  }
+              & h2 {
+                font-size: 40px;
+              }
 
-  & > .be-surprised {
-    @apply font-bold italic text-secondary;
-
-    font-size: 3vmin;
-  }
-}
-
-@media (max-width: theme('screens.md')) {
-  .main-container {
-    @apply h-auto text-center;
-  }
-
-  .main-section {
-    @apply flex flex-col;
-  }
-
-  .coming-soon.desktop {
-    @apply hidden;
-  }
-
-  .coming-soon.mobile {
-    @apply flex;
-  }
-
-  .content {
-    @apply w-full items-center mt-6;
-
-    & > * {
-      width: 90%;
-    }
-
-    & > .title {
-      @apply text-4xl;
-    }
-
-    & > .be-surprised {
-      @apply text-xl pb-4;
-    }
-    & > .description {
-      @apply text-lg;
-
-      & > p:last-child {
-        @apply pb-0;
+              & h3 {
+                font-size: 20px;
+              }
+            }
+          }
+        }
       }
     }
   }

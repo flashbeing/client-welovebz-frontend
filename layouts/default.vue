@@ -1,5 +1,9 @@
 <template>
-  <Nuxt />
+  <main>
+    <Header />
+    <Nuxt />
+    <Footer />
+  </main>
 </template>
 
 <style lang="postcss">

@@ -23,6 +23,7 @@ export default {
   plugins: [
     { src: '@/plugins/vue-notification', ssr: false },
     '@/plugins/notify',
+  //  '@/plugins/google-maps'
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -59,6 +60,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    transpile: [/^gmap-vue($|\/)/],
     extend: (config) => {
       const svgRule = config.module.rules.find((rule) => rule.test.test('.svg'))
 

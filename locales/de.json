@@ -6,6 +6,45 @@
     "at": "@BZ",
     "website": "welove.bz"
   },
+  "page": {
+    "homepage": {
+      "heading": {
+        "title": "A new christmas chance chance ",
+        "subtitle": "Gewinnspiel bis zum 8.1.2020",
+        "secondTitle": "mehr als 400 Preise"
+      },
+      "firstSection": {
+        "title": "Gewinnspiel",
+        "content": "Mach mit bei der ersten großen Christmas Chance von Bozen – einer Aktion, die dank der Zusammenarbeit der Stadt Bozen, den Wirtschaftsverbänden und dem Verkehrsamt Bozen entstanden ist. \n Ab einem Einkauf von 15 Euro in den teilnehmenden Betrieben erhälst du ein Los und kannst an den Verlosungen teilnehmen."
+      },
+      "secondSection": {
+        "title": "Verlosung",
+        "content": "bis zur Verlosung, die stattfindet."
+      },
+      "thirdSection": {
+        "title": "Preise",
+        "button": "und 400 weiere tolle Preise..."
+      },
+      "fourthSection": {
+        "title": "Partner",
+        "button": "Hier gibt’s die Lose"
+      }
+    }
+  },
+  "partners": {
+    "hds": {
+      "name": "HDS unione",
+      "link": "#"
+    },
+    "confesercenti": {
+      "name": "Confesercenti",
+      "link": "#"
+    },
+    "cnaShv": {
+      "name": "CNA-SHV",
+      "link": "#"
+    }
+  },
   "project": {
     "details": [
       "ist eine Initiative der <strong>Stadt Bozen</strong>, die mit Unterstützung der Gemeinde zum ersten Mal <strong>alle Wirtschaftsverbände</strong> sowie das <strong>Verkehrsamt</strong> vereint.",
