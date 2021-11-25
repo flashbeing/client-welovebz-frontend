@@ -103,7 +103,7 @@
       </div>
       <div class="partners">
         <div class="center">
-          test
+          <Slider :elements="partners" />
         </div>
       </div>
     </section>
@@ -283,6 +283,24 @@ export default {
           lng: 42
         },
       ],
+      partners:[
+        {
+          name: 'trolla',
+          img: 'porsche.png'
+        },
+        {
+          name: 'trolla',
+          img: 'porsche.png'
+        },
+        {
+          name: 'trolla',
+          img: 'porsche.png'
+        },
+        {
+          name: 'trolla',
+          img: 'porsche.png'
+        },
+      ],
       options: {
         streetViewControl: false,
         minZoom: 6,
@@ -307,7 +325,7 @@ export default {
 <style lang="postcss" scoped>
 main {
   & section {
-    @apply text-center py-10;
+    @apply text-center py-10 overflow-hidden;
 
     &.red {
       @apply text-white bg-secondary;

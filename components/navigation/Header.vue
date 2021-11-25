@@ -5,29 +5,67 @@
       alt="WeLoveBZ Logo"
       class="logo"
     />
-    <div class="lang-selector-container" @click="toggleShowSelector">
-      <span>{{ selectedLocale.toUpperCase() }}</span
-      ><ChevronDown />
-      <div v-if="showSelector" class="lang-selector">
-        <ul>
-          <li v-for="l of locales" :key="l.name" @click="setLocale(l.name)">
-            {{ l.name.toUpperCase() }}
-          </li>
-        </ul>
+    <div class="right-header">
+      <div class="lang-selector-container" @click="toggleShowSelector">
+        <span>{{ selectedLocale.toUpperCase() }}</span
+        ><Icon name="chevron-down" />
+        <div v-if="showSelector" class="lang-selector">
+          <ul>
+            <li v-for="l of locales" :key="l.name" @click="setLocale(l.name)">
+              {{ l.name.toUpperCase() }}
+            </li>
+          </ul>
+        </div>
       </div>
+            <div class="nav-ct" :class="{ 'visible': visibleMenu }">
+              <nav>
+                <ul>
+                  <li
+                    v-for="section in sections"
+                    :key="section.ref"
+                    class="clickable"
+                  >
+                    <nuxt-link :to="localePath(section.path)" :title="section.name">
+                      {{ section.name }}
+                    </nuxt-link>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          <div
+            class="menu-bt clickable"
+            :class="{ opened: visibleMenu }"
+            @click="toggleMenuVisibility()"
+          >
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+          </div>
     </div>
+
   </header>
 </template>
 <script>
-import ChevronDown from '@/assets/icon/chevron-down.svg'
 export default {
-  components: { ChevronDown },
   data() {
     return {
       showSelector: false,
+      visibleMenu: false,
     }
   },
   computed: {
+    sections() {
+      return [
+        {
+          path: '/dove-siamo',
+          name: this.$t('common.at'),
+        },
+        {
+          path: '/contattaci',
+          name: this.$t('common.at'),
+        },
+      ]
+    },
     selectedLocale() {
       return this.$i18n.locale
     },
@@ -48,32 +86,115 @@ export default {
     setLocale(lang) {
       this.$i18n.setLocale(lang)
     },
+    toggleMenuVisibility() {
+      this.visibleMenu = !this.visibleMenu
+    },
+
+    hideMenu() {
+      this.visibleMenu = false
+    },
   },
 }
 </script>
 <style lang="postcss" scoped>
 header {
   @apply bg-primary flex justify-between items-center p-8;
+
   & > .logo {
     width: 300px;
   }
-  & > .lang-selector-container {
-    @apply p-4 bg-black text-white font-bold flex items-center gap-2 relative cursor-pointer;
-    & path {
-      @apply fill-current;
-    }
-    & > .lang-selector {
-      @apply absolute w-full left-0 bg-black pl-4 py-4 border-t-2 border-gray-300;
 
-      top: 100%;
+  & .right-header {
+    @apply p-4 bg-black text-white font-bold flex items-center gap-5 relative cursor-pointer;
+    & .nav-ct {
+      @apply z-10 fixed right-0 bottom-0 left-0 bg-black float-none text-white opacity-0 transition duration-200 pointer-events-none;
 
-      & li {
-        @apply pb-2;
-        &:last-child {
-          @apply pb-0;
+      top: 0;
+      white-space: initial;
+      padding-right: 25px;
+      padding-left: 25px;
+      transform: translateY(-40px);
+
+      & nav {
+        @apply block text-3xl mt-8 mb-10;
+
+        & li {
+          @apply block leading-none mb-6 cursor-pointer;
+
+          line-height: 44px;
         }
-        &:hover {
-          @apply underline;
+      }
+      &.visible {
+        @apply opacity-100 cursor-default pointer-events-auto;
+
+        transform: none;
+      }
+    }
+
+    & > .lang-selector-container {
+      @apply gap-2;
+
+      & path {
+        @apply fill-current;
+      }
+
+      & > .lang-selector {
+        @apply absolute w-full left-0 bg-black pl-4 py-4 border-t-2 border-gray-300;
+
+        top: 100%;
+
+        & li {
+          @apply pb-2;
+
+          &:last-child {
+            @apply pb-0;
+          }
+
+          &:hover {
+            @apply underline;
+          }
+        }
+      }
+    }
+
+    & .menu-bt {
+      @apply relative z-10 block;
+
+      width: 30px;
+      height: auto;
+      transition: transform 0.5s ease;
+
+      & > .line {
+        @apply bg-white;
+
+        height: 1px;
+        margin-bottom: 8px;
+        border-radius: 1px;
+        transform-origin: 50%;
+        transition: transform 0.5s ease, opacity 0.5s ease;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+
+      &.opened {
+        @apply fixed;
+
+        transform: translateX(15px);
+
+        & > .line {
+          &:first-child {
+            transform: rotate(45deg) translateY(14px);
+          }
+
+          &:nth-child(2) {
+            opacity: 0;
+          }
+
+          &:last-child {
+            transform: rotate(-45deg) translateY(-14px);
+          }
         }
       }
     }
@@ -86,13 +207,18 @@ header {
     & > .logo {
       width: 200px;
     }
-    & > .lang-selector-container {
-      @apply p-3;
-      & > .lang-selector {
-        @apply pl-3 py-3;
+    & .right-header {
+      @apply p-3 gap-3;
 
-        & li {
-          @apply text-left;
+      & > .lang-selector-container {
+        @apply p-0;
+
+        & > .lang-selector {
+          @apply pl-3 py-3;
+
+          & li {
+            @apply text-left;
+          }
         }
       }
     }
