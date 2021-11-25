@@ -6,7 +6,7 @@
           <Icon name="face-smile" />
           <div class="titles">
             <h1>
-              {{ $t('page.homepage.heading.title') }}<span>@BZ</span>
+              {{ $t('page.homepage.heading.title') }}<span>{{ $t('common.at') }}</span>
             </h1>
             <div class="other-text">
               <h3>{{ $t('page.homepage.heading.subtitle') }}</h3>
@@ -32,11 +32,23 @@
       <div class="center">
         <TitleHeading span-custom-style="color:white">{{ $t('page.homepage.secondSection.title') }}</TitleHeading>
         <div class="countdown">
-        <Countdown end-date="2021-12-30T19:57:59" />
+        <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>
         <p>
           {{ $t('page.homepage.secondSection.content') }}
         </p>
+        <Accordion v-if="isCountdownOver" :button="$t('page.homepage.secondSection.button')" :is-red="true">
+          <div>
+            <p
+              v-for="item of getWinners"
+              :key="item.id">
+              <b>{{item.id}}.</b>
+              {{ item.name}}
+            </p>
+            <b v-show="!awardFilter">...</b>
+            <TextInput v-model="awardFilter" type="number" :placeholder="$t('common.search')" />
+          </div>
+        </Accordion>
       </div>
     </section>
     <section class="green">
@@ -102,6 +114,13 @@
 export default {
   data(){
     return {
+      isCountdownOver: false,
+      winners: [
+        {
+          id: '12',
+          name: 'blabla'
+        }
+      ],
       prizes: [
         {
           "name": "porsche macha",
@@ -270,8 +289,18 @@ export default {
         maxZoom: 12,
         mapTypeControl: false
       },
+      awardFilter: '',
+      endCountdown: '2021-11-12T11:57:59'
     }
   },
+  computed: {
+    getWinners() {
+      if (this.awardFilter) {
+        return this.winners.filter(item => item.id === this.awardFilter)
+      }
+      return this.winners.slice(0,30)
+    }
+  }
 }
 </script>
 

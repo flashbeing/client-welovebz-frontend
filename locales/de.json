@@ -4,7 +4,8 @@
     "christmas": "christmas",
     "surprise": "surprise",
     "at": "@BZ",
-    "website": "welove.bz"
+    "website": "welove.bz",
+    "search": "Deine Losnummer"
   },
   "page": {
     "homepage": {
@@ -19,7 +20,8 @@
       },
       "secondSection": {
         "title": "Verlosung",
-        "content": "bis zur Verlosung, die stattfindet."
+        "content": "bis zur Verlosung, die stattfindet.",
+        "button": "Liste mit Gewinnnummern"
       },
       "thirdSection": {
         "title": "Preise",

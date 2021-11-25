@@ -1,7 +1,6 @@
 <template>
   <div>
-    <span v-if="intervalTime">{{ time }}</span>
-    <span v-else>00:00:00</span>
+    <span>{{ time }}</span>
   </div>
 </template>
 
@@ -29,6 +28,7 @@ export default {
       this.time = new Date(-(Date.now() - new Date(this.endDate))).toISOString().substr(11, 8)
       if (Date.now() >= new Date(this.endDate)) {
         this.time = '00:00:00'
+        this.$emit('end', true)
         clearInterval(this.interval)
       }
     })
