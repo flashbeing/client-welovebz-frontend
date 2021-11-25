@@ -28,4 +28,10 @@ h2 {
     font-size: 54px;
   }
 }
+
+@media only screen and (max-width: 980px){
+  h2 {
+    font-size: 40px;
+  }
+}
 </style>

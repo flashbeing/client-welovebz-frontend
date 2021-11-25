@@ -1,7 +1,7 @@
 <template>
   <div>
-    {{getInterval()}}
-    <span>{{ date }}</span>
+    <span v-if="intervalTime">{{ time }}</span>
+    <span v-else>00:00:00</span>
   </div>
 </template>
 
@@ -14,29 +14,37 @@ export default {
       required: true
     }
   },
-  data(){
+  data() {
     return {
-      date: ''
+      interval: null,
+      intervalTime: true,
+      time: null
     }
   },
-  methods: {
-    getInterval() {
+  beforeDestroy() {
+    clearInterval(this.interval)
+  },
+  created() {
+    this.interval = setInterval(() => {
+      this.time = new Date(-(Date.now() - new Date(this.endDate))).toISOString().substr(11, 8)
       if (Date.now() >= new Date(this.endDate)) {
-        return "00:00:00"
+        this.time = '00:00:00'
+        clearInterval(this.interval)
       }
-      setInterval(() => {
-        this.date = new Date(-(Date.now() - new Date(this.endDate))).toISOString().substr(11, 8)
-      }, 1000000)
-    },
+    })
   }
 }
 </script>
 
 <style lang="postcss" scoped>
 div {
-  @apply bg-black text-center;
+  @apply bg-black items-center justify-center flex;
 
-  width: 245px;
   height: 65px;
+
+  & span {
+    font-size: 28px;
+  }
+
 }
 </style>

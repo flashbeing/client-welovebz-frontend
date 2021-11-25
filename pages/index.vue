@@ -31,7 +31,9 @@
     <section class="red">
       <div class="center">
         <TitleHeading span-custom-style="color:white">{{ $t('page.homepage.secondSection.title') }}</TitleHeading>
-        <Countdown end-date="2021-11-25T13:18:00" />
+        <div class="countdown">
+        <Countdown end-date="2021-12-30T19:57:59" />
+        </div>
         <p>
           {{ $t('page.homepage.secondSection.content') }}
         </p>
@@ -65,6 +67,11 @@
     <section class="white">
       <div class="center">
         <TitleHeading>{{ $t('page.homepage.fourthSection.title') }}</TitleHeading>
+        <Map
+          :markers="stores"
+          :options="options"
+          map-type="roadmap"
+        />
         <Accordion :button="$t('page.homepage.thirdSection.button')">
           <div>
             <p
@@ -256,13 +263,14 @@ export default {
           lat: 11,
           lng: 42
         },
-      ]
+      ],
+      options: {
+        streetViewControl: false,
+        minZoom: 6,
+        maxZoom: 12,
+        mapTypeControl: false
+      },
     }
-  },
-  computed: {
-    details() {
-      return this.$t('project.details')
-    },
   },
 }
 </script>
@@ -274,6 +282,10 @@ main {
 
     &.red {
       @apply text-white bg-secondary;
+
+      & .countdown {
+        @apply w-3/4 m-auto py-5;
+      }
 
       & h2 {
         @apply text-black;
