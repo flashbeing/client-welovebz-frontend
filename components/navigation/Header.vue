@@ -19,14 +19,25 @@
       </div>
             <div class="nav-ct" :class="{ 'visible': visibleMenu }">
               <nav>
-                <ul>
+                <ul class="normal-menu">
                   <li
-                    v-for="section in sections"
+                    v-for="section of sections.firstSection"
                     :key="section.ref"
                     class="clickable"
                   >
-                    <nuxt-link :to="localePath(section.path)" :title="section.name">
-                      {{ section.name }}
+                    <nuxt-link class="link" :to="localePath(section.path)" :title="section.name">
+                      <TitleHeading :span-custom-style="isSpanHidden" @mouseover.native="isSpanHidden = 'opacity:1'" @mouseleave.native="isSpanHidden = 'opacity:0'">{{ section.name }}</TitleHeading>
+                    </nuxt-link>
+                  </li>
+                  </ul>
+                <ul class="small-menu">
+                  <li
+                    v-for="section of sections.secondSection"
+                    :key="section.ref"
+                    class="clickable"
+                  >
+                    <nuxt-link class="link" :to="localePath(section.path)" :title="section.name">
+                      <TitleHeading :span-custom-style="isSpanHidden" @mouseover.native="isSpanHidden = 'opacity:1'" @mouseleave.native="isSpanHidden = 'opacity:0'">{{ section.name }}</TitleHeading>
                     </nuxt-link>
                   </li>
                 </ul>
@@ -51,21 +62,48 @@ export default {
     return {
       showSelector: false,
       visibleMenu: false,
+      isSpanHidden: 'opacity:0',
+      sections: {
+        firstSection: [
+          {
+            path: '/',
+            name: this.$t('page.homepage.firstSection.title'),
+          },
+          {
+            path: '/',
+            name: this.$t('page.homepage.secondSection.title'),
+          },
+          {
+            path: '/',
+            name: this.$t('page.homepage.thirdSection.title'),
+          },
+          {
+            path: '/',
+            name: this.$t('page.homepage.fourthSection.title'),
+          },
+          {
+            path: '/',
+            name: this.$t('page.homepage.fifthSection.title'),
+          },
+        ],
+        secondSection: [
+          {
+            path: '/',
+            name: this.$t('common.rules'),
+          },
+          {
+            path: '/',
+            name: this.$t('common.impressum'),
+          },
+          {
+            path: '/',
+            name: this.$t('common.contact'),
+          },
+        ]
+      }
     }
   },
   computed: {
-    sections() {
-      return [
-        {
-          path: '/dove-siamo',
-          name: this.$t('common.at'),
-        },
-        {
-          path: '/contattaci',
-          name: this.$t('common.at'),
-        },
-      ]
-    },
     selectedLocale() {
       return this.$i18n.locale
     },
@@ -114,14 +152,37 @@ header {
       padding-right: 25px;
       padding-left: 25px;
       transform: translateY(-40px);
+      /* stylelint-disable no-descending-specificity */
 
       & nav {
-        @apply block text-3xl mt-8 mb-10;
+        @apply block text-3xl mt-8 mb-10 text-center;
+        & .normal-menu {
+          & li {
+            @apply block leading-none mb-6 cursor-pointer;
 
-        & li {
-          @apply block leading-none mb-6 cursor-pointer;
+            line-height: 44px;
 
-          line-height: 44px;
+            & .link {
+              & h2 {
+                @apply hover:text-secondary;
+              }
+            }
+          }
+        }
+        & .small-menu {
+          @apply py-10;
+
+          & li {
+            @apply mb-2;
+
+            & .link {
+              & h2 {
+                @apply font-normal;
+
+                font-size: 30px;
+              }
+            }
+          }
         }
       }
       &.visible {
@@ -130,7 +191,6 @@ header {
         transform: none;
       }
     }
-
     & > .lang-selector-container {
       @apply gap-2;
 

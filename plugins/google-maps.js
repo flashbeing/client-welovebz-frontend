@@ -4,7 +4,7 @@ import GmapCluster from 'gmap-vue/dist/components/cluster' // replace dist with 
 
 Vue.use(GmapVue, {
   load: {
-    key: "AIzaSyDnvmcaKy4vw3EhKFt0IdudkNdJZRbPX18",
+    key: "AIzaSyA81_U8ARS7feWyltkEDrz_LrjqWuymAI0",
     libraries: ["places"]
   },
   installComponents: true

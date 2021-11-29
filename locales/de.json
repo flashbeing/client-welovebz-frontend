@@ -5,7 +5,10 @@
     "surprise": "surprise",
     "at": "@BZ",
     "website": "welove.bz",
-    "search": "Deine Losnummer"
+    "search": "Deine Losnummer",
+    "rules": "Reglement",
+    "impressum": "Impressum",
+    "contact": "Kontakt"
   },
   "page": {
     "homepage": {
@@ -30,6 +33,9 @@
       "fourthSection": {
         "title": "Partner",
         "button": "Hier gibt’s die Lose"
+      },
+      "fifthSection": {
+        "title": "Sponsoren"
       }
     }
   },

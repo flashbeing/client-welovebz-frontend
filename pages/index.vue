@@ -98,7 +98,7 @@
     <section class="black">
       <div class="partner-title">
         <div class="center">
-          <TitleHeading>{{ $t('page.homepage.fourthSection.title') }}</TitleHeading>
+          <TitleHeading>{{ $t('page.homepage.fifthSection.title') }}</TitleHeading>
         </div>
       </div>
       <div class="partners">
