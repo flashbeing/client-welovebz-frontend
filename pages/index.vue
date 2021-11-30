@@ -23,9 +23,20 @@
     <section class="green">
       <div class="center">
         <TitleHeading>{{ $t('page.homepage.firstSection.title') }}</TitleHeading>
-        <p>
-          {{ $t('page.homepage.firstSection.content') }}
-        </p>
+        <i18n path="page.homepage.firstSection.firstParagraph.text" tag="p">
+          <template #bold>
+            <b>{{$t('page.homepage.firstSection.firstParagraph.bold')}}</b>
+          </template>
+        </i18n>
+        <br>
+        <i18n path="page.homepage.firstSection.secondParagraph.text" tag="p">
+          <template #bold>
+            <b>{{$t('page.homepage.firstSection.secondParagraph.bold')}}</b>
+          </template>
+          <template #link>
+            <a href="#">{{$t('page.homepage.firstSection.secondParagraph.link')}}</a>
+          </template>
+        </i18n>
       </div>
     </section>
     <section class="red">
@@ -34,9 +45,17 @@
         <div class="countdown">
         <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>
-        <p>
-          {{ $t('page.homepage.secondSection.content') }}
-        </p>
+        <i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
+          <template #bold>
+            <b class="text-primary">{{$t('page.homepage.secondSection.firstParagraph.bold')}}</b>
+          </template>
+          <template #newline>
+            <br>
+          </template>
+          <template #link>
+            <a href="#">{{$t('page.homepage.secondSection.firstParagraph.link')}}</a>
+          </template>
+        </i18n>
         <Accordion v-if="isCountdownOver" :button="$t('page.homepage.secondSection.button')" :is-red="true">
           <div>
             <p
@@ -81,10 +100,11 @@
         <TitleHeading>{{ $t('page.homepage.fourthSection.title') }}</TitleHeading>
         <Map
           :markers="stores"
+          :center="{lat:46.4892313, lng:11.3121382}"
           :options="options"
           map-type="roadmap"
         />
-        <Accordion :button="$t('page.homepage.thirdSection.button')">
+        <Accordion :button="$t('page.homepage.fourthSection.button')" :is-green="true">
           <div>
             <p
               v-for="(item, index) of stores"
@@ -109,7 +129,6 @@
     </section>
   </main>
 </template>
-
 <script>
 export default {
   data(){
@@ -239,48 +258,48 @@ export default {
       stores: [
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121382
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121352
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121362
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121392
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121389
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3151382
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121282
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892315,
+          lng:11.3121382
         },
         {
           name: 'store1',
-          lat: 11,
-          lng: 42
+          lat:46.4892313,
+          lng:11.3121384
         },
       ],
       partners:[
@@ -303,8 +322,8 @@ export default {
       ],
       options: {
         streetViewControl: false,
-        minZoom: 6,
-        maxZoom: 12,
+        minZoom: 13,
+        maxZoom: 15,
         mapTypeControl: false
       },
       awardFilter: '',
@@ -325,10 +344,18 @@ export default {
 <style lang="postcss" scoped>
 main {
   & section {
-    @apply text-center py-10 overflow-hidden;
+    @apply m-auto block py-10 overflow-hidden;
+
+    & a {
+      @apply underline;
+    }
+
+    & h2 {
+      @apply text-center;
+    }
 
     &.red {
-      @apply text-white bg-secondary;
+      @apply text-white bg-secondary text-center;
 
       & .countdown {
         @apply w-3/4 m-auto py-5;
@@ -340,13 +367,6 @@ main {
         & span {
           color: white;
         }
-      }
-    }
-
-    &.white {
-
-      & h2 {
-        @apply text-black text-primary;
       }
     }
 
@@ -362,6 +382,14 @@ main {
 
       & .partners {
         @apply bg-white pt-10;
+      }
+    }
+
+    &.white {
+      @apply text-center;
+
+      & h2 {
+        @apply text-black text-primary;
       }
     }
 

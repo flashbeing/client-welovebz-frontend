@@ -1,25 +1,21 @@
 <template>
   <div class="main-container">
-    <div class="center">
-      <div class="content">
-        <ul :class="{'is-footer': isFooter}">
-          <li
-            v-for="(item, index) of partners"
-            :key="index"
-          >
-            <a :href="item.link">{{ item.name }}</a>
-          </li>
-        </ul>
-        <div class="icons-container">
-          <a
-            v-for="(item, index) of icons"
-            :key="index"
-            :href="item.link"
-          >
-            <Icon :name="item.name" />
-          </a>
-        </div>
-      </div>
+    <ul :class="{'is-footer': isFooter}">
+      <li
+        v-for="(item, index) of partners"
+        :key="index"
+      >
+        <a :href="item.link">{{ item.name }}</a>
+      </li>
+    </ul>
+    <div class="icons-container">
+      <a
+        v-for="(item, index) of icons"
+        :key="index"
+        :href="item.link"
+      >
+        <Icon :name="item.name" />
+      </a>
     </div>
   </div>
 </template>
@@ -47,16 +43,28 @@ export default {
       ],
       partners: [
         {
-          name: this.$t('partners.hds.name'),
-          link: this.$t('partners.hds.link')
+          name: 'Verkehrsamt der Stadt Bozen | Azienda di Soggiorno e Turismo di Bolzano',
+          link: '#'
         },
         {
-          name: this.$t('partners.confesercenti.name'),
-          link: this.$t('partners.confesercenti.link')
+          name: 'hds unione',
+          link: '#'
         },
         {
-          name: this.$t('partners.cnaShv.name'),
-          link: this.$t('partners.cnaShv.link')
+          name: 'HGV',
+          link: '#'
+        },
+        {
+          name: 'Conferscenti',
+          link: '#'
+        },
+        {
+          name: 'CNA-SHV',
+          link: '#'
+        },
+        {
+          name: 'lvh.apa',
+          link: '#'
         }
       ]
     }
@@ -66,65 +74,67 @@ export default {
 
 <style lang="postcss" scoped>
 .main-container {
-  @apply bg-secondary text-white py-1;
+  @apply flex items-center bg-secondary text-white text-right px-6 py-3;
 
-  & .center {
-    & .content {
-      @apply flex justify-between items-center;
+  & > ul {
+    @apply inline-flex list-disc list-inside justify-center;
 
-      & ul {
-        @apply flex list-disc list-inside overflow-hidden;
+    width: 90%;
 
-        width: 90%;
+    & > li {
+      @apply list-item px-2;
 
-        & li {
-          @apply list-item px-2;
+      font-size: 1vw;
 
-          font-size: 16px;
-
-          &:first-child {
-            @apply list-none;
-          }
-
-          & > a {
-            @apply pr-3;
-
-            &:hover {
-              @apply underline;
-            }
-          }
-        }
+      &:first-child {
+        @apply list-none;
       }
 
-      & .icons-container {
-        @apply flex justify-end;
+      & > a {
+        @apply pr-3;
 
-        width: 10%;
-        height: 28px;
-
-        & svg {
-          @apply fill-current;
-
-          height: 28px;
+        &:hover {
+          @apply underline;
         }
       }
     }
   }
 
+  & > .icons-container {
+    @apply inline-flex items-center justify-end;
+
+    width: 10%;
+
+    & svg {
+      @apply fill-current;
+
+      width: 30px;
+      height: 30px;
+    }
+  }
 }
+@media (max-width: theme('screens.md')) {
+  .main-container {
+    @apply flex-col;
 
-@media only screen and (max-width: 970px) {
-  .content {
-    @apply flex justify-between items-center;
+    & > ul {
+      @apply flex-col items-start;
 
-    & ul {
-      @apply opacity-0 flex-col;
-
-      width: 50%;
+      width: 100%;
 
       &.is-footer {
-        @apply opacity-100;
+        display:none;
       }
+
+      & > li {
+        @apply text-base text-left;
+      }
+    }
+
+    & > .icons-container {
+      @apply flex justify-end mt-2;
+
+      width: 100%;
     }
   }
 }

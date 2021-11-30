@@ -19,11 +19,23 @@
       },
       "firstSection": {
         "title": "Gewinnspiel",
-        "content": "Mach mit bei der ersten großen Christmas Chance von Bozen – einer Aktion, die dank der Zusammenarbeit der Stadt Bozen, den Wirtschaftsverbänden und dem Verkehrsamt Bozen entstanden ist. \n Ab einem Einkauf von 15 Euro in den teilnehmenden Betrieben erhälst du ein Los und kannst an den Verlosungen teilnehmen."
+        "firstParagraph": {
+          "text": "Mach mit bei der ersten großen {bold} von Bozen – einer Aktion, die dank der Zusammenarbeit der Stadt Bozen, den Wirtschaftsverbänden und dem Verkehrsamt Bozen entstanden ist.",
+          "bold" : "Christmas Chance"
+        },
+        "secondParagraph": {
+          "text":"Ab einem {bold} in den {link} erhälst du ein Los und kannst an den Verlosungen teilnehmen.",
+          "bold": "Einkauf von 15 Euro",
+          "link" : "Einkauf von 15 Euro"
+        }
       },
       "secondSection": {
         "title": "Verlosung",
-        "content": "bis zur Verlosung, die stattfindet.",
+        "firstParagraph": {
+          "text": "bis zur {bold},{newline}die {link} stattfindet.",
+          "bold": "Verlosung",
+          "link": "hier"
+        },
         "button": "Liste mit Gewinnnummern"
       },
       "thirdSection": {
@@ -37,20 +49,6 @@
       "fifthSection": {
         "title": "Sponsoren"
       }
-    }
-  },
-  "partners": {
-    "hds": {
-      "name": "HDS unione",
-      "link": "#"
-    },
-    "confesercenti": {
-      "name": "Confesercenti",
-      "link": "#"
-    },
-    "cnaShv": {
-      "name": "CNA-SHV",
-      "link": "#"
     }
   },
   "project": {

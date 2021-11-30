@@ -1,10 +1,10 @@
 <template>
 <div class="main-container">
-  <div class="title clickable" :class="{'not-red': !isRed}" @click="toggle">
+  <div class="title clickable" :class="{'red': !isRed, 'green': isGreen}" @click="toggle">
     <div class="text">
       <h2>{{ button }}</h2>
     </div>
-    <div class="arrow" :class="[!isRed ? 'not-red' : '', +isExpanded ? 'up' : 'down', ]"></div>
+    <div class="arrow" :class="[!isRed ? 'red' : '', +isExpanded ? 'up' : 'down', ]"></div>
   </div>
   <div v-show="isExpanded" class="content">
     <slot />
@@ -21,6 +21,10 @@ export default {
       required: true
     },
     isRed: {
+      type: Boolean,
+      default: false
+    },
+    isGreen: {
       type: Boolean,
       default: false
     }
@@ -45,8 +49,12 @@ export default {
   & .title {
     @apply text-white;
 
-    &.not-red {
+    &.red {
       @apply text-secondary hover:text-secondary-hover;
+    }
+
+    &.green {
+      @apply text-primary hover:text-primary-hover;
     }
 
     & .text {
@@ -59,7 +67,7 @@ export default {
       border-width: 0 3px 3px 0;
       padding: 3px;
 
-      &.not-red {
+      &.red {
         @apply border-secondary hover:border-secondary-hover;
       }
 
