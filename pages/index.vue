@@ -1,18 +1,26 @@
 <template>
   <main>
-    <section class="green">
+    <section class="green overflow-hidden">
       <div class="center">
         <div class="header">
           <Icon name="face-smile" />
           <div class="titles">
             <h1>
-              {{ $t('page.homepage.heading.title') }}<span>{{ $t('common.at') }}</span>
+              {{ $t('page.homepage.heading.title')
+              }}<span>{{ $t('common.at') }}</span>
             </h1>
             <div class="other-text">
               <h3>{{ $t('page.homepage.heading.subtitle') }}</h3>
               <h2>{{ $t('page.homepage.heading.secondTitle') }}</h2>
               <div class="prize">
-
+                <div class="car">
+                  <div class="image"></div>
+                  <p class="label">
+                    {{ $t('page.homepage.heading.mainPrize') }}<br />Porsche
+                    Macan
+                  </p>
+                </div>
+                <div class="logo"></div>
               </div>
             </div>
           </div>
@@ -20,105 +28,132 @@
       </div>
     </section>
     <PartnersList />
-    <section class="green">
+    <section id="intro" class="green">
       <div class="center">
-        <TitleHeading>{{ $t('page.homepage.firstSection.title') }}</TitleHeading>
+        <TitleHeading :show-as-title="true">{{
+          $t('page.homepage.firstSection.title')
+        }}</TitleHeading>
         <i18n path="page.homepage.firstSection.firstParagraph.text" tag="p">
           <template #bold>
-            <b>{{$t('page.homepage.firstSection.firstParagraph.bold')}}</b>
+            <b>{{ $t('page.homepage.firstSection.firstParagraph.bold') }}</b>
           </template>
         </i18n>
-        <br>
+        <br />
         <i18n path="page.homepage.firstSection.secondParagraph.text" tag="p">
           <template #bold>
-            <b>{{$t('page.homepage.firstSection.secondParagraph.bold')}}</b>
+            <b>{{ $t('page.homepage.firstSection.secondParagraph.bold') }}</b>
           </template>
           <template #link>
-            <a href="#">{{$t('page.homepage.firstSection.secondParagraph.link')}}</a>
+            <a href="/#partner">{{
+              $t('page.homepage.firstSection.secondParagraph.link')
+            }}</a>
           </template>
         </i18n>
       </div>
     </section>
-    <section class="red">
+    <section id="countdown" class="red">
       <div class="center">
-        <TitleHeading span-custom-style="color:white">{{ $t('page.homepage.secondSection.title') }}</TitleHeading>
+        <TitleHeading :show-as-title="true" :inverted="true">{{
+          $t('page.homepage.secondSection.title')
+        }}</TitleHeading>
         <div class="countdown">
-        <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
+          <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>
         <i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
           <template #bold>
-            <b class="text-primary">{{$t('page.homepage.secondSection.firstParagraph.bold')}}</b>
+            <b class="text-primary">{{
+              $t('page.homepage.secondSection.firstParagraph.bold')
+            }}</b>
           </template>
           <template #newline>
-            <br>
+            <br />
           </template>
           <template #link>
-            <a href="#">{{$t('page.homepage.secondSection.firstParagraph.link')}}</a>
+            <a href="#">{{
+              $t('page.homepage.secondSection.firstParagraph.link')
+            }}</a>
           </template>
         </i18n>
-        <Accordion v-if="isCountdownOver" :button="$t('page.homepage.secondSection.button')" :is-red="true">
+        <Accordion
+          v-if="isCountdownOver"
+          :button="$t('page.homepage.secondSection.button')"
+          :is-red="true"
+        >
           <div>
-            <p
-              v-for="item of getWinners"
-              :key="item.id">
-              <b>{{item.id}}.</b>
-              {{ item.name}}
+            <p v-for="item of getWinners" :key="item.id">
+              <b>{{ item.id }}.</b>
+              {{ item.name }}
             </p>
             <b v-show="!awardFilter">...</b>
-            <TextInput v-model="awardFilter" type="number" :placeholder="$t('common.search')" />
+            <TextInput
+              v-model="awardFilter"
+              type="number"
+              :placeholder="$t('common.search')"
+            />
           </div>
         </Accordion>
       </div>
     </section>
-    <section class="green">
+    <section id="prizes" class="green">
       <div class="center">
-        <TitleHeading>{{ $t('page.homepage.thirdSection.title') }}</TitleHeading>
-        <div>
+        <TitleHeading :show-as-title="true">{{
+          $t('page.homepage.thirdSection.title')
+        }}</TitleHeading>
+        <div class="prizes">
           <p
-            v-for="(item, index) of prizes.slice(0, maxPrizes)"
-            :key="index">
-            <b>{{(index + 1) + '. ' + item.name}}</b>
+            v-for="(item, index) of prizes.slice(0, SHOW_PRIZES_UNTIL)"
+            :key="index"
+            class="prize"
+          >
+            <b>{{ index + 1 + '. ' + item.name }}</b>
             <span> - </span>
-            {{item.description}}
+            {{ item.description }}
           </p>
         </div>
         <Accordion :button="$t('page.homepage.thirdSection.button')">
-          <div>
+          <div class="prizes">
             <p
-              v-for="(item, index) of prizes.slice(maxPrizes+1)"
-              :key="index">
-              <b>{{(index + 22) + '. ' + item.name}}</b>
+              v-for="(item, index) of prizes.slice(SHOW_PRIZES_UNTIL + 1)"
+              :key="index"
+              class="prize"
+            >
+              <b>{{ index + 22 + '. ' + item.name }}</b>
               <span> - </span>
-              {{item.description}}
+              {{ item.description }}
             </p>
           </div>
         </Accordion>
       </div>
     </section>
-    <section class="white">
+    <section id="partner" class="white">
       <div class="center">
-        <TitleHeading>{{ $t('page.homepage.fourthSection.title') }}</TitleHeading>
+        <TitleHeading :show-as-title="true" :show-green="true">{{
+          $t('page.homepage.fourthSection.title')
+        }}</TitleHeading>
         <Map
           :markers="stores"
-          :center="{lat:46.4892313, lng:11.3121382}"
+          :center="{ lat: 46.4892313, lng: 11.3121382 }"
           :options="options"
           map-type="roadmap"
         />
-        <Accordion :button="$t('page.homepage.fourthSection.button')" :is-green="true">
+        <Accordion
+          :button="$t('page.homepage.fourthSection.button')"
+          :is-green="true"
+        >
           <div>
-            <p
-              v-for="(item, index) of stores"
-              :key="index">
-              {{item.name}}
+            <p v-for="(item, index) of stores" :key="index">
+              {{ item.name }}
             </p>
           </div>
         </Accordion>
       </div>
     </section>
-    <section class="black">
+    <section id="sponsors" class="black">
       <div class="partner-title">
         <div class="center">
-          <TitleHeading>{{ $t('page.homepage.fifthSection.title') }}</TitleHeading>
+          <TitleHeading :show-as-title="true">{{
+            $t('page.homepage.fifthSection.title')
+          }}</TitleHeading>
         </div>
       </div>
       <div class="partners">
@@ -130,235 +165,140 @@
   </main>
 </template>
 <script>
+import mainDataset from '~/static/data/main.json'
+
 export default {
-  data(){
+  data() {
     return {
+      SHOW_PRIZES_UNTIL: 21,
       isCountdownOver: false,
       winners: [
         {
-          id: '12',
-          name: 'blabla'
-        }
-      ],
-      prizes: [
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
-        },
-        {
-          "name": "porsche macha",
-          "description": "blablalbla"
+          id: 'TODO',
+          name: 'TODO',
         },
       ],
-      maxPrizes: 21,
-      stores: [
+      partners: [
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121382
+          img: 'partners/Aspiag.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121352
+          img: 'partners/BrasolinAuto.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121362
+          img: 'partners/Globus.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121392
+          img: 'partners/Gutweniger.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121389
+          img: 'partners/HCB_Foxes.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3151382
+          img: 'partners/hds_unione.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121282
+          img: 'partners/Laurin.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892315,
-          lng:11.3121382
+          img: 'partners/Lorenzi.svg',
         },
         {
-          name: 'store1',
-          lat:46.4892313,
-          lng:11.3121384
-        },
-      ],
-      partners:[
-        {
-          name: 'trolla',
-          img: 'porsche.png'
+          img: 'partners/Mair.svg',
         },
         {
-          name: 'trolla',
-          img: 'porsche.png'
+          img: 'partners/META.svg',
         },
         {
-          name: 'trolla',
-          img: 'porsche.png'
+          img: 'partners/OberrauchZitt.svg',
         },
         {
-          name: 'trolla',
-          img: 'porsche.png'
+          img: 'partners/Pornbacher.svg',
+        },
+        {
+          img: 'partners/Porsche.png',
+        },
+        {
+          img: 'partners/ProfumerieFerrari.png',
+        },
+        {
+          img: 'partners/Provoice.png',
+        },
+        {
+          img: 'partners/Ranzi_Knapp.svg',
+        },
+        {
+          img: 'partners/SkyAlps.svg',
+        },
+        {
+          img: 'partners/Sparkasse.svg',
+        },
+        {
+          img: 'partners/Sportler.svg',
+        },
+        {
+          img: 'partners/Twenty.svg',
         },
       ],
       options: {
         streetViewControl: false,
         minZoom: 13,
         maxZoom: 15,
-        mapTypeControl: false
+        mapTypeControl: false,
       },
       awardFilter: '',
-      endCountdown: '2021-11-12T11:57:59'
+      endCountdown: '2022-01-08T00:00:00',
     }
   },
   computed: {
     getWinners() {
       if (this.awardFilter) {
-        return this.winners.filter(item => item.id === this.awardFilter)
+        return this.winners.filter((item) => item.id === this.awardFilter)
       }
-      return this.winners.slice(0,30)
-    }
-  }
+      return this.winners.slice(0, 30)
+    },
+
+    prizes() {
+      return mainDataset.map((d) => ({
+        name: d.name,
+        description: d['prize-' + this.$i18n.locale],
+      }))
+    },
+
+    stores() {
+      const printed = {}
+      const stores = []
+      mainDataset.forEach((d) => {
+        const storeName = d.name.trim()
+        if (!printed[storeName]) {
+          printed[storeName] = true
+          stores.push({
+            name: storeName,
+            lat: d.lat,
+            lng: d.lng,
+          })
+        }
+      })
+      return stores
+    },
+  },
 }
 </script>
 
 <style lang="postcss" scoped>
 main {
   & section {
-    @apply m-auto block py-10 overflow-hidden;
+    @apply m-auto block py-12 overflow-hidden;
 
     & a {
       @apply underline;
-    }
-
-    & h2 {
-      @apply text-center;
     }
 
     &.red {
       @apply text-white bg-secondary text-center;
 
       & .countdown {
-        @apply w-3/4 m-auto py-5;
+        @apply text-center mb-6;
       }
 
       & h2 {
@@ -371,13 +311,8 @@ main {
     }
 
     &.black {
-
       & .partner-title {
-        @apply bg-black;
-      }
-
-      & h2 {
-        @apply text-white;
+        @apply bg-black pt-8 pb-1;
       }
 
       & .partners {
@@ -409,25 +344,50 @@ main {
           width: 60%;
 
           & h1 {
-            @apply font-medium leading-none;
-
-            font-size: 60px;
+            @apply font-medium leading-none text-8xl;
 
             & span {
-              @apply text-grey;
+              @apply opacity-50;
             }
           }
 
           & .other-text {
-            @apply py-20;
-
+            @apply pt-12;
 
             & h2 {
               font-size: 40px;
             }
 
             & h3 {
-             font-size: 20px;
+              font-size: 20px;
+            }
+
+            & .prize {
+              @apply mt-8 mb-12;
+
+              & .car {
+                @apply inline-block mr-4;
+
+                & .image {
+                  @apply bg-contain bg-center bg-no-repeat mb-3;
+
+                  width: 200px;
+                  height: 100px;
+                  background-image: url(~/static/images/porsche-macan.png);
+                }
+
+                & .label {
+                  @apply text-base text-black;
+                }
+              }
+
+              & .logo {
+                @apply inline-block bg-contain bg-center bg-no-repeat align-top;
+
+                width: 200px;
+                height: 100px;
+                background-image: url(~/static/images/partners/Porsche.png);
+              }
             }
           }
         }
@@ -435,10 +395,17 @@ main {
     }
   }
 }
+
 @media only screen and (max-width: 980px) {
   main {
     & section {
       @apply text-center py-10;
+
+      & .prizes {
+        & .prize {
+          @apply mb-2;
+        }
+      }
 
       &.green {
         @apply text-white bg-primary;
@@ -447,30 +414,41 @@ main {
           @apply flex justify-between;
 
           & svg {
-            @apply overflow-visible;
+            @apply relative;
+
+            left: -120px;
           }
 
           & .titles {
-            width: 100%;
+            @apply relative pl-8;
+
+            left: -120px;
 
             & h1 {
-              @apply font-medium leading-none;
-
-              font-size: 60px;
-
-              & span {
-                @apply text-grey;
-              }
+              @apply font-medium leading-none text-4xl;
             }
+
             & .other-text {
-              @apply py-20;
+              @apply pt-6;
 
               & h2 {
-                font-size: 40px;
+                @apply text-xl;
               }
 
               & h3 {
-                font-size: 20px;
+                @apply text-sm;
+              }
+
+              & .prize {
+                & .car {
+                  @apply block mr-0 mb-6;
+                }
+
+                & .logo {
+                  @apply block;
+
+                  background-position: left center;
+                }
               }
             }
           }

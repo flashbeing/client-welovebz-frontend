@@ -9,16 +9,12 @@
         class="project"
         :class="{ visible: curProjectIndex === index }"
         :style="{
-          backgroundImage:
-            'url(' +
-            require(`@/static/images/${item.img}`) +
-            ')',
+          backgroundImage: 'url(images/' + item.img + ')',
         }"
-      >
-      </div>
-      <h3>{{item.name}}</h3>
+      ></div>
+      <!--<h3>{{ item.name }}</h3>-->
     </div>
-    <div class="center relative pointer-events-none h-full">
+    <div class="relative pointer-events-none h-full">
       <div
         class="arrow backward clickable visible"
         @click="showPreviousProject()"
@@ -75,13 +71,14 @@ export default {
   }
 
   & .project {
-    @apply absolute top-0 left-0 bg-placeholder opacity-0 bg-center bg-cover;
+    @apply absolute top-0 opacity-0 bg-center bg-contain bg-no-repeat;
 
     height: 200px;
-    width: 50%;
+    width: 280px;
+    left: 50%;
+    margin-left: -140px;
     transform: scale(0.93);
     transition: transform 0.5s ease, opacity 0.5s ease;
-
 
     & h3 {
       @apply text-3xl mb-1 uppercase leading-tight font-semibold text-white;
@@ -95,28 +92,40 @@ export default {
   }
 
   & .arrow {
-    @apply absolute w-full h-full  bg-center bg-no-repeat opacity-0 transition-opacity duration-200 border border-white pointer-events-none;
+    @apply absolute w-full h-full bg-center bg-no-repeat opacity-0 transition-opacity duration-200 pointer-events-none;
 
     width: 76px;
-    height: 76px;
-    border-radius: 50%;
-    top:-10%;
-    background-size: 100% auto;
+    background-size: 20px auto;
 
     &.backward {
       @apply left-0;
 
-      background-image: url(~/static/icon/back-arrow.svg);
+      background-image: url(~/assets/icon/back-arrow.svg?inline);
     }
 
     &.forward {
       @apply right-0;
 
-      background-image: url(~/static/icon/arrow-right.svg);
+      background-image: url(~/assets/icon/arrow-right.svg?inline);
     }
 
     &.visible {
       @apply opacity-100 pointer-events-auto;
+    }
+  }
+}
+
+@media (max-width: theme('screens.md')) {
+  .slider {
+    & .project {
+      @apply w-auto ml-0;
+
+      left: 80px;
+      right: 80px;
+    }
+
+    & .arrow {
+      width: 50px;
     }
   }
 }

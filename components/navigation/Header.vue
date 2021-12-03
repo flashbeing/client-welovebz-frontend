@@ -1,59 +1,72 @@
 <template>
   <header>
-    <img
-      :src="require('~/assets/images/welovebz_logo.png')"
-      alt="WeLoveBZ Logo"
-      class="logo"
-    />
-    <div class="right-header">
-      <div class="lang-selector-container" @click="toggleShowSelector">
-        <span>{{ selectedLocale.toUpperCase() }}</span
-        ><Icon name="chevron-down" />
-        <div v-if="showSelector" class="lang-selector">
-          <ul>
-            <li v-for="l of locales" :key="l.name" @click="setLocale(l.name)">
-              {{ l.name.toUpperCase() }}
-            </li>
-          </ul>
+    <div class="center">
+      <img
+        :src="require('~/assets/images/welovebz_logo.png')"
+        alt="WeLoveBZ Logo"
+        class="logo"
+      />
+      <div class="right-header">
+        <div class="lang-selector-container" @click="toggleShowSelector">
+          <span>{{ selectedLocale.toUpperCase() }}</span
+          ><Icon name="chevron-down" />
+          <div v-if="showSelector" class="lang-selector">
+            <ul>
+              <li v-for="l of locales" :key="l.name" @click="setLocale(l.name)">
+                {{ l.name.toUpperCase() }}
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="nav-ct" :class="{ visible: visibleMenu }">
+          <nav>
+            <ul class="normal-menu">
+              <li
+                v-for="section of sections.firstSection"
+                :key="section.ref"
+                class="clickable"
+              >
+                <nuxt-link
+                  class="link"
+                  :to="localePath(section.path)"
+                  :title="section.name"
+                  @click.native="hideMenu()"
+                >
+                  <TitleHeading>{{ section.name }}</TitleHeading>
+                </nuxt-link>
+              </li>
+            </ul>
+            <!--<ul class="small-menu">
+              <li
+                v-for="section of sections.secondSection"
+                :key="section.ref"
+                class="clickable"
+              >
+                <nuxt-link
+                  class="link"
+                  :to="localePath(section.path)"
+                  :title="section.name"
+                  @click.native="hideMenu()"
+                >
+                  <TitleHeading :is-small="true">{{
+                    section.name
+                  }}</TitleHeading>
+                </nuxt-link>
+              </li>
+            </ul>-->
+          </nav>
+        </div>
+        <div
+          class="menu-bt clickable"
+          :class="{ opened: visibleMenu }"
+          @click="toggleMenuVisibility()"
+        >
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
         </div>
       </div>
-            <div class="nav-ct" :class="{ 'visible': visibleMenu }">
-              <nav>
-                <ul class="normal-menu">
-                  <li
-                    v-for="section of sections.firstSection"
-                    :key="section.ref"
-                    class="clickable"
-                  >
-                    <nuxt-link class="link" :to="localePath(section.path)" :title="section.name">
-                      <TitleHeading :span-custom-style="isSpanHidden" @mouseover.native="isSpanHidden = 'opacity:1'" @mouseleave.native="isSpanHidden = 'opacity:0'">{{ section.name }}</TitleHeading>
-                    </nuxt-link>
-                  </li>
-                  </ul>
-                <ul class="small-menu">
-                  <li
-                    v-for="section of sections.secondSection"
-                    :key="section.ref"
-                    class="clickable"
-                  >
-                    <nuxt-link class="link" :to="localePath(section.path)" :title="section.name">
-                      <TitleHeading :span-custom-style="isSpanHidden" @mouseover.native="isSpanHidden = 'opacity:1'" @mouseleave.native="isSpanHidden = 'opacity:0'">{{ section.name }}</TitleHeading>
-                    </nuxt-link>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          <div
-            class="menu-bt clickable"
-            :class="{ opened: visibleMenu }"
-            @click="toggleMenuVisibility()"
-          >
-            <div class="line"></div>
-            <div class="line"></div>
-            <div class="line"></div>
-          </div>
     </div>
-
   </header>
 </template>
 <script>
@@ -62,27 +75,26 @@ export default {
     return {
       showSelector: false,
       visibleMenu: false,
-      isSpanHidden: 'opacity:0',
       sections: {
         firstSection: [
           {
-            path: '/',
+            path: '/#intro',
             name: this.$t('page.homepage.firstSection.title'),
           },
           {
-            path: '/',
+            path: '/#countdown',
             name: this.$t('page.homepage.secondSection.title'),
           },
           {
-            path: '/',
+            path: '/#prizes',
             name: this.$t('page.homepage.thirdSection.title'),
           },
           {
-            path: '/',
+            path: '/#partner',
             name: this.$t('page.homepage.fourthSection.title'),
           },
           {
-            path: '/',
+            path: '/#sponsors',
             name: this.$t('page.homepage.fifthSection.title'),
           },
         ],
@@ -99,14 +111,15 @@ export default {
             path: '/',
             name: this.$t('common.contact'),
           },
-        ]
-      }
+        ],
+      },
     }
   },
   computed: {
     selectedLocale() {
       return this.$i18n.locale
     },
+
     locales() {
       const locales = []
       for (const l of this.$i18n.locales) {
@@ -117,13 +130,16 @@ export default {
       return locales
     },
   },
+
   methods: {
     toggleShowSelector() {
       this.showSelector = !this.showSelector
     },
+
     setLocale(lang) {
       this.$i18n.setLocale(lang)
     },
+
     toggleMenuVisibility() {
       this.visibleMenu = !this.visibleMenu
     },
@@ -136,14 +152,19 @@ export default {
 </script>
 <style lang="postcss" scoped>
 header {
-  @apply bg-primary flex justify-between items-center p-8;
+  @apply bg-primary;
 
-  & > .logo {
-    width: 300px;
+  & .center {
+    @apply flex justify-between items-center py-8;
+  }
+
+  & .logo {
+    width: 240px;
   }
 
   & .right-header {
     @apply p-4 bg-black text-white font-bold flex items-center gap-5 relative cursor-pointer;
+
     & .nav-ct {
       @apply z-10 fixed right-0 bottom-0 left-0 bg-black float-none text-white opacity-0 transition duration-200 pointer-events-none;
 
@@ -156,7 +177,10 @@ header {
 
       & nav {
         @apply block text-3xl mt-8 mb-10 text-center;
+
         & .normal-menu {
+          @apply pt-14;
+
           & li {
             @apply block leading-none mb-6 cursor-pointer;
 
@@ -169,6 +193,7 @@ header {
             }
           }
         }
+
         & .small-menu {
           @apply py-10;
 
@@ -185,13 +210,15 @@ header {
           }
         }
       }
+
       &.visible {
         @apply opacity-100 cursor-default pointer-events-auto;
 
         transform: none;
       }
     }
-    & > .lang-selector-container {
+
+    & .lang-selector-container {
       @apply gap-2;
 
       & path {
@@ -221,7 +248,7 @@ header {
       @apply relative z-10 block;
 
       width: 30px;
-      height: auto;
+      height: 20px;
       transition: transform 0.5s ease;
 
       & > .line {
@@ -229,7 +256,6 @@ header {
 
         height: 1px;
         margin-bottom: 8px;
-        border-radius: 1px;
         transform-origin: 50%;
         transition: transform 0.5s ease, opacity 0.5s ease;
 
@@ -245,7 +271,7 @@ header {
 
         & > .line {
           &:first-child {
-            transform: rotate(45deg) translateY(14px);
+            transform: rotate(45deg) translateY(13px);
           }
 
           &:nth-child(2) {
@@ -253,7 +279,7 @@ header {
           }
 
           &:last-child {
-            transform: rotate(-45deg) translateY(-14px);
+            transform: rotate(-45deg) translateY(-13px);
           }
         }
       }
@@ -262,13 +288,20 @@ header {
 }
 @media (max-width: theme('screens.md')) {
   header {
-    @apply p-4;
-
-    & > .logo {
-      width: 200px;
+    & .logo {
+      width: 160px;
     }
+
     & .right-header {
       @apply p-3 gap-3;
+
+      & .nav-ct {
+        & nav {
+          & .normal-menu {
+            @apply pt-20;
+          }
+        }
+      }
 
       & > .lang-selector-container {
         @apply p-0;

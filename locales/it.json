@@ -4,17 +4,63 @@
     "christmas": "christmas",
     "surprise": "surprise",
     "at": "@BZ",
-    "website": "welove.bz"
+    "website": "welove.bz",
+    "search": "Deine Losnummer",
+    "rules": "Regolamento",
+    "impressum": "Note legali",
+    "contact": "Contatti"
+  },
+  "page": {
+    "homepage": {
+      "heading": {
+        "title": "A new christmas chance ",
+        "subtitle": "Gioco a premi fino al 8.1.2022",
+        "secondTitle": "oltre 400 premi",
+        "mainPrize": "Primo premio"
+      },
+      "firstSection": {
+        "title": "Gioco a premi",
+        "firstParagraph": {
+          "text": "Partecipa anche tu alla prima grande {bold} di Bolzano – un’iniziativa nata grazie alla collaborazione del Comune di Bolzano, delle associazioni di categoria e dell’Azienda di Soggiorno e Turismo di Bolzano.",
+          "bold": "Christmas Chance"
+        },
+        "secondParagraph": {
+          "text": "Per ogni {bold} in su effettuato presso {link}, riceverai un biglietto con cui partecipare alle estrazioni.",
+          "bold": "acquisto dai 15 Euro",
+          "link": "i partner convenzionati"
+        }
+      },
+      "secondSection": {
+        "title": "Estrazione",
+        "firstParagraph": {
+          "text": "all’{bold},{newline}che avrà luogo {link}.",
+          "bold": "estrazione",
+          "link": "qui"
+        },
+        "button": "Lista dei numeri vincenti"
+      },
+      "thirdSection": {
+        "title": "Premi",
+        "button": "und 400 altri premi in totale..."
+      },
+      "fourthSection": {
+        "title": "Partner",
+        "button": "Qui trovi i biglietti"
+      },
+      "fifthSection": {
+        "title": "Sponsor"
+      }
+    }
   },
   "project": {
     "details": [
-      "è un’iniziativa della città di Bolzano che unisce per la prima volta, attraverso il sostegno del Comune, tutte le associazioni di categoria e l’Azienda di Soggiorno.",
-      "Vogliamo rendere Bolzano ancora più attrattiva con nuove idee, eventi e progetti concreti."
+      "ist eine Initiative der <strong>Stadt Bozen</strong>, die mit Unterstützung der Gemeinde zum ersten Mal <strong>alle Wirtschaftsverbände</strong> sowie das <strong>Verkehrsamt</strong> vereint.",
+      "Mit vielen <strong>neuen Ideen</strong> und <strong>diversen Aktionen</strong> wird das erlebnisreiche und vielfältige Bozen weiter nach vorne gebracht."
     ],
-    "beSurprised": "Lasciatevi sorprendere dalla nostra nuova proposta natalizia!"
+    "beSurprised": "Lasst euch von der neuen Weihnachtsaktion überraschen!"
   },
   "footer": {
-    "company": "Verkehrsamt der Stadt Bozen | Azienda di Soggiorno e Turismo di Bolzano",
+    "company": "Azienda di Soggiorno e Turismo di Bolzano",
     "hds": "hds unione",
     "hgv": "HGV",
     "confesercenti": "Confesercenti",

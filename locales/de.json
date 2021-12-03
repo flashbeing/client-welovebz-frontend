@@ -14,19 +14,20 @@
     "homepage": {
       "heading": {
         "title": "A new christmas chance ",
-        "subtitle": "Gewinnspiel bis zum 8.1.2020",
-        "secondTitle": "mehr als 400 Preise"
+        "subtitle": "Gewinnspiel bis zum 8.1.2022",
+        "secondTitle": "mehr als 400 Preise",
+        "mainPrize": "Hauptpreis"
       },
       "firstSection": {
         "title": "Gewinnspiel",
         "firstParagraph": {
           "text": "Mach mit bei der ersten großen {bold} von Bozen – einer Aktion, die dank der Zusammenarbeit der Stadt Bozen, den Wirtschaftsverbänden und dem Verkehrsamt Bozen entstanden ist.",
-          "bold" : "Christmas Chance"
+          "bold": "Christmas Chance"
         },
         "secondParagraph": {
-          "text":"Ab einem {bold} in den {link} erhälst du ein Los und kannst an den Verlosungen teilnehmen.",
+          "text": "Ab einem {bold} in den {link} erhälst du ein Los und kannst an den Verlosungen teilnehmen.",
           "bold": "Einkauf von 15 Euro",
-          "link" : "Einkauf von 15 Euro"
+          "link": "teilnehmenden Betrieben"
         }
       },
       "secondSection": {
@@ -59,7 +60,7 @@
     "beSurprised": "Lasst euch von der neuen Weihnachtsaktion überraschen!"
   },
   "footer": {
-    "company": "Verkehrsamt der Stadt Bozen | Azienda di Soggiorno e Turismo di Bolzano",
+    "company": "Verkehrsamt der Stadt Bozen",
     "hds": "hds unione",
     "hgv": "HGV",
     "confesercenti": "Confesercenti",

@@ -13,7 +13,8 @@
           v-for="item of markers"
           :key="item.name"
           :clickable="true"
-          :position="item"
+          :position="{ lat: Number(item.lat), lng: Number(item.lng) }"
+          @click="showLocation(item)"
         />
       </GmapMap>
     </div>
@@ -22,11 +23,11 @@
 
 <script>
 export default {
-  name: "Map",
+  name: 'Map',
   props: {
     markers: {
       type: Array,
-      required: true
+      required: true,
     },
     zoom: {
       type: Number,
@@ -49,9 +50,21 @@ export default {
     },
     mapType: {
       type: String,
-      default: 'terrain'
+      default: 'terrain',
     },
-  }
+  },
+
+  methods: {
+    showLocation(location) {
+      const newWin = window.open(
+        'https://www.google.com/maps/search/?api=1&query=' +
+          location.lat +
+          ',' +
+          location.lng
+      )
+      newWin.focus()
+    },
+  },
 }
 </script>
 <style lang="postcss" scoped>
@@ -62,7 +75,7 @@ export default {
   z-index: 1;
 
   & .map {
-    height: 80vh;
+    height: 400px;
     width: 100%;
     min-height: 500px;
   }

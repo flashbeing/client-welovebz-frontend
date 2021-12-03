@@ -1,140 +1,166 @@
 <template>
   <div class="main-container">
-    <ul :class="{'is-footer': isFooter}">
-      <li
-        v-for="(item, index) of partners"
-        :key="index"
-      >
-        <a :href="item.link">{{ item.name }}</a>
-      </li>
-    </ul>
-    <div class="icons-container">
-      <a
-        v-for="(item, index) of icons"
-        :key="index"
-        :href="item.link"
-      >
-        <Icon :name="item.name" />
-      </a>
+    <div class="center">
+      <ul :class="{ 'is-footer': isFooter }">
+        <li v-for="(item, index) of partners" :key="index">
+          <span class="sep">• </span
+          ><a :href="item.link" target="_blank">{{ item.name }}</a>
+        </li>
+      </ul>
+      <div class="icons-container">
+        <a
+          v-for="(item, index) of icons"
+          :key="index"
+          :href="item.link"
+          class="social"
+        >
+          <Icon :name="item.name" />
+        </a>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "PartnersList",
+  name: 'PartnersList',
   props: {
     isFooter: {
       type: Boolean,
-      default: false
-    }
+      default: false,
+    },
   },
+
   data() {
     return {
       icons: [
         {
           name: 'facebook',
-          link: 'https://facebook.com'
+          link: 'https://facebook.com',
         },
         {
           name: 'instagram',
-          link: 'https://instagram.com'
-        }
+          link: 'https://instagram.com',
+        },
       ],
-      partners: [
-        {
-          name: 'Verkehrsamt der Stadt Bozen | Azienda di Soggiorno e Turismo di Bolzano',
-          link: '#'
-        },
-        {
-          name: 'hds unione',
-          link: '#'
-        },
-        {
-          name: 'HGV',
-          link: '#'
-        },
-        {
-          name: 'Conferscenti',
-          link: '#'
-        },
-        {
-          name: 'CNA-SHV',
-          link: '#'
-        },
-        {
-          name: 'lvh.apa',
-          link: '#'
-        }
-      ]
     }
-  }
+  },
+
+  computed: {
+    partners() {
+      return [
+        {
+          name: this.$t('footer.company'),
+          link: 'https://www.bolzano-bozen.it/en/',
+        },
+        {
+          name: this.$t('footer.hds'),
+          link: 'https://www.unione-bz.it/it/home/1-0.html',
+        },
+        {
+          name: this.$t('footer.hgv'),
+          link: 'https://www.hgv.it/de/',
+        },
+        {
+          name: this.$t('footer.confesercenti'),
+          link: 'https://www.commercianti.bz.it/',
+        },
+        {
+          name: this.$t('footer.cnaShv'),
+          link: 'http://www.shv.cnabz.com/index.php/it/',
+        },
+        {
+          name: this.$t('footer.lvh'),
+          link: 'https://www.lvh.it/it/',
+        },
+      ]
+    },
+  },
 }
 </script>
 
 <style lang="postcss" scoped>
 .main-container {
-  @apply flex items-center bg-secondary text-white text-right px-6 py-3;
+  @apply bg-secondary text-white;
 
-  & > ul {
-    @apply inline-flex list-disc list-inside justify-center;
-
-    width: 90%;
-
-    & > li {
-      @apply list-item px-2;
-
-      font-size: 1vw;
-
-      &:first-child {
-        @apply list-none;
-      }
-
-      & > a {
-        @apply pr-3;
-
-        &:hover {
-          @apply underline;
-        }
-      }
-    }
-  }
-
-  & > .icons-container {
-    @apply inline-flex items-center justify-end;
-
-    width: 10%;
-
-    & svg {
-      @apply fill-current;
-
-      width: 30px;
-      height: 30px;
-    }
-  }
-}
-@media (max-width: theme('screens.md')) {
-  .main-container {
-    @apply flex-col;
+  & .center {
+    @apply flex items-center py-2;
 
     & > ul {
-      @apply flex-col items-start;
+      @apply inline-block;
 
-      width: 100%;
-
-      &.is-footer {
-        display:none;
-      }
+      width: calc(100% - 80px);
 
       & > li {
-        @apply text-base text-left;
+        @apply inline-block text-sm;
+
+        &:first-child {
+          & .sep {
+            @apply hidden;
+          }
+        }
+
+        & > a {
+          @apply pr-3;
+
+          &:hover {
+            @apply underline;
+          }
+        }
       }
     }
 
     & > .icons-container {
-      @apply flex justify-end mt-2;
+      @apply inline-block;
 
-      width: 100%;
+      width: 80px;
+
+      & .social {
+        @apply inline-block text-center;
+
+        width: 40px;
+        height: 40px;
+
+        & svg {
+          @apply fill-current;
+
+          width: 30px;
+          height: 30px;
+          margin-top: 5px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: theme('screens.md')) {
+  .main-container {
+    & .center {
+      @apply flex-col;
+
+      & > ul {
+        @apply flex-col items-start;
+
+        width: 100%;
+
+        &.is-footer {
+          display: none;
+        }
+
+        &:not(.is-footer) {
+          @apply mt-8;
+        }
+
+        & > li {
+          @apply text-base text-left;
+        }
+      }
+
+      & > .icons-container {
+        @apply flex justify-end mt-2;
+
+        width: 100%;
+      }
     }
   }
 }
