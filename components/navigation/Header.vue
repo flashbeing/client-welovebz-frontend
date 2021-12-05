@@ -36,24 +36,24 @@
                 </nuxt-link>
               </li>
             </ul>
-            <!--<ul class="small-menu">
+            <ul class="small-menu">
               <li
                 v-for="section of sections.secondSection"
                 :key="section.ref"
                 class="clickable"
               >
-                <nuxt-link
+                <a
                   class="link"
-                  :to="localePath(section.path)"
+                  :href="section.path"
                   :title="section.name"
-                  @click.native="hideMenu()"
+                  target="_blank"
                 >
                   <TitleHeading :is-small="true">{{
                     section.name
                   }}</TitleHeading>
-                </nuxt-link>
+                </a>
               </li>
-            </ul>-->
+            </ul>
           </nav>
         </div>
         <div
@@ -75,7 +75,12 @@ export default {
     return {
       showSelector: false,
       visibleMenu: false,
-      sections: {
+    }
+  },
+
+  computed: {
+    sections() {
+      return {
         firstSection: [
           {
             path: '/#intro',
@@ -100,22 +105,21 @@ export default {
         ],
         secondSection: [
           {
-            path: '/',
+            path: '/pdf/regulation-' + this.selectedLocale + '.pdf',
             name: this.$t('common.rules'),
           },
           {
-            path: '/',
+            path: '/pdf/impressum.pdf',
             name: this.$t('common.impressum'),
           },
           {
-            path: '/',
+            path: '/pdf/contacts.pdf',
             name: this.$t('common.contact'),
           },
         ],
-      },
-    }
-  },
-  computed: {
+      }
+    },
+
     selectedLocale() {
       return this.$i18n.locale
     },

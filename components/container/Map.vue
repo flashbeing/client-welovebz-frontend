@@ -11,7 +11,7 @@
       >
         <gmap-marker
           v-for="item of markers"
-          :key="item.name"
+          :key="item.name + '-' + item.lat + '-' + item.lng"
           :clickable="true"
           :position="{ lat: Number(item.lat), lng: Number(item.lng) }"
           @click="showLocation(item)"

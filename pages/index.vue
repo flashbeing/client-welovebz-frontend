@@ -59,7 +59,7 @@
         <div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>
-        <i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
+        <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
           <template #bold>
             <b class="text-primary">{{
               $t('page.homepage.secondSection.firstParagraph.bold')
@@ -73,7 +73,7 @@
               $t('page.homepage.secondSection.firstParagraph.link')
             }}</a>
           </template>
-        </i18n>
+        </i18n>-->
         <Accordion
           v-if="isCountdownOver"
           :button="$t('page.homepage.secondSection.button')"
@@ -131,7 +131,7 @@
           $t('page.homepage.fourthSection.title')
         }}</TitleHeading>
         <Map
-          :markers="stores"
+          :markers="stores.all"
           :center="{ lat: 46.4892313, lng: 11.3121382 }"
           :options="options"
           map-type="roadmap"
@@ -141,8 +141,15 @@
           :is-green="true"
         >
           <div>
-            <p v-for="(item, index) of stores" :key="index">
-              {{ item.name }}
+            <p v-for="store in stores.unique" :key="store.name">
+              <a
+                :href="
+                  'https://' +
+                  store.website.replace('http://', '').replace('https://', '')
+                "
+                target="_blank"
+                >{{ store.name }}</a
+              >
             </p>
           </div>
         </Accordion>
@@ -165,7 +172,8 @@
   </main>
 </template>
 <script>
-import mainDataset from '~/static/data/main.json'
+import prizesData from '~/static/data/prizes.json'
+import shopsData from '~/static/data/shops.json'
 
 export default {
   data() {
@@ -259,7 +267,7 @@ export default {
     },
 
     prizes() {
-      return mainDataset.map((d) => ({
+      return prizesData.map((d) => ({
         name: d.name,
         description: d['prize-' + this.$i18n.locale],
       }))
@@ -267,19 +275,30 @@ export default {
 
     stores() {
       const printed = {}
-      const stores = []
-      mainDataset.forEach((d) => {
+      const all = []
+      const unique = []
+
+      shopsData.forEach((d) => {
         const storeName = d.name.trim()
+        const storeData = {
+          name: storeName,
+          lat: d.lat,
+          lng: d.lng,
+          website: d.website,
+        }
+
+        all.push(storeData)
+
         if (!printed[storeName]) {
           printed[storeName] = true
-          stores.push({
-            name: storeName,
-            lat: d.lat,
-            lng: d.lng,
-          })
+          unique.push(storeData)
         }
       })
-      return stores
+
+      return {
+        all,
+        unique,
+      }
     },
   },
 }

@@ -1,0 +1,968 @@
+[
+  {
+    "name": " Profumerie Ferrari",
+    "lat": "46.4979669",
+    "lng": "11.3495255",
+    "website": "www.profumeriaferrari.it"
+  },
+  {
+    "name": "Al Torchio ",
+    "lat": "46.4996963",
+    "lng": "11.3501979",
+    "website": "www.casaaltorchio.com"
+  },
+  {
+    "name": "Ara Shoes ",
+    "lat": "46.4978897",
+    "lng": "11.3515875",
+    "website": "www.ara-shoes.de"
+  },
+  {
+    "name": "Arts and Crafts ",
+    "lat": "46.5000031",
+    "lng": "11.3503076",
+    "website": "http://www.artsandcrafts.it"
+  },
+  {
+    "name": "Arts and Crafts ",
+    "lat": "46.4937993",
+    "lng": "11.355643",
+    "website": "http://www.artsandcrafts.it"
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bz",
+    "lat": "46.4953519",
+    "lng": "11.352808",
+    "website": "www.bolzano-bozan.it"
+  },
+  {
+    "name": "B&R Service ",
+    "lat": "46.4756992",
+    "lng": "11.3223646",
+    "website": "www.brservice.it"
+  },
+  {
+    "name": "Bar Birreria Romagnolo",
+    "lat": "46.4898891",
+    "lng": "11.3343352",
+    "website": "www.barromagnolo.it"
+  },
+  {
+    "name": "Bau-Tec",
+    "lat": "46.4968278",
+    "lng": "11.3420689",
+    "website": "www.bau-tec.it"
+  },
+  {
+    "name": "Boma sel Laboratorio Druso",
+    "lat": "46.4936047",
+    "lng": "11.3365057",
+    "website": "www.gruppobonvicini.it"
+  },
+  {
+    "name": "Brasolin Auto srl",
+    "lat": "46.4686623",
+    "lng": "11.3296605",
+    "website": "www.brasolinauto.it"
+  },
+  {
+    "name": "Bressan snc",
+    "lat": "46.4949099",
+    "lng": "11.3447383",
+    "website": "www.fratellibressan.it"
+  },
+  {
+    "name": "Bricocenter Straudi s.p.a",
+    "lat": "46.4934301",
+    "lng": "11.3576883",
+    "website": "www.bricocenter.it"
+  },
+  {
+    "name": "Buratti snc",
+    "lat": "46.4990087",
+    "lng": "11.3393224",
+    "website": "www.buratti.it"
+  },
+  {
+    "name": "Buratti snc",
+    "lat": "46.4875701",
+    "lng": "11.3182515",
+    "website": "www.buratti.it"
+  },
+  {
+    "name": " Rubatscher ",
+    "lat": "46.4996807",
+    "lng": "11.3528341",
+    "website": "https://www.moderubatscher.com"
+  },
+  {
+    "name": "Cafe Meraner ",
+    "lat": "46.5002997",
+    "lng": "11.3545419",
+    "website": "www.meraners.com"
+  },
+  {
+    "name": "Calzature due leoni",
+    "lat": "46.5013594",
+    "lng": "11.3402207",
+    "website": "http://www.calzaturedueleoni.it/it/negozi.htm"
+  },
+  {
+    "name": "Cartotoys (top giochi snc)",
+    "lat": "46.491974",
+    "lng": "11.3305635",
+    "website": "http://www.cartotoys.it"
+  },
+  {
+    "name": "Castel Flavon srl",
+    "lat": "46.4767723",
+    "lng": "11.3413616",
+    "website": "https://www.haselburg.it"
+  },
+  {
+    "name": "Commercio in Piazza",
+    "lat": "46.4903897",
+    "lng": "11.3394882",
+    "website": "https://www.facebook.com/commercioinpiazzaaltoadige"
+  },
+  {
+    "name": "CORRADINI  ",
+    "lat": "46.4992197",
+    "lng": "11.3526767",
+    "website": "https://www.corradini.bz"
+  },
+  {
+    "name": "Crea.s der Enderle Sarah",
+    "lat": "46.4989023",
+    "lng": "11.3546271",
+    "website": "https://www.creasvintage.com"
+  },
+  {
+    "name": "Daisy Clean Srl",
+    "lat": "46.500371",
+    "lng": "11.3591491",
+    "website": "https://www.daisy-clean.com"
+  },
+  {
+    "name": "Daisy Clean Srl",
+    "lat": "46.5026877",
+    "lng": "11.329801",
+    "website": "https://www.daisy-clean.com"
+  },
+  {
+    "name": "Deco-Spar KG",
+    "lat": "46.4998931",
+    "lng": "11.3577053",
+    "website": "https://www.decospar.com"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4911703",
+    "lng": "11.3299363",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.5010121",
+    "lng": "11.3592243",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4832387",
+    "lng": "11.3413343",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.5023369",
+    "lng": "11.3350089",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.5023369",
+    "lng": "11.3350089",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.5000657",
+    "lng": "11.354808",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.5001235",
+    "lng": "11.3399885",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4997",
+    "lng": "11.3501979",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4865597",
+    "lng": "11.3228369",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4888639",
+    "lng": "11.3188209",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4992234",
+    "lng": "11.3578931",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4950338",
+    "lng": "11.3262203",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4816064",
+    "lng": "11.3166245",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "DESPAR",
+    "lat": "46.4810041",
+    "lng": "11.3386664",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "Eccel Decorona ",
+    "lat": "46.5001079",
+    "lng": "11.3528686",
+    "website": "https://www.eccel.it"
+  },
+  {
+    "name": "Eccel Decorona ",
+    "lat": "46.5000824",
+    "lng": "11.3495664",
+    "website": "https://www.eccel.it"
+  },
+  {
+    "name": "Elena hair snc",
+    "lat": "46.4918824",
+    "lng": "11.3339165",
+    "website": "https://www.elenahair.it/wptest"
+  },
+  {
+    "name": "Enoteca Gandolfi ",
+    "lat": "46.4937556",
+    "lng": "11.3099532",
+    "website": "https://www.gandolfi.bz.it"
+  },
+  {
+    "name": "Erbavoglio Trevisan Antonella",
+    "lat": "46.4923302",
+    "lng": "11.3394522",
+    "website": "https://www.facebook.com/pages/category/Costume-Shop/Erbavoglio-e-Erbavoglio-2-1439235403052140"
+  },
+  {
+    "name": "Erbavoglio Trevisan Antonella",
+    "lat": "46.5013519",
+    "lng": "11.3385638",
+    "website": "https://www.facebook.com/pages/category/Costume-Shop/Erbavoglio-e-Erbavoglio-2-1439235403052140"
+  },
+  {
+    "name": "Esprit",
+    "lat": "46.4995517",
+    "lng": "11.3516695",
+    "website": "https://www.espritshop.it"
+  },
+  {
+    "name": "Etrebelle di Burato ",
+    "lat": "46.4917508",
+    "lng": "11.3382084",
+    "website": "https://www.shopetrebelle.it"
+  },
+  {
+    "name": "EUROSPAR",
+    "lat": "46.4867065",
+    "lng": "11.3351347",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "EUROSPAR",
+    "lat": "46.4928173",
+    "lng": "11.3304441",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "EUROSPAR",
+    "lat": "46.4881658",
+    "lng": "11.3149546",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "EUROSPAR",
+    "lat": "46.4933688",
+    "lng": "11.3378759",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "EUROSPAR",
+    "lat": "46.499916",
+    "lng": "11.34792",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "EUROSPAR",
+    "lat": "46.4942073",
+    "lng": "11.3091425",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "Exit Dermokapil ",
+    "lat": "46.4964614",
+    "lng": "11.3362684",
+    "website": "https://www.facebook.com/saloneestetista"
+  },
+  {
+    "name": "Rest.Pizzeria Nussbaumer",
+    "lat": "46.5006975",
+    "lng": "11.3547362",
+    "website": "https://www.pizzerianussbaumer.it"
+  },
+  {
+    "name": "Farmacia Fago",
+    "lat": "46.506844",
+    "lng": "11.3365216",
+    "website": "https://www.farmaciafago.it"
+  },
+  {
+    "name": "Farmacia Bonvicinio",
+    "lat": "46.4885907",
+    "lng": "11.3237996",
+    "website": "www.gruppobonvicini.it"
+  },
+  {
+    "name": "Farmacia Bonvicinio",
+    "lat": "46.4949243",
+    "lng": "11.3369482",
+    "website": "www.gruppobonvicini.it"
+  },
+  {
+    "name": "Farmacia st.Magdalena Apotheke",
+    "lat": "46.4969232",
+    "lng": "11.3653595",
+    "website": "https://www.paginegialle.it/farmaciastmagdalena"
+  },
+  {
+    "name": "Ferramenta Zanoni ",
+    "lat": "46.4914551",
+    "lng": "11.3382595",
+    "website": "https://www.facebook.com/ferramentazanoni"
+  },
+  {
+    "name": "Optik Fielmann",
+    "lat": "46.4996406",
+    "lng": "11.3492585",
+    "website": "www.fielmann.it"
+  },
+  {
+    "name": "Fiori New Prafiori",
+    "lat": "46.490171",
+    "lng": "11.3262505",
+    "website": "www.prafiori-lab.it"
+  },
+  {
+    "name": "Foto Gatti ",
+    "lat": "46.4896569",
+    "lng": "11.3288934",
+    "website": "www.fotogattibz.com"
+  },
+  {
+    "name": "Frame shop",
+    "lat": "46.4916732",
+    "lng": "11.3371091",
+    "website": "www.frameshop.it"
+  },
+  {
+    "name": "Mercerie Fuganti Le Scalette",
+    "lat": "46.4905933",
+    "lng": "11.3359453",
+    "website": "http://www.merceriebolzano.it"
+  },
+  {
+    "name": "Gastro drink KG",
+    "lat": "46.4936775",
+    "lng": "11.3670348",
+    "website": "www.gastrodrink.it"
+  },
+  {
+    "name": "Gioielleria Bonaldi",
+    "lat": "46.4918986",
+    "lng": "11.3313252",
+    "website": "www.gioielleriabonaldi.it"
+  },
+  {
+    "name": "Gioielleria Resia ",
+    "lat": "46.4869846",
+    "lng": "11.316266",
+    "website": "www.gioielleriaresia.it"
+  },
+  {
+    "name": "Globus ",
+    "lat": "46.5854246",
+    "lng": "11.1879639",
+    "website": "https://www.globus-mode.com"
+  },
+  {
+    "name": "Goldschmiede Mair",
+    "lat": "46.5716328",
+    "lng": "11.2860186",
+    "website": "https://www.gioielleriagoldschmiedemair.it"
+  },
+  {
+    "name": "Grifoncino cocktail bar",
+    "lat": "46.4983367",
+    "lng": "11.3534654",
+    "website": "www.grifoncino.it"
+  },
+  {
+    "name": "Spielwaren Gutweniger ",
+    "lat": "46.5003911",
+    "lng": "11.3534188",
+    "website": "www.gutweniger.net"
+  },
+  {
+    "name": "Home Living ",
+    "lat": "46.4931908",
+    "lng": "11.3717195",
+    "website": "www.home-living.it"
+  },
+  {
+    "name": "Hopfen&co. Bozner Bräu ",
+    "lat": "46.4992914",
+    "lng": "11.3503616",
+    "website": "www.boznerbier.it"
+  },
+  {
+    "name": "FOUR POINT SHERATON",
+    "lat": "46.4718501",
+    "lng": "11.3226049",
+    "website": "www.fourpointsbolzano.it"
+  },
+  {
+    "name": "Hotel Magdalenerhof ",
+    "lat": "46.4981727",
+    "lng": "11.3736147",
+    "website": "www.magdalenerhof.it"
+  },
+  {
+    "name": " Parkhotel Laurin",
+    "lat": "46.4987835",
+    "lng": "11.3547966",
+    "website": "www.laurin.it"
+  },
+  {
+    "name": "Imagink",
+    "lat": "46.4743156",
+    "lng": "11.3245086",
+    "website": "www.imagink.it"
+  },
+  {
+    "name": "Imbiss Kampill",
+    "lat": "46.4950523",
+    "lng": "11.3721361",
+    "website": "www.imbiss-kampill.it"
+  },
+  {
+    "name": "INTERSPAR",
+    "lat": "46.4697008",
+    "lng": "11.320165",
+    "website": "https://www.despar.it"
+  },
+  {
+    "name": "INTIMISSIMI Centro Storico/Altstadt",
+    "lat": "46.4996346",
+    "lng": "11.3496575",
+    "website": "www.intimissimi.com"
+  },
+  {
+    "name": "INTIMISSIMI Centro Storico/Altstadt",
+    "lat": "46.4996346",
+    "lng": "11.3496575",
+    "website": "www.intimissimi.com"
+  },
+  {
+    "name": "Italia&Amore",
+    "lat": "46.4989542",
+    "lng": "11.3520649",
+    "website": "https://www.italiaamore.it/it/ristorante-mercato-enoteca-italiaamore-1.html"
+  },
+  {
+    "name": "Itas Bolzano agenzia di assicurazioni srl",
+    "lat": "46.4704543",
+    "lng": "11.3236184",
+    "website": "https://www.gruppoitas.it/homepage"
+  },
+  {
+    "name": "Itas Bolzano agenzia di assicurazioni srl",
+    "lat": "46.4990546",
+    "lng": "11.3488502",
+    "website": "https://www.gruppoitas.it/homepage"
+  },
+  {
+    "name": "Joli Nails & Beauty",
+    "lat": "46.4927532",
+    "lng": "11.3308774",
+    "website": "https://www.jolinailsebeauty.it/de/home"
+  },
+  {
+    "name": "Kellerei Bozen",
+    "lat": "46.501341",
+    "lng": "11.3095124",
+    "website": "www.kellereibozen.com"
+  },
+  {
+    "name": "Kiki Bakery",
+    "lat": "46.5006261",
+    "lng": "11.3544916",
+    "website": "https://kiki-bakerylab.business.site/"
+  },
+  {
+    "name": "Kindermode Kastner",
+    "lat": "46.4995897",
+    "lng": "11.3534442",
+    "website": "www.kindermodekastner.it"
+  },
+  {
+    "name": "Malika",
+    "lat": "46.4982981",
+    "lng": "11.3503815",
+    "website": "http://www.malika.bz.it/"
+  },
+  {
+    "name": "Kiro's - Balzari sas",
+    "lat": "46.4995531",
+    "lng": "11.3504428",
+    "website": "www.kiros.bz.it"
+  },
+  {
+    "name": "Kiro's - Balzari sas",
+    "lat": "46.4999374",
+    "lng": "11.348402",
+    "website": "www.kiros.bz.it"
+  },
+  {
+    "name": "Coop Supermercato ",
+    "lat": "46.4939577",
+    "lng": "11.3681335",
+    "website": "www.coopbz.it"
+  },
+  {
+    "name": "Coop Supermercato ",
+    "lat": "46.4982012",
+    "lng": "11.3521494",
+    "website": "www.coopbz.it"
+  },
+  {
+    "name": "La culla - Baby Land",
+    "lat": "46.4695616",
+    "lng": "11.3330804",
+    "website": "www.laculla.com"
+  },
+  {
+    "name": "La Lanterna sas",
+    "lat": "46.4945007",
+    "lng": "11.3336746",
+    "website": "https://www.pizzeria-lalanterna.it/"
+  },
+  {
+    "name": "Lady 900",
+    "lat": "46.4938271",
+    "lng": "11.3335906",
+    "website": "https://www.facebook.com/Salone-Lady-900-di-Betta-Manuela-464862417002561/"
+  },
+  {
+    "name": "Le Coccinelle ",
+    "lat": "46.4873407",
+    "lng": "11.3452188",
+    "website": "https://www.facebook.com/LeCoccinelleTabaccheria/"
+  },
+  {
+    "name": "Trony",
+    "lat": "46.4914643",
+    "lng": "11.3123267",
+    "website": "www.tronybolzano.it"
+  },
+  {
+    "name": "Libreria Librarsi ",
+    "lat": "46.4897078",
+    "lng": "11.3285528",
+    "website": "https://www.facebook.com/librerialibrarsiBZ"
+  },
+  {
+    "name": "Lilly Intimo ",
+    "lat": "46.5012985",
+    "lng": "11.3523378",
+    "website": "https://www.facebook.com/pages/category/Lingerie---Underwear-Store/Lilly-Intimo-556043527929202/"
+  },
+  {
+    "name": "Luna's cafè",
+    "lat": "46.5003675",
+    "lng": "11.3473315",
+    "website": "https://www.facebook.com/pages/category/Bar/Lunas-Caf%C3%A8-108049964097440/"
+  },
+  {
+    "name": "Madonna Apotheke ",
+    "lat": "46.4996122",
+    "lng": "11.3532453",
+    "website": "www.farmaciamadonna.com"
+  },
+  {
+    "name": "MAX MARA",
+    "lat": "46.4996527",
+    "lng": "11.3512587",
+    "website": "https://it.maxmara.com/store/0125001?utm_source=GMB&utm_medium=link&utm_campaign=yext&utm_content=0125001&y_source=1_MTI1MTA5MTUtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl"
+  },
+  {
+    "name": "MAX & CO",
+    "lat": "46.499822",
+    "lng": "11.3492505",
+    "website": "https://it.maxandco.com/store/0125002"
+  },
+  {
+    "name": "Melody Intimo",
+    "lat": "46.4913501",
+    "lng": "11.3303555",
+    "website": "https://it-it.facebook.com/mariapia.cina.16/"
+  },
+  {
+    "name": "Merceria Rita",
+    "lat": "46.4917338",
+    "lng": "11.3304829",
+    "website": "http://www.fouryou.it/merceria-rita-680-it.htm"
+  },
+  {
+    "name": "Nail Art",
+    "lat": "46.4998268",
+    "lng": "11.3503403",
+    "website": "https://nailart.business.site/"
+  },
+  {
+    "name": "Novalux ",
+    "lat": "46.4851516",
+    "lng": "11.339154",
+    "website": "www.novaluxzbz.it"
+  },
+  {
+    "name": "Oberrauch Zitt ",
+    "lat": "46.4995587",
+    "lng": "11.3507876",
+    "website": "https://www.oberrauch-zitt.com"
+  },
+  {
+    "name": "Optik Walter ",
+    "lat": "46.499653",
+    "lng": "11.3535655",
+    "website": "www.walter.it"
+  },
+  {
+    "name": "Ottica Gianni",
+    "lat": "46.489456",
+    "lng": "11.3305072",
+    "website": "www.otticagianni.it"
+  },
+  {
+    "name": "P 8",
+    "lat": "46.4998129",
+    "lng": "11.3538763",
+    "website": "https://www.porticusp8.com/"
+  },
+  {
+    "name": "Palais Moire gmbh",
+    "lat": "46.499951",
+    "lng": "11.350764",
+    "website": "www.moire.fashion"
+  },
+  {
+    "name": "smartys Moire",
+    "lat": "46.5002747",
+    "lng": "11.3513917",
+    "website": "www.moire.fashion"
+  },
+  {
+    "name": "Parfümerie Elisabeth",
+    "lat": "46.5019122",
+    "lng": "11.3354494",
+    "website": "https://parfumerieelisabeth.wordpress.com/"
+  },
+  {
+    "name": "Parfümerie Ferrari ",
+    "lat": "46.4997773",
+    "lng": "11.3420701",
+    "website": "www.profumeriaireneferrari.it"
+  },
+  {
+    "name": "Juvelier Parth ",
+    "lat": "46.4997411",
+    "lng": "11.3542763",
+    "website": "http://www.parth.bz.it/"
+  },
+  {
+    "name": "Pflanzencenter Reider ",
+    "lat": "46.4900854",
+    "lng": "11.301411",
+    "website": "www.reider.it"
+  },
+  {
+    "name": "Radiologia Bonvicini sas",
+    "lat": "46.5063141",
+    "lng": "11.3321093",
+    "website": "www.gruppobonvicini.it"
+  },
+  {
+    "name": "Juvelier Ranzi-Knapp",
+    "lat": "46.4987835",
+    "lng": "11.3547966",
+    "website": "www.ranzi-knapp.it"
+  },
+  {
+    "name": "Hotel/Restaurant Post Gries",
+    "lat": "46.5023105",
+    "lng": "11.3325558",
+    "website": "www.hotel-post-gries.com"
+  },
+  {
+    "name": "Confesercenti e Centro Servizi Rezia ",
+    "lat": "46.4904246",
+    "lng": "11.3328974",
+    "website": "https://www.commercianti.bz.it/de/"
+  },
+  {
+    "name": "Ristorante Bamboo",
+    "lat": "46.4966809",
+    "lng": "11.351511",
+    "website": "www.bamboo-bz.it"
+  },
+  {
+    "name": "Bento Sushi Bamboo",
+    "lat": "46.4988058",
+    "lng": "11.3547972",
+    "website": "www.bamboo-bz.it"
+  },
+  {
+    "name": "Rizzolli Manufaktur",
+    "lat": "46.4996842",
+    "lng": "11.3513863",
+    "website": "https://www.rizzolli.com/"
+  },
+  {
+    "name": "Schloss Runkelstein",
+    "lat": "46.5035208",
+    "lng": "11.3482922",
+    "website": "https://www.runkelstein.info/"
+  },
+  {
+    "name": "Schmid&von Bosio",
+    "lat": "46.4994823",
+    "lng": "11.3510304",
+    "website": "www.schmidvonbosio.com"
+  },
+  {
+    "name": "Schmid&von Bosio",
+    "lat": "46.4994823",
+    "lng": "11.3510304",
+    "website": "www.schmidvonbosio.com"
+  },
+  {
+    "name": "Schmid&von Bosio",
+    "lat": "46.4990669",
+    "lng": "11.3530164",
+    "website": "www.schmidvonbosio.com"
+  },
+  {
+    "name": "Schönhuber Franchi",
+    "lat": "46.5003251",
+    "lng": "11.3540824",
+    "website": "www.schoenhuber.shop"
+  },
+  {
+    "name": "Schuhhaus Fill ",
+    "lat": "46.5019709",
+    "lng": "11.3351688",
+    "website": "http://www.fillbz.it/"
+  },
+  {
+    "name": "SIGI Autoricambi",
+    "lat": "46.5001057",
+    "lng": "11.3586134",
+    "website": "www.autosigi.it"
+  },
+  {
+    "name": "Sigikid Store&More",
+    "lat": "46.5008958",
+    "lng": "11.3514508",
+    "website": "www.sigikidstore&more.com"
+  },
+  {
+    "name": "Sissi Mode",
+    "lat": "46.4896465",
+    "lng": "11.332456",
+    "website": "https://www.paginebianche.it/bolzano/confezioni-balzari.2721221"
+  },
+  {
+    "name": "Sorelle Ramonda ",
+    "lat": "46.4865208",
+    "lng": "11.3347403",
+    "website": "www.sorelleramonda.com"
+  },
+  {
+    "name": "Sportler",
+    "lat": "46.4996367",
+    "lng": "11.3541693",
+    "website": "www.sportler.com"
+  },
+  {
+    "name": "Sportler Alpin",
+    "lat": "46.4995824",
+    "lng": "11.3520922",
+    "website": "www.sportler.com"
+  },
+  {
+    "name": "Museion",
+    "lat": "46.4973305",
+    "lng": "11.3462041",
+    "website": "www.museion.it"
+  },
+  {
+    "name": "Stoffe Corradini",
+    "lat": "46.5003393",
+    "lng": "11.3532785",
+    "website": "https://www.paginegialle.it/stoffe-corradini"
+  },
+  {
+    "name": "Südtiroler Wekstätten",
+    "lat": "46.4995408",
+    "lng": "11.3520612",
+    "website": "https://de-de.facebook.com/suedtiroler.werkstaetten"
+  },
+  {
+    "name": "Mode EVA",
+    "lat": "46.5004018",
+    "lng": "11.3588487",
+    "website": "https://www.gruppomengin.com/"
+  },
+  {
+    "name": "Sweet House",
+    "lat": "46.4923335",
+    "lng": "11.3306536",
+    "website": "https://it-it.facebook.com/pages/category/Retail-Company/Sweet-House-Bolzano-610342475964884/"
+  },
+  {
+    "name": "Termoservice ",
+    "lat": "46.4857338",
+    "lng": "11.3198161",
+    "website": "www.termoservice.it"
+  },
+  {
+    "name": "Thaler srl ",
+    "lat": "46.4995038",
+    "lng": "11.3506952",
+    "website": "www.thalershop.com"
+  },
+  {
+    "name": "Thaler srl ",
+    "lat": "46.4927655",
+    "lng": "11.3393444",
+    "website": "www.thalershop.com"
+  },
+  {
+    "name": "Thaler srl ",
+    "lat": "46.489551",
+    "lng": "11.3317008",
+    "website": "www.thalershop.com"
+  },
+  {
+    "name": "Thaler srl ",
+    "lat": "46.5001368",
+    "lng": "11.3587424",
+    "website": "www.thalershop.com"
+  },
+  {
+    "name": "Thaler Vital",
+    "lat": "46.4995703",
+    "lng": "11.3523292",
+    "website": "www.thalershop.com"
+  },
+  {
+    "name": "MARKA",
+    "lat": "46.4990974",
+    "lng": "11.3533842",
+    "website": "https://mymarka.it/"
+  },
+  {
+    "name": "MARKA",
+    "lat": "46.5019819",
+    "lng": "11.3366628",
+    "website": "https://mymarka.it/"
+  },
+  {
+    "name": "MARKA",
+    "lat": "46.4938249",
+    "lng": "11.3303122",
+    "website": "https://mymarka.it/"
+  },
+  {
+    "name": "MARKA",
+    "lat": "46.4886089",
+    "lng": "11.3238598",
+    "website": "https://mymarka.it/"
+  },
+  {
+    "name": "Tschager ",
+    "lat": "46.4997622",
+    "lng": "11.3542395",
+    "website": "www.tschagerart.com"
+  },
+  {
+    "name": "Twenty srl ",
+    "lat": "46.4865208",
+    "lng": "11.3347403",
+    "website": "www.twenty.it"
+  },
+  {
+    "name": "Vis a Vis ",
+    "lat": "46.5038724",
+    "lng": "11.3406095",
+    "website": "www.visavismakeup.it"
+  },
+  {
+    "name": "VISPI",
+    "lat": "46.4737012",
+    "lng": "11.3298205",
+    "website": "www.vispishop.it"
+  },
+  {
+    "name": "Wassermann",
+    "lat": "46.4996579",
+    "lng": "11.3510831",
+    "website": "www.optikwassermann.com"
+  },
+  {
+    "name": "Wirtshaus Vögele ",
+    "lat": "46.4991059",
+    "lng": "11.3502646",
+    "website": "www.voegele.it"
+  },
+  {
+    "name": "Zucchi Tours snc",
+    "lat": "46.4928527",
+    "lng": "11.3404267",
+    "website": "www.zucchitours.com"
+  }
+]
