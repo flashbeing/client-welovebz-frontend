@@ -94,6 +94,20 @@
         </Accordion>
       </div>
     </section>
+    <section id="sponsors" class="black">
+      <div class="partner-title">
+        <div class="center">
+          <TitleHeading :show-as-title="true">{{
+            $t('page.homepage.fifthSection.title')
+          }}</TitleHeading>
+        </div>
+      </div>
+      <div class="partners">
+        <div class="center">
+          <Slider :elements="partners" />
+        </div>
+      </div>
+    </section>
     <section id="prizes" class="green">
       <div class="center">
         <TitleHeading :show-as-title="true">{{
@@ -113,7 +127,7 @@
         <Accordion :button="$t('page.homepage.thirdSection.button')">
           <div class="prizes">
             <p
-              v-for="(item, index) of prizes.slice(SHOW_PRIZES_UNTIL + 1)"
+              v-for="(item, index) of prizes.slice(SHOW_PRIZES_UNTIL)"
               :key="index"
               class="prize"
             >
@@ -155,20 +169,13 @@
         </Accordion>
       </div>
     </section>
-    <section id="sponsors" class="black">
-      <div class="partner-title">
-        <div class="center">
-          <TitleHeading :show-as-title="true">{{
-            $t('page.homepage.fifthSection.title')
-          }}</TitleHeading>
-        </div>
-      </div>
-      <div class="partners">
-        <div class="center">
-          <Slider :elements="partners" />
-        </div>
-      </div>
-    </section>
+    <div
+      class="scroll-top-bt clickable"
+      :class="{ visible: !scrolledBodyToTop }"
+      @click="scrollToTop()"
+    >
+      <Icon name="arrow-up" class="ico" />
+    </div>
   </main>
 </template>
 <script>
@@ -180,6 +187,7 @@ export default {
     return {
       SHOW_PRIZES_UNTIL: 21,
       isCountdownOver: false,
+      scrolledBodyToTop: true,
       winners: [
         {
           id: 'TODO',
@@ -247,6 +255,15 @@ export default {
         {
           img: 'partners/Twenty.svg',
         },
+        {
+          img: 'partners/Alto_Adige.png',
+        },
+        {
+          img: 'partners/Dolomiten.png',
+        },
+        {
+          img: 'partners/Noistudio.png',
+        },
       ],
       options: {
         streetViewControl: false,
@@ -258,6 +275,7 @@ export default {
       endCountdown: '2022-01-08T00:00:00',
     }
   },
+
   computed: {
     getWinners() {
       if (this.awardFilter) {
@@ -299,6 +317,26 @@ export default {
         all,
         unique,
       }
+    },
+  },
+
+  mounted() {
+    this.watchWindowScroll()
+  },
+
+  methods: {
+    scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+    },
+
+    watchWindowScroll() {
+      window.addEventListener('scroll', () => {
+        if (window.scrollY < window.innerHeight / 2) {
+          this.scrolledBodyToTop = true
+        } else {
+          this.scrolledBodyToTop = false
+        }
+      })
     },
   },
 }
@@ -411,6 +449,33 @@ main {
           }
         }
       }
+    }
+
+    &#sponsors {
+      @apply pt-0;
+    }
+  }
+
+  & .scroll-top-bt {
+    @apply fixed bottom-8 right-8 bg-black flex items-center justify-center opacity-0 pointer-events-none transition cursor-pointer;
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(50px);
+    z-index: 3;
+
+    & .ico {
+      width: 20px;
+      height: 20px;
+      fill: theme(colors.white) !important;
+    }
+
+    &.visible {
+      @apply opacity-100 pointer-events-auto;
+
+      transform: none;
     }
   }
 }

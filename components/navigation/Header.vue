@@ -112,10 +112,10 @@ export default {
             path: '/pdf/impressum.pdf',
             name: this.$t('common.impressum'),
           },
-          {
+          /* {
             path: '/pdf/contacts.pdf',
             name: this.$t('common.contact'),
-          },
+          }, */
         ],
       }
     },

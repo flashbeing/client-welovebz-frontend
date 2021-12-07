@@ -36,11 +36,22 @@ export default {
       required: true,
     },
   },
+
   data() {
     return {
+      STEP_TIMEOUT: 2000,
+      curStepTimeout: null,
       curProjectIndex: 0,
     }
   },
+
+  mounted() {
+    this.curStepTimeout = setTimeout(
+      () => this.showNextProject(),
+      this.STEP_TIMEOUT
+    )
+  },
+
   methods: {
     showPreviousProject() {
       if (this.curProjectIndex > 0) {
@@ -48,13 +59,26 @@ export default {
       } else {
         this.curProjectIndex = this.elements.length - 1
       }
+
+      clearTimeout(this.curStepTimeout)
+      this.curStepTimeout = setTimeout(
+        () => this.showNextProject(),
+        this.STEP_TIMEOUT
+      )
     },
+
     showNextProject() {
       if (this.curProjectIndex < this.elements.length - 1) {
         this.curProjectIndex++
       } else {
         this.curProjectIndex = 0
       }
+
+      clearTimeout(this.curStepTimeout)
+      this.curStepTimeout = setTimeout(
+        () => this.showNextProject(),
+        this.STEP_TIMEOUT
+      )
     },
   },
 }

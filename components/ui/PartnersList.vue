@@ -1,8 +1,14 @@
 <template>
   <div class="main-container">
     <div class="center">
-      <ul :class="{ 'is-footer': isFooter }">
+      <ul v-if="!isFooter" :class="{ 'is-footer': isFooter }">
         <li v-for="(item, index) of partners" :key="index">
+          <span class="sep">• </span
+          ><a :href="item.link" target="_blank">{{ item.name }}</a>
+        </li>
+      </ul>
+      <ul v-else class="list">
+        <li v-for="(item, index) of contacts" :key="index">
           <span class="sep">• </span
           ><a :href="item.link" target="_blank">{{ item.name }}</a>
         </li>
@@ -72,6 +78,19 @@ export default {
         {
           name: this.$t('footer.lvh'),
           link: 'https://www.lvh.it/it/',
+        },
+      ]
+    },
+
+    contacts() {
+      return [
+        {
+          name: 'info@welovebz.it',
+          link: 'mailto:info@welovebz.it',
+        },
+        {
+          name: '0471 30 70 00',
+          link: 'tel:+390471307000',
         },
       ]
     },
@@ -153,6 +172,12 @@ export default {
 
         & > li {
           @apply text-base text-left;
+        }
+
+        &.list {
+          & > li {
+            @apply block;
+          }
         }
       }
 
