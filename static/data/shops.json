@@ -807,7 +807,7 @@
     "name": "Sigikid Store&More",
     "lat": "46.5008958",
     "lng": "11.3514508",
-    "website": "www.sigikidstore&more.com"
+    "website": "www.sigikidstoreandmore.com"
   },
   {
     "name": "Sissi Mode",
@@ -964,5 +964,17 @@
     "lat": "46.4928527",
     "lng": "11.3404267",
     "website": "www.zucchitours.com"
+  },
+  {
+    "name": "Sport Niedermair",
+    "lat": "46.4940419",
+    "lng": "11.3581941",
+    "website": "www.sport-niedermair.com"
+  },
+  {
+    "name": "Bikeshop Engl",
+    "lat": "46.5013883",
+    "lng": "11.357714",
+    "website": "www.bikeshop-engl.it"
   }
 ]
