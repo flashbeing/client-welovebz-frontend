@@ -25,10 +25,9 @@
           "bold": "Christmas Chance"
         },
         "secondParagraph": {
-          "text": "Per ogni {bold} in su effettuato presso {link}, riceverai un biglietto con cui partecipare alle estrazioni.",
+          "text": "Per ogni {bold} in su effettuato presso {link} (*dettagli come da regolamento), riceverai un biglietto con cui partecipare all`estrazioni.",
           "bold": "acquisto dai 15 Euro",
           "link": "i partner convenzionati"
-        }
       },
       "secondSection": {
         "title": "Estrazione",
