@@ -54,6 +54,12 @@
     "website": "www.bau-tec.it"
   },
   {
+    "name": "Bikeshop Engl",
+    "lat": "46.5013883",
+    "lng": "11.357714",
+    "website": "www.bikeshop-engl.it"
+  }
+  {
     "name": "Boma sel Laboratorio Druso",
     "lat": "46.4936047",
     "lng": "11.3365057",
@@ -822,6 +828,12 @@
     "website": "www.sportler.com"
   },
   {
+    "name": "Sport Niedermair",
+    "lat": "46.4940419",
+    "lng": "11.3581941",
+    "website": "www.sport-niedermair.com"
+  },
+  {
     "name": "Museion",
     "lat": "46.4973305",
     "lng": "11.3462041",
@@ -953,16 +965,4 @@
     "lng": "11.3404267",
     "website": "www.zucchitours.com"
   },
-  {
-    "name": "Sport Niedermair",
-    "lat": "46.4940419",
-    "lng": "11.3581941",
-    "website": "www.sport-niedermair.com"
-  },
-  {
-    "name": "Bikeshop Engl",
-    "lat": "46.5013883",
-    "lng": "11.357714",
-    "website": "www.bikeshop-engl.it"
-  }
 ]
