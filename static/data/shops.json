@@ -58,7 +58,7 @@
     "lat": "46.5013883",
     "lng": "11.357714",
     "website": "www.bikeshop-engl.it"
-  }
+  },
   {
     "name": "Boma sel Laboratorio Druso",
     "lat": "46.4936047",
@@ -348,13 +348,13 @@
     "website": "https://www.farmaciafago.it"
   },
   {
-    "name": "Farmacia Bonvicinio",
+    "name": "Farmacia Bonvicini",
     "lat": "46.4885907",
     "lng": "11.3237996",
     "website": "www.gruppobonvicini.it"
   },
   {
-    "name": "Farmacia Bonvicinio",
+    "name": "Farmacia Bonvicini",
     "lat": "46.4949243",
     "lng": "11.3369482",
     "website": "www.gruppobonvicini.it"
@@ -708,7 +708,7 @@
     "website": "www.profumeriaferrari.it"
   },
   {
-    "name": "Juvelier Parth ",
+    "name": "Juwelier Parth ",
     "lat": "46.4997411",
     "lng": "11.3542763",
     "website": "http://www.parth.bz.it/"
@@ -726,7 +726,7 @@
     "website": "www.gruppobonvicini.it"
   },
   {
-    "name": "Juvelier Ranzi-Knapp",
+    "name": "Juwelier Ranzi-Knapp",
     "lat": "46.4987835",
     "lng": "11.3547966",
     "website": "www.ranzi-knapp.it"
@@ -852,7 +852,7 @@
     "website": "https://www.paginegialle.it/stoffe-corradini"
   },
   {
-    "name": "Südtiroler Wekstätten",
+    "name": "Südtiroler Werkstätten",
     "lat": "46.4995408",
     "lng": "11.3520612",
     "website": "https://de-de.facebook.com/suedtiroler.werkstaetten"
@@ -928,6 +928,12 @@
     "lat": "46.4886089",
     "lng": "11.3238598",
     "website": "https://mymarka.it/"
+  },
+  {
+    "name": "Macelleria Lunelli",
+    "lat": "46.4946089",
+    "lng": "11.3405358",
+    "website": "https://www.facebook.com/pages/category/Butcher-Shop/Macelleria-Lunelli-134714293313359/"
   },
   {
     "name": "Tschager ",
