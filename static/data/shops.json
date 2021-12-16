@@ -33,7 +33,7 @@
     "name": "Azienda soggiorno e turismo Bz",
     "lat": "46.4953519",
     "lng": "11.352808",
-    "website": "www.bolzano-bozan.it"
+    "website": "www.bolzano-bozen.it"
   },
   {
     "name": "B&R Service ",
@@ -483,7 +483,7 @@
     "name": "Imbiss Kampill",
     "lat": "46.4950523",
     "lng": "11.3721361",
-    "website": "www.imbiss-kampill.it"
+    "website": "www.imbiss-kampill.com"
   },
   {
     "name": "INTERSPAR",
@@ -552,16 +552,22 @@
     "website": "http://www.malika.bz.it/"
   },
   {
+    "name": "Christkindlmarkt/Mercatino",
+    "lat": "46.4983332",
+    "lng": "11.3529625",
+    "website": "https://www.mercatinodinatalebz.it"
+  },
+  {
     "name": "Kiro's - Balzari sas",
     "lat": "46.4995531",
     "lng": "11.3504428",
-    "website": "www.kiros.bz.it"
+    "website": "www.kiros.bz"
   },
   {
     "name": "Kiro's - Balzari sas",
     "lat": "46.4999374",
     "lng": "11.348402",
-    "website": "www.kiros.bz.it"
+    "website": "www.kiros.bz"
   },
   {
     "name": "La culla - Baby Land",
@@ -651,7 +657,7 @@
     "name": "Novalux ",
     "lat": "46.4851516",
     "lng": "11.339154",
-    "website": "www.novaluxzbz.it"
+    "website": "www.novalux.it"
   },
   {
     "name": "Oberrauch Zitt ",
@@ -699,7 +705,7 @@
     "name": "Parfümerie Ferrari ",
     "lat": "46.4997773",
     "lng": "11.3420701",
-    "website": "www.profumeriaireneferrari.it"
+    "website": "www.profumeriaferrari.it"
   },
   {
     "name": "Juvelier Parth ",
@@ -964,5 +970,5 @@
     "lat": "46.4928527",
     "lng": "11.3404267",
     "website": "www.zucchitours.com"
-  },
+  }
 ]
