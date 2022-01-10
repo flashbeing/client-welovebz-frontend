@@ -59,6 +59,7 @@
         <div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>
+        <p class="mt-3">{{ $t('page.homepage.secondSection.subtitle') }}</p>
         <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
           <template #bold>
             <b class="text-primary">{{

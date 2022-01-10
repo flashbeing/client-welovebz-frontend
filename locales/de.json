@@ -32,6 +32,7 @@
       },
       "secondSection": {
         "title": "Verlosung am 12.1.2022",
+        "subtitle": "Die Nummern der Gewinnlose werden innerhalb 14.1.2022 veröffentlicht.",
         "firstParagraph": {
           "text": "bis zur {bold},{newline}die {link} stattfindet.",
           "bold": "Verlosung",
