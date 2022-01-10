@@ -272,7 +272,7 @@ export default {
         mapTypeControl: false,
       },
       awardFilter: '',
-      endCountdown: '2022-01-08T00:00:00',
+      endCountdown: '2022-01-12T00:00:00',
     }
   },
 
