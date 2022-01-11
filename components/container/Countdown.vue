@@ -37,9 +37,9 @@ export default {
       this.time =
         this.addLeadingZero(remaining.days) +
         ':' +
-        this.addLeadingZero(remaining.minutes) +
-        ':' +
         this.addLeadingZero(remaining.hours) +
+        ':' +
+        this.addLeadingZero(remaining.minutes) +
         ':' +
         this.addLeadingZero(remaining.seconds)
     },
