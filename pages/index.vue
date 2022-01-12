@@ -56,9 +56,9 @@
         <TitleHeading :show-as-title="true" :inverted="true">{{
           $t('page.homepage.secondSection.title')
         }}</TitleHeading>
-        <div class="countdown">
+        <!--<div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
-        </div>
+        </div>-->
         <p class="mt-3">{{ $t('page.homepage.secondSection.subtitle') }}</p>
         <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
           <template #bold>
