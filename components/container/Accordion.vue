@@ -1,37 +1,53 @@
 <template>
-<div class="main-container">
-  <div class="title clickable" :class="{'red': !isRed, 'green': isGreen}" @click="toggle">
-    <div class="text">
-      <h2>{{ button }}</h2>
+  <div class="main-container">
+    <div
+      class="title clickable"
+      :class="{ red: !isRed, green: isGreen, black: isBlack }"
+      @click="toggle"
+    >
+      <div class="text">
+        <h2>{{ button }}</h2>
+      </div>
+      <div
+        class="arrow"
+        :class="{
+          red: !isRed,
+          up: isExpanded,
+          down: !isExpanded,
+          black: isBlack,
+        }"
+      ></div>
     </div>
-    <div class="arrow" :class="[!isRed ? 'red' : '', +isExpanded ? 'up' : 'down', ]"></div>
+    <div v-show="isExpanded" class="content">
+      <slot />
+    </div>
   </div>
-  <div v-show="isExpanded" class="content">
-    <slot />
-  </div>
-</div>
 </template>
 
 <script>
 export default {
-  name: "Accordion",
+  name: 'Accordion',
   props: {
     button: {
       type: String,
-      required: true
+      required: true,
     },
     isRed: {
       type: Boolean,
-      default: false
+      default: false,
     },
     isGreen: {
       type: Boolean,
-      default: false
-    }
+      default: false,
+    },
+    isBlack: {
+      type: Boolean,
+      default: false,
+    },
   },
   data() {
     return {
-      isExpanded: false
+      isExpanded: false,
     }
   },
   methods: {
@@ -57,6 +73,10 @@ export default {
       @apply text-primary hover:text-primary-hover;
     }
 
+    &.black {
+      @apply text-black hover:text-black;
+    }
+
     & .text {
       @apply inline-block;
     }
@@ -69,6 +89,10 @@ export default {
 
       &.red {
         @apply border-secondary hover:border-secondary-hover;
+      }
+
+      &.black {
+        @apply border-black hover:border-black;
       }
 
       &.down {

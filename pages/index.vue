@@ -54,12 +54,72 @@
     <section id="countdown" class="red">
       <div class="center">
         <TitleHeading :show-as-title="true" :inverted="true">{{
-          $t('page.homepage.secondSection.title')
+          $t('page.homepage.winnersInfo.title')
         }}</TitleHeading>
         <!--<div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>-->
-        <p class="mt-3">{{ $t('page.homepage.secondSection.subtitle') }}</p>
+        <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
+        <ul>
+          <li>{{ $t('page.homepage.winnersInfo.pointOne') }}</li>
+          <i18n path="page.homepage.winnersInfo.pointTwo" tag="li">
+            <template #link>
+              <a
+                href="/pdf/dichiarazione_accettazione_premio_welovebz.pdf"
+                download="dichiarazione_accettazione_premio_welovebz.pdf"
+                class="underline"
+                >{{ $t('page.homepage.winnersInfo.pointTwoPrize') }}</a
+              >
+            </template>
+          </i18n>
+          <li>{{ $t('page.homepage.winnersInfo.pointThree') }}</li>
+        </ul>
+        <p class="mt-3">{{ $t('page.homepage.winnersInfo.closureDesc') }}</p>
+        <div class="winners-list">
+          <TextInput
+            v-model="prizeCodeFilter"
+            type="number"
+            :placeholder="$t('common.search') + '...'"
+            class="mt-8 mb-3"
+            aspect="fill"
+          />
+        </div>
+        <div class="prizes">
+          <p
+            v-for="(item, index) of filteredWonPrizes.slice(
+              0,
+              SHOW_PRIZES_UNTIL
+            )"
+            :key="index"
+            class="prize"
+          >
+            <b>{{ index + 1 + '. ' + item.code + ': ' + item.name }}</b>
+            <span> - </span>
+            {{ item.description }}
+          </p>
+        </div>
+        <Accordion
+          v-if="filteredWonPrizes.length > 22"
+          :button="$t('page.homepage.winnersInfo.seeMore')"
+          :is-black="true"
+        >
+          <div class="prizes">
+            <p
+              v-for="(item, index) of filteredWonPrizes.slice(
+                SHOW_PRIZES_UNTIL
+              )"
+              :key="index"
+              class="prize"
+            >
+              <b>{{ index + 22 + '. ' + item.code + ': ' + item.name }}</b>
+              <span> - </span>
+              {{ item.description }}
+            </p>
+          </div>
+        </Accordion>
+        <p v-if="!filteredWonPrizes.length">
+          {{ $t('page.homepage.winnersInfo.noWinningPrizeFound') }}
+        </p>
         <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
           <template #bold>
             <b class="text-primary">{{
@@ -75,7 +135,7 @@
             }}</a>
           </template>
         </i18n>-->
-        <Accordion
+        <!--<Accordion
           v-if="isCountdownOver"
           :button="$t('page.homepage.secondSection.button')"
           :is-red="true"
@@ -92,7 +152,7 @@
               :placeholder="$t('common.search')"
             />
           </div>
-        </Accordion>
+        </Accordion>-->
       </div>
     </section>
     <section id="sponsors" class="black">
@@ -181,6 +241,7 @@
 </template>
 <script>
 import prizesData from '~/static/data/prizes.json'
+import wonPrizes from '~/static/data/wonPrizes.json'
 import shopsData from '~/static/data/shops.json'
 
 export default {
@@ -189,12 +250,6 @@ export default {
       SHOW_PRIZES_UNTIL: 21,
       isCountdownOver: false,
       scrolledBodyToTop: true,
-      winners: [
-        {
-          id: 'TODO',
-          name: 'TODO',
-        },
-      ],
       partners: [
         {
           img: 'partners/Aspiag.svg',
@@ -272,8 +327,9 @@ export default {
         maxZoom: 15,
         mapTypeControl: false,
       },
-      awardFilter: '',
+      prizeCodeFilter: '',
       endCountdown: '2022-01-12T00:00:00',
+      wonPrizes,
     }
   },
 
@@ -283,6 +339,36 @@ export default {
         return this.winners.filter((item) => item.id === this.awardFilter)
       }
       return this.winners.slice(0, 30)
+    },
+
+    filteredWonPrizes() {
+      let prizes = this.wonPrizes.map((p) => {
+        const descParts = p.name.split('\n')
+
+        let description = descParts[0].trim()
+        if (descParts[1] && descParts[1].trim()) {
+          const itDesc = descParts[0].trim()
+          const deDesc = descParts[1].trim()
+
+          if (this.$i18n.locale === 'it') {
+            description = itDesc
+          } else {
+            description = deDesc
+          }
+        }
+
+        return {
+          name: p.prize.trim(),
+          description,
+          code: p.code.trim(),
+        }
+      })
+
+      if (this.prizeCodeFilter) {
+        prizes = prizes.filter((p) => p.code.includes(this.prizeCodeFilter))
+      }
+
+      return prizes
     },
 
     prizes() {
@@ -364,7 +450,7 @@ main {
     }
 
     &.red {
-      @apply text-white bg-secondary text-center;
+      @apply text-white bg-secondary;
 
       & .countdown {
         @apply text-center mb-6;

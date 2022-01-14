@@ -40,6 +40,17 @@
         },
         "button": "Liste mit Gewinnnummern"
       },
+      "winnersInfo": {
+        "title": "Info Gewinner",
+        "topDesc": "Die Gewinner müssen von Montag (ab 17.01.2022) bis Freitag zwischen 9 und 18 Uhr persönlich beim Sitz der WeloveBZ GmbH in der Südtiroler Straße 60, 39100 Bozen erscheinen und folgende Unterlagen vorlegen:",
+        "pointOne": "- beidseitige Fotokopie ihres gültigen Personalausweises;",
+        "pointTwo": "- mit den persönlichen Daten ausgefüllte {link} (zu vervollständigen bei der Welovebz GmbH);",
+        "pointTwoPrize": "Erklärung über die Annahme des Preises",
+        "pointThree": "- Original des Gewinner-Coupons;",
+        "closureDesc": "Bei auswärtigen Gewinnern ist es möglich, die oben genannten Unterlagen zu versenden. Der Veranstalter lehnt jede Verantwortung für einen solchen Versand ab. Dem Gewinner wird empfohlen, eine Fotokopie der übermittelten Unterlagen aufzubewahren.",
+        "seeMore": "Weitere Preise",
+        "noWinningPrizeFound": "Keine Gewinnpreise gefunden."
+      },
       "thirdSection": {
         "title": "Preise",
         "button": "und 400 weitere tolle Preise..."

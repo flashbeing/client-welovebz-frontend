@@ -40,6 +40,17 @@
         },
         "button": "Lista dei numeri vincenti"
       },
+      "winnersInfo": {
+        "title": "Info vincitori",
+        "topDesc": "I vincitori dovranno recarsi presso la sede della WeloveBZ srl in Via Alto Adige 60, 39100 Bolzano, dal lunedì (dal 17.01.2022) al venerdì dalle ore 9 alle ore 18, presentando la seguente documentazione:",
+        "pointOne": "- fotocopia fronte e retro della propria carta d’identità in corso di validità;",
+        "pointTwo": "- {link} compilata con i propri dati personali (da compilarsi presso la sede di Welovebz srl);",
+        "pointTwoPrize": "dichiarazione di accettazione del premio",
+        "pointThree": "- l’originale del tagliando vincitore;",
+        "closureDesc": "Nel caso di vincitori provenienti da fuori città è prevista la possibilità di spedire la documentazione già menzionata. La Promotrice dell’iniziativa declina ogni responsabilità relativa a tale spedizione. Si consiglia al vincitore di conservare una fotocopia della documentazione inviata.",
+        "seeMore": "Mostra altri premi",
+        "noWinningPrizeFound": "Nessun premio vincente trovato."
+      },
       "thirdSection": {
         "title": "Premi",
         "button": "und 400 altri premi in totale..."
