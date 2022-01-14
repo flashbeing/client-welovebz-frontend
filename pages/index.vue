@@ -93,9 +93,9 @@
             :key="index"
             class="prize"
           >
-            <b>{{ index + 1 + '. ' + item.code + ': ' + item.name }}</b>
+            <b>{{ index + 1 + '. ' + item.code + ': ' + item.prize }}</b>
             <span> - </span>
-            {{ item.description }}
+            {{ item.shopName }}
           </p>
         </div>
         <Accordion
@@ -111,9 +111,9 @@
               :key="index"
               class="prize"
             >
-              <b>{{ index + 22 + '. ' + item.code + ': ' + item.name }}</b>
+              <b>{{ index + 22 + '. ' + item.code + ': ' + item.prize }}</b>
               <span> - </span>
-              {{ item.description }}
+              {{ item.shopName }}
             </p>
           </div>
         </Accordion>
@@ -343,23 +343,23 @@ export default {
 
     filteredWonPrizes() {
       let prizes = this.wonPrizes.map((p) => {
-        const descParts = p.name.split('\n')
+        const descParts = p.prize.split(/\r?\n/)
 
-        let description = descParts[0].trim()
+        let prize = descParts[0].trim()
         if (descParts[1] && descParts[1].trim()) {
           const itDesc = descParts[0].trim()
           const deDesc = descParts[1].trim()
 
           if (this.$i18n.locale === 'it') {
-            description = itDesc
+            prize = itDesc
           } else {
-            description = deDesc
+            prize = deDesc
           }
         }
 
         return {
-          name: p.prize.trim(),
-          description,
+          shopName: p.name.trim(),
+          prize,
           code: p.code.trim(),
         }
       })

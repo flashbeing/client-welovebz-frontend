@@ -1,6 +1,8 @@
 const AVAILABLE_LANGUAGES = ['de', 'it']
 
 export default {
+  ssr: false,
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'WeLoveBz',
@@ -23,7 +25,7 @@ export default {
   plugins: [
     { src: '@/plugins/vue-notification', ssr: false },
     '@/plugins/notify',
-    '@/plugins/google-maps'
+    '@/plugins/google-maps',
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
