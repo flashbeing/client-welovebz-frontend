@@ -93,7 +93,7 @@
             :key="index"
             class="prize"
           >
-            <b>{{ index + 1 + '. ' + item.code + ': ' + item.prize }}</b>
+            <b>{{ item.number + '. ' + item.code + ': ' + item.prize }}</b>
             <span> - </span>
             {{ item.shopName }}
           </p>
@@ -111,7 +111,7 @@
               :key="index"
               class="prize"
             >
-              <b>{{ index + 22 + '. ' + item.code + ': ' + item.prize }}</b>
+              <b>{{ item.number + '. ' + item.code + ': ' + item.prize }}</b>
               <span> - </span>
               {{ item.shopName }}
             </p>
@@ -342,7 +342,7 @@ export default {
     },
 
     filteredWonPrizes() {
-      let prizes = this.wonPrizes.map((p) => {
+      let prizes = this.wonPrizes.map((p, index) => {
         const descParts = p.prize.split(/\r?\n/)
 
         let prize = descParts[0].trim()
@@ -358,6 +358,7 @@ export default {
         }
 
         return {
+          number: index + 1,
           shopName: p.name.trim(),
           prize,
           code: p.code.trim(),
