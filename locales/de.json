@@ -3,7 +3,7 @@
     "comingSoon": "coming soon...",
     "christmas": "christmas",
     "surprise": "surprise",
-    "at": "@BZ",
+    "at": "@ Bolzano|Bozen",
     "website": "welove.bz",
     "search": "Deine Losnummer",
     "rules": "Reglement",
@@ -14,19 +14,21 @@
     "homepage": {
       "heading": {
         "title": "A new christmas chance ",
-        "subtitle": "Gewinnspiel bis zum 8.1.2022",
+        "subtitle": "Gewinnspiel vom 24. November 2022 bis zum 06. Januar 2023",
         "secondTitle": "mehr als 400 Preise",
-        "mainPrize": "Hauptpreis"
+        "mainPrize": "Hauptpreis",
+        "afterTheFirstEditionsSuccess": "Nach dem großen Erfolg der ersten Ausgabe im letzten Jahr hat Welovebz mit den Partner-Wirischaftsverbänden auch heuer das Gewinnspiel A New Chrisimas Chance organisiert.",
+        "moreInformationComingSoon": "More information coming soon..."
       },
       "firstSection": {
         "title": "Gewinnspiel",
         "firstParagraph": {
-          "text": "Mach mit bei der ersten großen {bold} von Bozen – einer Aktion, die dank der Zusammenarbeit der Stadt Bozen, den Wirtschaftsverbänden und dem Verkehrsamt Bozen entstanden ist.",
+          "text": "Mach mit bei der großen {bold} von Bozen – einer Aktion, die dank der Zusammenarbeit der Wirtschaftsverbänden und dem Verkehrsamt Bozen entstanden ist.",
           "bold": "Christmas Chance"
         },
         "secondParagraph": {
           "text": "Ab einem {bold} in den {link} (*Details lt. Reglement) erhältst du ein Los und kannst an der Verlosung teilnehmen.",
-          "bold": "Einkauf von 15 Euro",
+          "bold": "Einkauf von 20 Euro",
           "link": "teilnehmenden Betrieben"
         }
       },

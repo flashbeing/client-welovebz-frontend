@@ -86,22 +86,22 @@ export default {
             path: '/#intro',
             name: this.$t('page.homepage.firstSection.title'),
           },
-          {
-            path: '/#countdown',
-            name: this.$t('page.homepage.secondSection.title'),
-          },
-          {
-            path: '/#prizes',
-            name: this.$t('page.homepage.thirdSection.title'),
-          },
-          {
-            path: '/#partner',
-            name: this.$t('page.homepage.fourthSection.title'),
-          },
-          {
-            path: '/#sponsors',
-            name: this.$t('page.homepage.fifthSection.title'),
-          },
+          // {
+          //   path: '/#countdown',
+          //   name: this.$t('page.homepage.secondSection.title'),
+          // },
+          // {
+          //   path: '/#prizes',
+          //   name: this.$t('page.homepage.thirdSection.title'),
+          // },
+          // {
+          //   path: '/#partner',
+          //   name: this.$t('page.homepage.fourthSection.title'),
+          // },
+          // {
+          //   path: '/#sponsors',
+          //   name: this.$t('page.homepage.fifthSection.title'),
+          // },
         ],
         secondSection: [
           {

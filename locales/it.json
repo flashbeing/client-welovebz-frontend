@@ -3,7 +3,7 @@
     "comingSoon": "coming soon...",
     "christmas": "christmas",
     "surprise": "surprise",
-    "at": "@BZ",
+    "at": "@ Bolzano|Bozen",
     "website": "welove.bz",
     "search": "Il tuo codice lotteria",
     "rules": "Regolamento",
@@ -14,19 +14,21 @@
     "homepage": {
       "heading": {
         "title": "A new christmas chance ",
-        "subtitle": "Gioco a premi fino all'8.1.2022",
+        "subtitle": "Gioco a premi dal 24.11.2022 al 06.01.2023",
         "secondTitle": "oltre 400 premi",
-        "mainPrize": "Primo premio"
+        "mainPrize": "Primo premio",
+        "afterTheFirstEditionsSuccess": "Dopo il successo della prima edizione, Welovebz organizza anche quest'anno il concorso a premi di Natale A New Christmas Chance.",
+        "moreInformationComingSoon": "More information coming soon..."
       },
       "firstSection": {
         "title": "Gioco a premi",
         "firstParagraph": {
-          "text": "Partecipa anche tu alla prima grande {bold} di Bolzano – un’iniziativa nata grazie alla collaborazione del Comune di Bolzano, delle associazioni di categoria e dell’Azienda di Soggiorno e Turismo di Bolzano.",
+          "text": "Partecipa anche tu alla grande {bold} di Bolzano – un’iniziativa nata grazie alla collaborazione delle associazioni di categoria e dell’Azienda di Soggiorno e Turismo di Bolzano.",
           "bold": "Christmas Chance"
         },
         "secondParagraph": {
           "text": "Per ogni {bold} in su effettuato presso {link} (*dettagli come da regolamento), riceverai un biglietto con cui partecipare all`estrazioni.",
-          "bold": "acquisto dai 15 Euro",
+          "bold": "acquisto di minimo 20 Euro",
           "link": "i partner convenzionati"
         }
       },

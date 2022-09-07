@@ -6,28 +6,37 @@
           <Icon name="face-smile" />
           <div class="titles">
             <h1>
-              {{ $t('page.homepage.heading.title')
-              }}<span>{{ $t('common.at') }}</span>
+              {{ $t('page.homepage.heading.title') }}
+              <div>22|23</div>
+              <span>{{ $t('common.at') }}</span>
             </h1>
+
             <div class="other-text">
               <h3>{{ $t('page.homepage.heading.subtitle') }}</h3>
               <h2>{{ $t('page.homepage.heading.secondTitle') }}</h2>
               <div class="prize">
-                <div class="car">
+                <div>
+                  {{ $t('page.homepage.heading.afterTheFirstEditionsSuccess') }}
+                </div>
+                <div>
+                  {{ $t('page.homepage.heading.moreInformationComingSoon') }}
+                </div>
+
+                <!-- <div class="car">
                   <div class="image"></div>
                   <p class="label">
                     {{ $t('page.homepage.heading.mainPrize') }}<br />Porsche
                     Macan
                   </p>
                 </div>
-                <div class="logo"></div>
+                <div class="logo"></div> -->
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <PartnersList />
+    <!-- <PartnersList /> -->
     <section id="intro" class="green">
       <div class="center">
         <TitleHeading :show-as-title="true">{{
@@ -51,14 +60,14 @@
         </i18n>
       </div>
     </section>
-    <section id="countdown" class="red">
+    <!-- <section id="countdown" class="red">
       <div class="center">
         <TitleHeading :show-as-title="true" :inverted="true">{{
           $t('page.homepage.winnersInfo.title')
         }}</TitleHeading>
-        <!--<div class="countdown">
+        <div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
-        </div>-->
+        </div>
         <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
         <ul>
           <li>{{ $t('page.homepage.winnersInfo.pointOne') }}</li>
@@ -119,8 +128,8 @@
         </Accordion>
         <p v-if="!filteredWonPrizes.length">
           {{ $t('page.homepage.winnersInfo.noWinningPrizeFound') }}
-        </p>
-        <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
+        </p> -->
+    <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
           <template #bold>
             <b class="text-primary">{{
               $t('page.homepage.secondSection.firstParagraph.bold')
@@ -135,7 +144,7 @@
             }}</a>
           </template>
         </i18n>-->
-        <!--<Accordion
+    <!--<Accordion
           v-if="isCountdownOver"
           :button="$t('page.homepage.secondSection.button')"
           :is-red="true"
@@ -153,9 +162,9 @@
             />
           </div>
         </Accordion>-->
-      </div>
-    </section>
-    <section id="sponsors" class="black">
+    <!-- </div>
+    </section> -->
+    <!-- <section id="sponsors" class="black">
       <div class="partner-title">
         <div class="center">
           <TitleHeading :show-as-title="true">{{
@@ -168,8 +177,8 @@
           <Slider :elements="partners" />
         </div>
       </div>
-    </section>
-    <section id="prizes" class="green">
+    </section> -->
+    <!-- <section id="prizes" class="green">
       <div class="center">
         <TitleHeading :show-as-title="true">{{
           $t('page.homepage.thirdSection.title')
@@ -199,8 +208,8 @@
           </div>
         </Accordion>
       </div>
-    </section>
-    <section id="partner" class="white">
+    </section> -->
+    <!-- <section id="partner" class="white">
       <div class="center">
         <TitleHeading :show-as-title="true" :show-green="true">{{
           $t('page.homepage.fourthSection.title')
@@ -229,7 +238,7 @@
           </div>
         </Accordion>
       </div>
-    </section>
+    </section> -->
     <div
       class="scroll-top-bt clickable"
       :class="{ visible: !scrolledBodyToTop }"
@@ -502,8 +511,17 @@ main {
           & h1 {
             @apply font-medium leading-none text-8xl;
 
+            & div {
+              @apply inline bg-black text-6xl;
+
+              letter-spacing: -3px;
+              padding-top: 3px;
+            }
+
             & span {
-              @apply opacity-50;
+              @apply opacity-60 text-6xl;
+
+              letter-spacing: -3px;
             }
           }
 
