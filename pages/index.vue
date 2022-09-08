@@ -13,7 +13,7 @@
 
             <div class="other-text">
               <h3>{{ $t('page.homepage.heading.subtitle') }}</h3>
-              <h2>{{ $t('page.homepage.heading.secondTitle') }}</h2>
+              <!--<h2>{{ $t('page.homepage.heading.secondTitle') }}</h2>-->
               <div class="prize">
                 <div>
                   {{ $t('page.homepage.heading.afterTheFirstEditionsSuccess') }}
