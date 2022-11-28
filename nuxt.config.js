@@ -25,7 +25,10 @@ export default {
   plugins: [
     { src: '@/plugins/vue-notification', ssr: false },
     '@/plugins/notify',
-    '@/plugins/google-maps',
+    {
+      src: '@/plugins/vuelayers.js',
+      ssr: false,
+    },
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -42,7 +45,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['nuxt-i18n'],
+  modules: ['nuxt-i18n', '~/shared/vuelayers'],
 
   i18n: {
     locales: AVAILABLE_LANGUAGES,

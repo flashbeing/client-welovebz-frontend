@@ -1,3178 +1,2949 @@
 [
   {
-    "name": "Centro Porsche Bolzano / Porsche Zentrum Bozen",
-    "lat": "46.4831778",
-    "lng": "11.3348997",
-    "prize-de": "Porsche",
-    "prize-it": "Porsche"
+    "name": "Brasolin Auto",
+    "prize-it": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "prize-de": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "quantity": 1,
+    "value": 18700
   },
   {
-    "name": "Sportler AG",
-    "lat": "46.4996367",
-    "lng": "11.3541693",
-    "prize-de": "E-Bike",
-    "prize-it": "E-Bike"
+    "name": "Brasolin Auto",
+    "prize-it": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "prize-de": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "quantity": 1,
+    "value": 18500
+  },
+  {
+    "name": "Sportler ",
+    "prize-it": "E-Bike ",
+    "prize-de": "E-Bike ",
+    "quantity": 1,
+    "value": 4000
+  },
+  {
+    "name": "Castel Hoertenberg",
+    "prize-it": "1 pernottamento per 2 persone con colazione",
+    "prize-de": "1 Übernachtung für 2 Personen mit Frühstück",
+    "quantity": 1,
+    "value": 1000
+  },
+  {
+    "name": "Parth ",
+    "prize-it": "Orologio  Longines",
+    "prize-de": "Uhr von Longines",
+    "quantity": 1,
+    "value": 1270
   },
   {
     "name": "Goldschmiede Mair",
-    "lat": "46.5716328",
-    "lng": "11.2860186",
-    "prize-de": "Uhr",
-    "prize-it": "Orologio"
+    "prize-it": "Anello con brillante",
+    "prize-de": "Brillantring",
+    "quantity": 1,
+    "value": 1000
   },
   {
-    "name": "Brasolin Auto srl",
-    "lat": "46.4687271",
-    "lng": "11.3296031",
-    "prize-de": "E-Scooter",
-    "prize-it": "E-Scooter"
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a € 1.000",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 1.000€",
+    "quantity": 1,
+    "value": 1000
   },
   {
-    "name": "Gioielleria Ranzi - Knapp Juwelen",
-    "lat": "46.4987835",
-    "lng": "11.3547966",
-    "prize-de": "Ring",
-    "prize-it": "Anello"
+    "name": "Hotel Città ",
+    "prize-it": "1 pernottamento per 2 persone ",
+    "prize-de": "1 Übernachtung für 2 Personen ",
+    "quantity": 1,
+    "value": 1000
+  },
+  {
+    "name": "Green energym",
+    "prize-it": "ABO palestra per 9 mesi ",
+    "prize-de": "Fitness ABO für 9 Monate",
+    "quantity": 1,
+    "value": 790
+  },
+  {
+    "name": "Leonardelli ",
+    "prize-it": "Notebook Lenovo ",
+    "prize-de": "Notebook Lenovo ",
+    "quantity": 1,
+    "value": 649
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": 1,
+    "value": 749
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": 1,
+    "value": 400
   },
   {
     "name": "Parkhotel Laurin",
-    "lat": "46.4987835",
-    "lng": "11.3547966",
-    "prize-de": "Weekend \"Jazz&Gourmet\" ",
-    "prize-it": "Weekend \"Jazz&Gourmet\" III Parkhotel Laurin per 2 persone"
+    "prize-it": "Cena ConTamina 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
+    "quantity": 1,
+    "value": 510
   },
   {
-    "name": "Pörnbacher Josef",
-    "lat": "46.499564",
-    "lng": "11.351392",
-    "prize-de": "Kette",
-    "prize-it": "Collana"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Cena ConTamina 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
+    "quantity": 1,
+    "value": 510
   },
   {
-    "name": "Gioielleria Ranzi - Knapp Juwelen",
-    "lat": "46.4987835",
-    "lng": "11.3547966",
-    "prize-de": "Uhr ",
-    "prize-it": "orologio "
+    "name": "HDS unione",
+    "prize-it": "Monni card a € 500",
+    "prize-de": "Monni card zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "Hockey Club Bozen 2000 ",
-    "lat": "46.4778058",
-    "lng": "11.3316019",
-    "prize-de": "600 € Gutschein ",
-    "prize-it": "600 € Buono acquisto"
-  },
-  {
-    "name": "Parfumerie Ferrari",
-    "lat": "46.4997773",
-    "lng": "11.3420701",
-    "prize-de": "Pflegeset \"Decorte\"",
-    "prize-it": "Set cura \"Decorte\""
+    "name": "HDS unione",
+    "prize-it": "Monni card a € 500",
+    "prize-de": "Monni card zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
     "name": "Oberrauch Zitt",
-    "lat": "46.4995587",
-    "lng": "11.3507876",
-    "prize-de": "500 € Gutschein ",
-    "prize-it": "500 € Buono acquisto"
+    "prize-it": "Buono a € 500",
+    "prize-de": "Gutschein zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "Oberrauch Zitt",
-    "lat": "46.4995587",
-    "lng": "11.3507876",
-    "prize-de": "500 € Gutschein ",
-    "prize-it": "500 € Buono acquisto"
+    "name": "Max&Co",
+    "prize-it": "Buono a € 500",
+    "prize-de": "Gutschein zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "Oberrauch Zitt",
-    "lat": "46.4995587",
-    "lng": "11.3507876",
-    "prize-de": "500 € Gutschein ",
-    "prize-it": "500 € Buono acquisto"
+    "name": "Twenty ",
+    "prize-it": "GiftCard Twenty a € 500",
+    "prize-de": "GiftCard Twenty zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "Oberrauch Zitt",
-    "lat": "46.4995587",
-    "lng": "11.3507876",
-    "prize-de": "500 € Gutschein ",
-    "prize-it": "500 € Buono acquisto"
+    "name": "Twenty ",
+    "prize-it": "GiftCard Twenty a € 500",
+    "prize-de": "GiftCard Twenty zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "500 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "500 € Despar-buono acquisto \"Happy Card\""
+    "name": "Twenty ",
+    "prize-it": "GiftCard Twenty a € 500",
+    "prize-de": "GiftCard Twenty zu 500 €",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "500 € Gutschein Monni card ",
-    "prize-it": "500 € Buono Monni card "
+    "name": "Castel Hörtenberg",
+    "prize-it": "1 cena per 2 persone ",
+    "prize-de": "Abendessen für 2 Personen",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "500 € Gutschein Monni card ",
-    "prize-it": "500 € Buono Monni card "
+    "name": "Hotel Città ",
+    "prize-it": "1 cena per 2 persone ",
+    "prize-de": "Abendessen für 2 Personen",
+    "quantity": 1,
+    "value": 500
   },
   {
-    "name": "Gutweniger Giocattoli · Spielwaren",
-    "lat": "46.5003911",
-    "lng": "11.3534188",
-    "prize-de": "500 € Lego Technic",
-    "prize-it": "500 € Lego technic "
+    "name": "Green energym",
+    "prize-it": "ABO palestra per 5 mesi ",
+    "prize-de": "Fitness ABO für 5 Monate ",
+    "quantity": 1,
+    "value": 490
   },
   {
-    "name": "Meta Restaurant",
-    "lat": "46.4981663",
-    "lng": "11.3521604",
-    "prize-de": "Barkeeper Kurs für 4 Personen",
-    "prize-it": "Corso barista x 4 persone "
-  },
-  {
-    "name": "Messerschmiede N.Lorenzi Colltelleria ",
-    "lat": "46.5000936",
-    "lng": "11.3544898",
-    "prize-de": "Aufschneidemaschine 220 CES",
-    "prize-it": "Affettatrice 220 CES "
-  },
-  {
-    "name": "Sky Alps Tour Operator S.r.l",
-    "lat": "46.4992398",
-    "lng": "11.3533226",
-    "prize-de": "Flug im Wert von 450 €",
-    "prize-it": "Volo del valore di 450 € "
-  },
-  {
-    "name": "Provoice",
-    "lat": "46.47264",
-    "lng": "11.3224443",
+    "name": "ProVoice",
+    "prize-it": "Volo panoramico in aereo (pilota+3pax)",
     "prize-de": "Rundflug",
-    "prize-it": "Volo panoramico"
-  },
-  {
-    "name": "Tecnoservice",
-    "lat": "46.485623",
-    "lng": "11.3459028",
-    "prize-de": "Klimaanlage",
-    "prize-it": "Climatizzatore"
-  },
-  {
-    "name": "Bressan snc",
-    "lat": "46.4948333",
-    "lng": "11.3444704",
-    "prize-de": "Tischlampe",
-    "prize-it": "Lampada da tavolo "
-  },
-  {
-    "name": "Trony ",
-    "lat": "46.4914643",
-    "lng": "11.3123267",
-    "prize-de": "TVC Led 50'' smart TV + Sat nordmende",
-    "prize-it": "TVC Led 50'' smart TV + Sat nordmende"
-  },
-  {
-    "name": "Buratti snc",
-    "lat": "46.4988861",
-    "lng": "11.3544096",
-    "prize-de": "Store card Buratti ",
-    "prize-it": "Store card Buratti "
-  },
-  {
-    "name": "Buratti snc",
-    "lat": "46.4988861",
-    "lng": "11.3544096",
-    "prize-de": "Store card Buratti ",
-    "prize-it": "Store card Buratti "
-  },
-  {
-    "name": "Buratti snc",
-    "lat": "46.4988861",
-    "lng": "11.3544096",
-    "prize-de": "Store card Buratti ",
-    "prize-it": "Store card Buratti "
-  },
-  {
-    "name": "Globus",
-    "lat": "46.5854246",
-    "lng": "11.1879639",
-    "prize-de": "300 € Gutschein ",
-    "prize-it": "300 € Buono acquisto"
-  },
-  {
-    "name": "Globus",
-    "lat": "46.5854246",
-    "lng": "11.1879639",
-    "prize-de": "300 € Gutschein ",
-    "prize-it": "300 € Buono acquisto"
-  },
-  {
-    "name": "Globus",
-    "lat": "46.5854246",
-    "lng": "11.1879639",
-    "prize-de": "300 € Gutschein ",
-    "prize-it": "300 € Buono acquisto"
-  },
-  {
-    "name": "Joli Nails & Beauty",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "4 Massagen",
-    "prize-it": "Massaggio 4 trattamenti"
-  },
-  {
-    "name": "Twenty srl",
-    "lat": "46.486498",
-    "lng": "11.334158",
-    "prize-de": "Twenty giftcard",
-    "prize-it": "Twenty giftcard"
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "250 € Gutschein Monni card ",
-    "prize-it": "250 € Buoni Monni card "
-  },
-  {
-    "name": "Galleria Alessandro Casciaro",
-    "lat": "46.4959159",
-    "lng": "11.3501625",
-    "prize-de": "Radierung von Paul Flora",
-    "prize-it": "Incisione di Paul Flora "
-  },
-  {
-    "name": "Mundus Reisen",
-    "lat": "46.4953048",
-    "lng": "11.3520981",
-    "prize-de": "Reisegutschein",
-    "prize-it": "Buono viaggio"
-  },
-  {
-    "name": "Mundus Reisen",
-    "lat": "46.4953048",
-    "lng": "11.3520981",
-    "prize-de": "Reisegutschein",
-    "prize-it": "Buono viaggio"
+    "quantity": 1,
+    "value": 400
   },
   {
     "name": "Noistudio ",
-    "lat": "46.4808372",
-    "lng": "11.3137057",
-    "prize-de": "Frauenuhr",
-    "prize-it": "orologio donna "
+    "prize-it": "Orologio Marca Donna",
+    "prize-de": "Frauenuht",
+    "quantity": 1,
+    "value": 427
   },
   {
-    "name": "Noistudio ",
-    "lat": "46.4808372",
-    "lng": "11.3137057",
+    "name": "Buratti ",
+    "prize-it": "Store Card Buratti a 400€",
+    "prize-de": "Store Card Buratti zu 400€",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Buratti ",
+    "prize-it": "Store Card Buratti a 400€",
+    "prize-de": "Store Card Buratti zu 400€",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Noistudio",
+    "prize-it": "Bracciale Donna ",
+    "prize-de": "Frauenarmband",
+    "quantity": 1,
+    "value": 400
+  },
+  {
+    "name": "Noistudio",
+    "prize-it": "Orologio Marca Uomo ",
     "prize-de": "Männeruhr",
-    "prize-it": "orologio uomo "
+    "quantity": 1,
+    "value": 366
   },
   {
-    "name": "Noistudio ",
-    "lat": "46.4808372",
-    "lng": "11.3137057",
-    "prize-de": "Armband",
-    "prize-it": "Bracciale unisex "
-  },
-  {
-    "name": "Eccel Decorona",
-    "lat": "46.5001042",
-    "lng": "11.3528633",
-    "prize-de": "Federbett",
-    "prize-it": "Piumino "
-  },
-  {
-    "name": "Eccel Decorona",
-    "lat": "46.5001042",
-    "lng": "11.3528633",
-    "prize-de": "Federbett",
-    "prize-it": "Piumino"
-  },
-  {
-    "name": "Novalux ",
-    "lat": "46.4851516",
-    "lng": "11.339154",
-    "prize-de": "Thermostat smart bliss 2",
-    "prize-it": "Termostato smart bliss 2"
-  },
-  {
-    "name": "Pörnbacher Josef",
-    "lat": "46.499564",
-    "lng": "11.351392",
-    "prize-de": "Silberarmband",
-    "prize-it": "Braccialetto in argento in 925/000 "
-  },
-  {
-    "name": "Meta Restaurant",
-    "lat": "46.4981663",
-    "lng": "11.3521604",
-    "prize-de": "Degustationsmenü für 2 Personen",
-    "prize-it": "Degustazione del menu (x 2 persone)"
-  },
-  {
-    "name": "Meta Restaurant",
-    "lat": "46.4981663",
-    "lng": "11.3521604",
-    "prize-de": "Degustationsmenü für 2 Personen",
-    "prize-it": "Degustazione del menu (x 2 persone) "
-  },
-  {
-    "name": "La Culla Baby-Land ",
-    "lat": "46.4695616",
-    "lng": "11.3330804",
-    "prize-de": "Stokke steps ",
-    "prize-it": "Stokke steps "
-  },
-  {
-    "name": "La Culla Baby-Land ",
-    "lat": "46.4695616",
-    "lng": "11.3330804",
-    "prize-de": "Stokketripp-trapp ",
-    "prize-it": "Stokketripp-trapp "
-  },
-  {
-    "name": "Four Points Sheraton ",
-    "lat": "46.4718501",
-    "lng": "11.3226049",
-    "prize-de": "1 Übernachtung mit Frühstück",
-    "prize-it": "1 pernottamento per due persone colazione inclusa  "
-  },
-  {
-    "name": "Vis a Vis",
-    "lat": "46.5038724",
-    "lng": "11.3406095",
-    "prize-de": "Behandlung skinneedling mit BBglow ",
-    "prize-it": "Trattamento skinneedling con BBglow "
-  },
-  {
-    "name": "Home living ",
-    "lat": "46.4931908",
-    "lng": "11.3717195",
-    "prize-de": "Topf set ",
-    "prize-it": " set pentole"
-  },
-  {
-    "name": "Ottica Gianni",
-    "lat": "46.489456",
-    "lng": "11.3305072",
-    "prize-de": "Brille Lamarca mod.intagli 88 ",
-    "prize-it": "Occhiale Lamarca mod.intagli 88 "
-  },
-  {
-    "name": "Elena Hair ",
-    "lat": "46.49188",
-    "lng": "11.3339027",
-    "prize-de": " 5 Friseurgutscheine",
-    "prize-it": "5 pieghe donna "
+    "name": "Parkhotel Laurin",
+    "prize-it": "Cena ConTamina 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
+    "quantity": 1,
+    "value": 360
   },
   {
     "name": "Bressan ",
-    "lat": "46.4948333",
-    "lng": "11.3444704",
-    "prize-de": "Cini&Nils cubo britto",
-    "prize-it": "Cini&Nils cubo britto"
+    "prize-it": "Slamp lampada ricaricabile Laufler",
+    "prize-de": "Aufladbare Lampe",
+    "quantity": 1,
+    "value": 317
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 300€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 300€",
+    "quantity": 1,
+    "value": 302.5
   },
   {
     "name": "Hotel Magdalener Hof",
-    "lat": "46.4981727",
-    "lng": "11.3736147",
-    "prize-de": "2 Übernachtungen  mit Frühstück",
-    "prize-it": "2 notti con colazione per 2 persone "
+    "prize-it": "2 pernottamenti con colazione per 2 persone",
+    "prize-de": "2 Übernachtungen mit Früchstück für 2 Personen ",
+    "quantity": 1,
+    "value": 302.4
+  },
+  {
+    "name": "Buratti ",
+    "prize-it": "Store Card Buratti a 300€",
+    "prize-de": "Store Card Buratti zu 300€",
+    "quantity": 1,
+    "value": 300
+  },
+  {
+    "name": "Gutweniger",
+    "prize-it": "Calcetto",
+    "prize-de": "Tisch Fussball ",
+    "quantity": 1,
+    "value": 300
+  },
+  {
+    "name": "Hockey Club Bozen 2000 ",
+    "prize-it": "2 ingressi per la VIP ROOM per due partite",
+    "prize-de": "Vip-Eintritt für 2 Personen für 2 Spiele",
+    "quantity": 1,
+    "value": 300
+  },
+  {
+    "name": "Hockey Club Bozen 2001",
+    "prize-it": "2 ingressi per la VIP ROOM per due partite",
+    "prize-de": "Vip-Eintritt für 2 Personen für 2 Spiele",
+    "quantity": 1,
+    "value": 300
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": 1,
+    "value": 230
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": 1,
+    "value": 230
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": 1,
+    "value": 230
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": 1,
+    "value": 230
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": 1,
+    "value": 230
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "monnycard a 250€",
+    "prize-de": "monnycard zu 250€",
+    "quantity": 1,
+    "value": 250
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "monnycard a 250€",
+    "prize-de": "monnycard zu 250€",
+    "quantity": 1,
+    "value": 250
+  },
+  {
+    "name": "Globus ",
+    "prize-it": "Buono a 225€",
+    "prize-de": "Gutschein zu 225€",
+    "quantity": 1,
+    "value": 225
+  },
+  {
+    "name": "Globus ",
+    "prize-it": "Buono a 225€",
+    "prize-de": "Gutschein zu 225€",
+    "quantity": 1,
+    "value": 225
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 200€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 200€",
+    "quantity": 1,
+    "value": 198
+  },
+  {
+    "name": "Profumerie Ferrari",
+    "prize-it": "Set Cura viso Estèe Lauder",
+    "prize-de": "Geschtspflege-Set Markesi-Clingie Estèe Lauder",
+    "quantity": 1,
+    "value": 163
+  },
+  {
+    "name": "Profumerie Ferrari",
+    "prize-it": "Set Cura viso Estèe Lauder",
+    "prize-de": "Geschtspflege-Set Markesi-Clingie Estèe Lauder",
+    "quantity": 1,
+    "value": 163
+  },
+  {
+    "name": "Profumerie Ferrari",
+    "prize-it": "Set Cura viso Estèe Lauder",
+    "prize-de": "Geschtspflege-Set Markesi-Clingie Estèe Lauder",
+    "quantity": 1,
+    "value": 163
+  },
+  {
+    "name": "Bressan ",
+    "prize-it": "Lampada musicale portatile",
+    "prize-de": "Tragbare Musik-Lampe",
+    "quantity": 1,
+    "value": 158.6
   },
   {
     "name": "Novalux ",
-    "lat": "46.4851516",
-    "lng": "11.339154",
-    "prize-de": "UPS Legrand 310180 ",
-    "prize-it": "UPS Legrand 310180 "
+    "prize-it": "Take Away Sound RS",
+    "prize-de": "Take Away Sound RS",
+    "quantity": 1,
+    "value": 150.87
   },
   {
-    "name": "Parfumerie Ferrari",
-    "lat": "46.4997773",
-    "lng": "11.3420701",
-    "prize-de": "150 € Gutschein",
-    "prize-it": "150 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "150 € Gutschein",
-    "prize-it": "150 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "150 € Gutschein",
-    "prize-it": "150 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "150 € Gutschein",
-    "prize-it": "150 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "150 € Gutschein",
-    "prize-it": "150 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "150 € Gutschein",
-    "prize-it": "150 € Buono acquisto"
+    "name": "Four Points Sheraton",
+    "prize-it": "Cena per 2 persone (3 portate bevande escluse)",
+    "prize-de": "Abendessen für 2 Personen (3 Gang Menü exkl. Getränke)",
+    "quantity": 1,
+    "value": 150
   },
   {
     "name": "Fielmann",
-    "lat": "46.4996268",
-    "lng": "11.3492469",
-    "prize-de": "Brillen-Gutschein",
-    "prize-it": "Buono acquisto su occhiali da sole o da vista con altre promozioni "
+    "prize-it": "Buono per acquisto occhiali sole/vista da 150€",
+    "prize-de": "Gutschein für eine Seh- oder Sonnebrille zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
     "name": "Fielmann",
-    "lat": "46.4996268",
-    "lng": "11.3492469",
-    "prize-de": "Brillen-Gutschein",
-    "prize-it": "Buono acquisto su occhiali da sole o da vista con altre promozioni "
+    "prize-it": "Buono per acquisto occhiali sole/vista da 150€",
+    "prize-de": "Gutschein für eine Seh- oder Sonnebrille zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
-    "name": "Fielmann",
-    "lat": "46.4996268",
-    "lng": "11.3492469",
-    "prize-de": "Brillen-Gutschein",
-    "prize-it": "Buono acquisto su occhiali da sole o da vista con altre promozioni "
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
-    "name": "Elena Hair ",
-    "lat": "46.49188",
-    "lng": "11.3339027",
-    "prize-de": "5 Friseurgutscheine",
-    "prize-it": "5 taglio uomo "
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": 1,
+    "value": 150
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
+    "name": "La culla",
+    "prize-it": "Bici bambino",
+    "prize-de": "Kinderfahrrad",
+    "quantity": 1,
+    "value": 149.9
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "150 € Despar-Einkaufsgutschein „Happy Card“",
-    "prize-it": "150 € Despar-buono acquisto Happy Card"
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 150€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 150€",
+    "quantity": 1,
+    "value": 148.5
   },
   {
     "name": "Novalux ",
-    "lat": "46.4851516",
-    "lng": "11.339154",
-    "prize-de": "Tischlampe",
-    "prize-it": "Lampada da tavolo led "
+    "prize-it": "Lampada PH Beauvis",
+    "prize-de": "Lampe PH Beauvis",
+    "quantity": 1,
+    "value": 146.4
   },
   {
-    "name": "La Culla Baby-Land ",
-    "lat": "46.4695616",
-    "lng": "11.3330804",
-    "prize-de": "Odenwaelder saccomucky p5 ",
-    "prize-it": "Odenwaelder saccomucky p5 "
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": 1,
+    "value": 140
   },
   {
-    "name": "La Culla Baby-Land ",
-    "lat": "46.4695616",
-    "lng": "11.3330804",
-    "prize-de": "Odenwaelder saccomucky p5 ",
-    "prize-it": "Odenwaelder saccomucky p5 "
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": 1,
+    "value": 140
   },
   {
-    "name": "Joli Nails & Beauty",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "Gesichts- und Körperbehandlung ",
-    "prize-it": "Trattamento viso e corpo "
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": 1,
+    "value": 140
   },
   {
-    "name": "Hopfen&Co. ",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Bierfass zu 5 l",
-    "prize-it": "Fusto 5 lt.birra "
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": 1,
+    "value": 140
   },
   {
-    "name": "Grüne Import Paganella ",
-    "lat": "46.47404",
-    "lng": "11.324486",
-    "prize-de": "Slokker Helm",
-    "prize-it": "Slokker casco randal "
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": 1,
+    "value": 140
   },
   {
-    "name": "Optik Walter",
-    "lat": "46.499653",
-    "lng": "11.3535655",
+    "name": "La culla ",
+    "prize-it": "Seggiolino Legno Timba",
+    "prize-de": "Kinderstuhl Holz Timba",
+    "quantity": 1,
+    "value": 139.9
+  },
+  {
+    "name": "Selectra",
+    "prize-it": "Lamapada riciclabile da tavolo bianca",
+    "prize-de": "Recyclbare Tischlampe",
+    "quantity": 1,
+    "value": 134.2
+  },
+  {
+    "name": "Selectra",
+    "prize-it": "Lamapada riciclabile da tavolo bianca",
+    "prize-de": "Recyclbare Tischlampe",
+    "quantity": 1,
+    "value": 134.2
+  },
+  {
+    "name": "Selectra ",
+    "prize-it": "Lamapada riciclabile da tavolo bianca",
+    "prize-de": "Recyclbare Tischlampe",
+    "quantity": 1,
+    "value": 134.2
+  },
+  {
+    "name": "Bressan ",
+    "prize-it": "Logica lampada ricaricabile Twiggy ",
+    "prize-de": "Recyclbare Lampe Twiggy",
+    "quantity": 1,
+    "value": 128
+  },
+  {
+    "name": "Metzgerei Kaufmann",
+    "prize-it": "Buono a 125€",
+    "prize-de": "Gutschein zu 125€",
+    "quantity": 1,
+    "value": 125
+  },
+  {
+    "name": "Metzgerei Kaufmann",
+    "prize-it": "Buono a 125€",
+    "prize-de": "Gutschein zu 125€",
+    "quantity": 1,
+    "value": 125
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exclusive Stadtführung ",
+    "quantity": 1,
+    "value": 123.5
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exclusive Stadtführung ",
+    "quantity": 1,
+    "value": 123.5
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exclusive Stadtführung ",
+    "quantity": 1,
+    "value": 123.5
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exclusive Stadtführung ",
+    "quantity": 1,
+    "value": 123.5
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exclusive Stadtführung ",
+    "quantity": 1,
+    "value": 123.5
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": 1,
+    "value": 120
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": 1,
+    "value": 120
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": 1,
+    "value": 120
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": 1,
+    "value": 120
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": 1,
+    "value": 120
+  },
+  {
+    "name": "La culla ",
+    "prize-it": "Seggiolino auto gr. 2-3",
+    "prize-de": "Autokindersitz Gr. 2-3",
+    "quantity": 1,
+    "value": 119.9
+  },
+  {
+    "name": "Fuganti ",
+    "prize-it": "Giacca da Camera-Perofil",
+    "prize-de": "Jacke",
+    "quantity": 1,
+    "value": 116
+  },
+  {
+    "name": "Novalux",
+    "prize-it": "Mixer, Coltello EL. e Set Thermos ",
+    "prize-de": "Mixer, Messer und Set Thermos ",
+    "quantity": 1,
+    "value": 114.7
+  },
+  {
+    "name": "Novalux ",
+    "prize-it": "Mini Living Colors PH e Set Thermos",
+    "prize-de": "Mini Living Colors PH und Set Thermos",
+    "quantity": 1,
+    "value": 105.31
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch für 2 Personen",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch für 2 Personen",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Panificio Lemayr ",
+    "prize-it": "Cesta alimentare",
+    "prize-de": "Essenskorb",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Parfumerie Irene Ferrari ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutscheine zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Parfumerie Irene Ferrari ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutscheine zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Parfumerie Irene Ferrari ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutscheine zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "ASPIAG",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "HDS unione",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100 ",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100 ",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 100€",
+    "prize-de": "Gutschein Abendessen zu 100€",
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": 1,
+    "value": 99
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": 1,
+    "value": 99
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": 1,
+    "value": 99
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": 1,
+    "value": 99
+  },
+  {
+    "name": "La culla",
+    "prize-it": "Peluches orso gigante",
+    "prize-de": "Großer Teddybär",
+    "quantity": 1,
+    "value": 81.88
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch für 2 Personen",
+    "quantity": 1,
+    "value": 80
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": 1,
+    "value": 80
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": 1,
+    "value": 80
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": 1,
+    "value": 80
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": 1,
+    "value": 80
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Menu degustazione per 2 persone",
+    "prize-de": "Degustationsmenü für 2 Personen",
+    "quantity": 1,
+    "value": 76
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Menu degustazione per 2 persone",
+    "prize-de": "Degustationsmenü für 2 Personen",
+    "quantity": 1,
+    "value": 76
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Menu degustazione per 2 persone",
+    "prize-de": "Degustationsmenü für 2 Personen",
+    "quantity": 1,
+    "value": 76
+  },
+  {
+    "name": "Ottica Calderari",
+    "prize-it": "Occhiali da sole",
     "prize-de": "Sonnenbrille",
-    "prize-it": "Occhiale da sole"
+    "quantity": 1,
+    "value": 73.2
   },
   {
-    "name": "SIGI d.Covi DStephan&Co. KG",
-    "lat": "46.5001057",
-    "lng": "11.3586134",
-    "prize-de": "Torcia Led Lenser ",
-    "prize-it": "Torcia Led Lenser "
+    "name": "Ottica Calderari",
+    "prize-it": "Occhiali da sole",
+    "prize-de": "Sonnenbrille",
+    "quantity": 1,
+    "value": 73.2
   },
   {
-    "name": "DESPAR",
-    "lat": "46.4697008",
-    "lng": "11.320165",
-    "prize-de": "100 € Despar-Einkaufsgutscheine „Happy Card\"",
-    "prize-it": "100 € Despar-buono acquisto Happy Card"
-  },
-  {
-    "name": "Intimissimi via Museo/Museumstr.",
-    "lat": "46.4996346",
-    "lng": "11.3496575",
-    "prize-de": "100 € Intimissimi Gutschein",
-    "prize-it": "100 € Buono negozio intimissimi donna  "
-  },
-  {
-    "name": "Intimissimi via Museo/Museumstr.",
-    "lat": "46.4996346",
-    "lng": "11.3496575",
-    "prize-de": "100 € Intimissimi Gutschein",
-    "prize-it": "100 € Buono negozio intimissimi donna  "
-  },
-  {
-    "name": "Gutweniger Giocattoli · Spielwaren",
-    "prize-de": "Einkaufsgutschein",
-    "prize-it": "Buono acquisto"
-  },
-  {
-    "name": "Intimissimi via Museo/Museumstr.",
-    "lat": "46.4996346",
-    "lng": "11.3496575",
-    "prize-de": "100 € Intimissimi Gutschein",
-    "prize-it": "100 € Buono intimissimi  uomo "
-  },
-  {
-    "name": "Intimissimi via Museo/Museumstr.",
-    "lat": "46.4996346",
-    "lng": "11.3496575",
-    "prize-de": "100 € Intimissimi Gutschein",
-    "prize-it": "100 € Buono intimissimi  uomo "
-  },
-  {
-    "name": "Gutweniger Giocattoli · Spielwaren",
-    "lat": "46.5003911",
-    "lng": "11.3534188",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "hds unione",
-    "lat": "46.4927532",
-    "lng": "11.3308774",
-    "prize-de": "100 € Gutschein Monni card ",
-    "prize-it": "100 € Buoni Monni card "
-  },
-  {
-    "name": "Torgglhaus Al Torchio",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Abendessen für 2 Perosnen",
-    "prize-it": "Cena per due persone "
-  },
-  {
-    "name": "Palais Moire",
-    "lat": "46.499951",
-    "lng": "11.350764",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Palais Moire",
-    "lat": "46.499951",
-    "lng": "11.350764",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Palais Moire",
-    "lat": "46.499951",
-    "lng": "11.350764",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Palais Moire",
-    "lat": "46.499951",
-    "lng": "11.350764",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Palais Moire",
-    "lat": "46.499951",
-    "lng": "11.350764",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Panificio Lemayr ",
-    "lat": "46.4995175",
-    "lng": "11.3515024",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Panificio Lemayr ",
-    "lat": "46.4995175",
-    "lng": "11.3515024",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Panificio Lemayr ",
-    "lat": "46.4995175",
-    "lng": "11.3515024",
-    "prize-de": "Beautyset",
-    "prize-it": "100 € Buono acquisto"
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 70€",
+    "prize-de": "Gutschein Abendessen zu 70€",
+    "quantity": 1,
+    "value": 70
   },
   {
     "name": "Thaler ",
-    "lat": "46.499574",
-    "lng": "11.3507497",
-    "prize-de": "Beautyset",
-    "prize-it": "Set prodotti beauty "
+    "prize-it": "Thaler profumeria: Prodotti bellezza ",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": 1,
+    "value": 61
   },
   {
     "name": "Thaler ",
-    "lat": "46.499574",
-    "lng": "11.3507497",
-    "prize-de": "Beautyset",
-    "prize-it": "Set prodotti beauty "
+    "prize-it": "Thaler profumeria: Prodotti bellezza ",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": 1,
+    "value": 61
   },
   {
-    "name": "Thaler ",
-    "lat": "46.499574",
-    "lng": "11.3507497",
-    "prize-de": "Beautyset",
-    "prize-it": "Set prodotti beauty "
+    "name": "Marka ",
+    "prize-it": "Articoli cura persona",
+    "prize-de": "Pflegeprodukte",
+    "quantity": 1,
+    "value": 61
   },
   {
-    "name": "Thaler ",
-    "lat": "46.499574",
-    "lng": "11.3507497",
-    "prize-de": "Beautyset",
-    "prize-it": "Set prodotti beauty "
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": 1,
+    "value": 75
   },
   {
-    "name": "Thaler ",
-    "lat": "46.499574",
-    "lng": "11.3507497",
-    "prize-de": "Beautyset",
-    "prize-it": "Set prodotti beauty "
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": 1,
+    "value": 75
   },
   {
-    "name": "Zari Bolzano",
-    "lat": "46.4991121",
-    "lng": "11.3546622",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": 1,
+    "value": 75
   },
   {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
-  },
-  {
-    "name": "Castel Flavon - Haselburg",
-    "lat": "46.4766244",
-    "lng": "11.3413607",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": 1,
+    "value": 75
   },
   {
     "name": "Restaurant Nadamas",
-    "lat": "46.5001504",
-    "lng": "11.3507844",
-    "prize-de": "Abendessen",
-    "prize-it": "Cena"
+    "prize-it": "Buono a cena o pranzo per due ",
+    "prize-de": "Gutschein für Mittag- oder Abendessen ",
+    "quantity": 1,
+    "value": 66
   },
   {
-    "name": "Termoservice ",
-    "lat": "46.4857338",
-    "lng": "11.3198161",
-    "prize-de": "Preisnachlass auf Klimaanlagen  \"Riello\" ",
-    "prize-it": "Sconto su fornitura climatizzatore \"Riello\" "
+    "name": "Restaurant Nadamas",
+    "prize-it": "Buono a cena o pranzo per due ",
+    "prize-de": "Gutschein für Mittag- oder Abendessen ",
+    "quantity": 1,
+    "value": 66
   },
   {
-    "name": "Termoservice ",
-    "lat": "46.4857338",
-    "lng": "11.3198161",
-    "prize-de": "Preisnachlass auf Klimaanlagen  \"Riello\" ",
-    "prize-it": "Sconto su fornitura climatizzatore \"Riello\" "
+    "name": "Restaurant Nadamas",
+    "prize-it": "Buono a cena o pranzo per due ",
+    "prize-de": "Gutschein für Mittag- oder Abendessen ",
+    "quantity": 1,
+    "value": 66
   },
   {
-    "name": "Castel Flavon - Haselburg ",
-    "lat": "46.4766244",
-    "lng": "11.3413607",
-    "prize-de": "100 € Gutschein",
-    "prize-it": "100 € Buono acquisto"
+    "name": "Thaler ",
+    "prize-it": "Thaler Vital: Articoli/prodotti benessere",
+    "prize-de": "Thaler Vital: Schönheitsprodukte",
+    "quantity": 1,
+    "value": 61
   },
   {
-    "name": "Hotel Magdalener Hof",
-    "lat": "46.4981727",
-    "lng": "11.3736147",
-    "prize-de": "Abendessen",
-    "prize-it": "Cena"
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 60€",
+    "prize-de": "Gutschein Abendessen zu 60€",
+    "quantity": 1,
+    "value": 60
   },
   {
-    "name": "Gioielleria Bonaldi",
-    "lat": "46.4918986",
-    "lng": "11.3313252",
-    "prize-de": "Halskette in Bronze Marke Rebecca",
-    "prize-it": "Collier in bronzo rodiato Marca Rebecca "
+    "name": "Profumerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": 1,
+    "value": 60
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": 1,
+    "value": 60
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": 1,
+    "value": 60
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": 1,
+    "value": 60
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": 1,
+    "value": 60
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Sunday Brunch per 2 persone",
+    "prize-de": "Sunday Brunch für 2 Personen ",
+    "quantity": 1,
+    "value": 58
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Sunday Brunch per 2 persone",
+    "prize-de": "Sunday Brunch für 2 Personen ",
+    "quantity": 1,
+    "value": 58
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Four Points Sheraton",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": 1,
+    "value": 56
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Four Points Sheraton",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": 1,
+    "value": 56
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Buono colazione per 2 persone",
+    "prize-de": "Gutschein Frühstück für 2 Personen ",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Buono colazione per 2 persone",
+    "prize-de": "Gutschein Frühstück für 2 Personen ",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Cubo 925 argento Armand",
-    "prize-it": "Cubo 925 argento Armand"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Rubatscher ",
-    "lat": "46.499677",
-    "lng": "11.3528288",
-    "prize-de": "80 € Gutschein",
-    "prize-it": "80 € Buono acquisto"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Rubatscher ",
-    "lat": "46.499677",
-    "lng": "11.3528288",
-    "prize-de": "80 € Gutschein",
-    "prize-it": "80 € Buono acquisto"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Rubatscher ",
-    "lat": "46.499677",
-    "lng": "11.3528288",
-    "prize-de": "80 € Gutschein",
-    "prize-it": "80 € Buono acquisto"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Stiftung Haydn ",
-    "lat": "46.495798",
-    "lng": "11.3477361",
-    "prize-de": "2 Eintrittskarten für die Opernvorstellung \"Carmen\" am 26.03.2022",
-    "prize-it": "2 biglietti per lo spettacolo d'opera \"Carmen\" il 26.03.2022"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Lady 900",
-    "lat": "11.3335853",
-    "lng": "11.3335853",
-    "prize-de": "5 Friseurgutscheine",
-    "prize-it": "Buono per 5 pieghe "
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Eccel Decorona ",
-    "lat": "46.5001042",
-    "lng": "11.3528633",
-    "prize-de": "Bettwäsche",
-    "prize-it": "Biancheria da letto + lenzuolo "
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Eccel Decorona ",
-    "lat": "46.5001042",
-    "lng": "11.3528633",
-    "prize-de": "Bettwäsche",
-    "prize-it": "Biancheria da letto + lenzuolo "
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project29 ",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project30",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project31",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project32",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project33",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project34",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project35",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project36",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project37",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Project38",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
+    "name": "Resurrection d. Hermann Nussbaumer",
+    "prize-it": "Buono per lavaggi, taglio e piega",
+    "prize-de": "Gutschein für waschen, schneiden und föhnen",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
-  },
-  {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
-  },
-  {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
-  },
-  {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
-  },
-  {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
-  },
-  {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Armband Silber 925 Herz und Perlen",
-    "prize-it": "Bracciale in argento 925 Cuore/Perle "
-  },
-  {
-    "name": "Termoservice ",
-    "lat": "46.4857338",
-    "lng": "11.3198161",
-    "prize-de": "Gutschein für Wartung Boiler \"Riello\"",
-    "prize-it": "Buono per manutenzione caldaia murale \"Riello\""
-  },
-  {
-    "name": "Termoservice ",
-    "lat": "46.4857338",
-    "lng": "11.3198161",
-    "prize-de": "Gutschein für Wartung Boiler \"Riello\"",
-    "prize-it": "Buono per manutenzione caldaia murale \"Riello\""
-  },
-  {
-    "name": "Grifoncino ",
-    "lat": "46.4983367",
-    "lng": "11.3534654",
-    "prize-de": "Gutschein für 2 Personen Grifoncino",
-    "prize-it": "Buono  per 2 persone al Grifoncino"
-  },
-  {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Kuchen für 12 Personen",
-    "prize-it": " torta x 12 persone "
-  },
-  {
-    "name": "Grüne Import Paganella ",
-    "lat": "46.47404",
-    "lng": "11.324486",
-    "prize-de": "Slokker Sonnenbrille",
-    "prize-it": "Slokker occhiali da sole siusi "
-  },
-  {
-    "name": "Hopfen&co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Degustationsmenü für 2 Personen",
-    "prize-it": "Menu degustazione x2 persone "
-  },
-  {
-    "name": "Hopfen&co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Degustationsmenü für 2 Personen",
-    "prize-it": "Menu degustazione x2 persone "
-  },
-  {
-    "name": "Hopfen&co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Degustationsmenü für 2 Personen",
-    "prize-it": "Menu degustazione x2 persone "
-  },
-  {
-    "name": "Stiftung Museion",
-    "lat": "46.4973305",
-    "lng": "11.3462041",
-    "prize-de": "Museumsführung mit Direktor Van der Heide für 2 Personen",
-    "prize-it": "Visita guidata con il direttore del Museion Van der Heide per 2 persone (60 minuti) "
-  },
-  {
-    "name": "Estetica di Lu",
-    "lat": "46.492034",
-    "lng": "11.3310545",
-    "prize-de": "Hot Stone Massage",
-    "prize-it": "Massaggio hot stone pietre calde"
-  },
-  {
-    "name": "Stiftung Museion",
-    "lat": "46.4973305",
-    "lng": "11.3462041",
-    "prize-de": "Abo für 1 Jahr für 2 Personen",
-    "prize-it": "Abbonamento annuale entrata al museo per due persone"
-  },
-  {
-    "name": "THUN ",
-    "lat": "46.4718255",
-    "lng": "11.3229903",
-    "prize-de": "6 Tassen Jungle",
-    "prize-it": "6 Tazzine Jungle"
-  },
-  {
-    "name": "THUN",
-    "lat": "46.4718255",
-    "lng": "11.3229903",
-    "prize-de": "6 Tassen Fiesta ",
-    "prize-it": "6 Tazzine fiesta"
-  },
-  {
-    "name": "Twenty ",
-    "lat": "46.486498",
-    "lng": "11.334158",
-    "prize-de": "Twenty giftcard",
-    "prize-it": "Twenty giftcard"
-  },
-  {
-    "name": "Twenty ",
-    "lat": "46.486498",
-    "lng": "11.334158",
-    "prize-de": "Twenty giftcard",
-    "prize-it": "Twenty giftcard"
-  },
-  {
-    "name": "Twenty ",
-    "lat": "46.486498",
-    "lng": "11.334158",
-    "prize-de": "Twenty giftcard",
-    "prize-it": "Twenty giftcard"
-  },
-  {
-    "name": "Twenty ",
-    "lat": "46.486498",
-    "lng": "11.334158",
-    "prize-de": "Twenty giftcard",
-    "prize-it": "Twenty giftcard"
-  },
-  {
-    "name": "Twenty ",
-    "lat": "46.486498",
-    "lng": "11.334158",
-    "prize-de": "Twenty giftcard",
-    "prize-it": "Twenty giftcard"
-  },
-  {
-    "name": "Intimissimi via Museo/Museumstr.",
-    "lat": "46.4995904",
-    "lng": "11.3500155",
-    "prize-de": "50 € Intimissimi Gutschein",
-    "prize-it": "Buono negozio intimissimi  "
-  },
-  {
-    "name": "Bergmilch Südtirol / Mila",
-    "lat": "46.4937915",
-    "lng": "11.3795414",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bergmilch Südtirol / Mila",
-    "lat": "46.4937915",
-    "lng": "11.3795414",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bergmilch Südtirol / Mila",
-    "lat": "46.4937915",
-    "lng": "11.3795414",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bergmilch Südtirol / Mila",
-    "lat": "46.4937915",
-    "lng": "11.3795414",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Zari Bolzano",
-    "lat": "46.4991121",
-    "lng": "11.3546622",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Bricocenter Straudi ",
-    "lat": "46.4933322",
-    "lng": "11.3566926",
-    "prize-de": "50 € Gutschein",
-    "prize-it": "50 € Buono acquisto"
-  },
-  {
-    "name": "Intimissimi via Museo/Museumstr.",
-    "lat": "46.4995904",
-    "lng": "11.3500155",
-    "prize-de": "50 € Intimissimi Gutschein",
-    "prize-it": "Buono intimissimi  del valore di 50€"
+    "name": "Resurrection d. Hermann Nussbaumer",
+    "prize-it": "Buono per lavaggi, taglio e piega",
+    "prize-de": "Gutschein für waschen, schneiden und föhnen",
+    "quantity": 1,
+    "value": 50
   },
   {
     "name": "Farmacie Bonvicini ",
-    "lat": "46.4917354",
-    "lng": "11.3288338",
-    "prize-de": "50 € Gutschein auf kosmetische Produkte",
-    "prize-it": "50 € Buono acquisto prodotti cosmetici"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
     "name": "Farmacie Bonvicini ",
-    "lat": "46.4917354",
-    "lng": "11.3288338",
-    "prize-de": "50 € Gutschein auf kosmetische Produkte",
-    "prize-it": "50 € Buono acquisto prodotti cosmetici"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
     "name": "Farmacie Bonvicini ",
-    "lat": "46.4917354",
-    "lng": "11.3288338",
-    "prize-de": "50 € Gutschein auf kosmetische Produkte",
-    "prize-it": "50 € Buono acquisto prodotti cosmetici"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
     "name": "Farmacie Bonvicini ",
-    "lat": "46.4917354",
-    "lng": "11.3288338",
-    "prize-de": "50 € Gutschein auf kosmetische Produkte",
-    "prize-it": "50 € Buono acquisto prodotti cosmetici"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Farmacie Bonvicini ",
-    "lat": "46.4917354",
-    "lng": "11.3288338",
-    "prize-de": "50 € Gutschein auf kosmetische Produkte",
-    "prize-it": "50 € Buono acquisto prodotti cosmetici"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Rest. Nussbaumer",
-    "lat": "46.500794",
-    "lng": "11.354747",
-    "prize-de": "Abendessen für 2 Personen",
-    "prize-it": "Cena per due persone"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Stiftung Haydn ",
-    "lat": "46.495798",
-    "lng": "11.3477361",
-    "prize-de": "2 Eintrittskarten für das Konzert- Haydn/Kent Nagano il 19.02.2022 ",
-    "prize-it": "Biglietti per il concerto dell'Orchestra Haydn/Kent Nagano il 19.02.2022 x 2 persone"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Restaurant Bamboo",
-    "lat": "46.4966809",
-    "lng": "11.351511",
-    "prize-de": "50 € Gutschein Bamboo ",
-    "prize-it": "50 € Buono Regalo Bamboo "
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Four Points Sheraton ",
-    "lat": "46.4718501",
-    "lng": "11.3226049",
-    "prize-de": "Eintritt fü 2 Personen im 7° Heaven Beauty&Wellness",
-    "prize-it": " ingresso per 2 persone al nostro 7° Cielo Beauty&Wellness"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "Four Points Sheraton ",
-    "lat": "46.4718501",
-    "lng": "11.3226049",
-    "prize-de": "Eintritt fü 2 Personen im 7° Heaven Beauty&Wellness",
-    "prize-it": " ingresso per 2 persone al nostro 7° Cielo Beauty&Wellness"
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 50€",
+    "prize-de": "Gutschein Abendessen zu 50€",
+    "quantity": 1,
+    "value": 50
   },
   {
-    "name": "THUN",
-    "lat": "46.4718255",
-    "lng": "11.3229903",
-    "prize-de": "Nelly Engel",
-    "prize-it": "Angelo Nelly"
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Weingut Eberlehof",
-    "lat": "46.5020374",
-    "lng": "11.3686768",
-    "prize-de": "Weindegustation für 2 Personen",
-    "prize-it": "Voucher per una degustazione di vini per due persone "
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Weingut Eberlehof",
-    "lat": "46.5020374",
-    "lng": "11.3686768",
-    "prize-de": "Weindegustation für 2 Personen",
-    "prize-it": "Voucher per una degustazione di vini per due persone "
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Termoservice ",
-    "lat": "46.4857338",
-    "lng": "11.3198161",
-    "prize-de": "Wartungsgutschein",
-    "prize-it": "Buono per manutenzione scaldabagno \"Riello\" (q.2) "
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Termoservice ",
-    "lat": "46.4857338",
-    "lng": "11.3198161",
-    "prize-de": "Wartungsgutschein",
-    "prize-it": "Buono per manutenzione scaldabagno \"Riello\" (q.2) "
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Brasolin Auto ",
-    "lat": "46.4686586",
-    "lng": "11.3296552",
-    "prize-de": "Gutschein für einen Ölwechsel",
-    "prize-it": "Buono cambio olio"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "Buono per una degustazione vini per 2 persone",
+    "prize-de": "Gutschein Weinverkostung für 2 Personen",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Brasolin Auto ",
-    "lat": "46.4686586",
-    "lng": "11.3296552",
-    "prize-de": "Gutschein für einen Ölwechsel",
-    "prize-it": "Buono cambio olio"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "Buono per una degustazione vini per 2 persone",
+    "prize-de": "Gutschein Weinverkostung für 2 Personen",
+    "quantity": 1,
+    "value": 44
   },
   {
-    "name": "Brasolin Auto ",
-    "lat": "46.4686586",
-    "lng": "11.3296552",
-    "prize-de": "Gutschein für einen Ölwechsel",
-    "prize-it": "Buono cambio olio"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": 1,
+    "value": 40
   },
   {
-    "name": "Brasolin Auto ",
-    "lat": "46.4686586",
-    "lng": "11.3296552",
-    "prize-de": "Gutschein für einen Ölwechsel",
-    "prize-it": "Buono cambio olio"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": 1,
+    "value": 40
   },
   {
-    "name": "Brasolin Auto ",
-    "lat": "46.4686586",
-    "lng": "11.3296552",
-    "prize-de": "Gutschein für einen Ölwechsel",
-    "prize-it": "Buono cambio olio"
+    "name": "Profumerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": 1,
+    "value": 40
+  },
+  {
+    "name": "Profumerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": 1,
+    "value": 40
+  },
+  {
+    "name": "Vereinigte Bühnen Bozen",
+    "prize-it": "2 tickets per uno spettacolo a scelta entro 2023",
+    "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
+    "quantity": 1,
+    "value": 39
+  },
+  {
+    "name": "Vereinigte Bühnen Bozen",
+    "prize-it": "2 tickets per uno spettacolo a scelta entro 2023",
+    "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
+    "quantity": 1,
+    "value": 39
+  },
+  {
+    "name": "Vereinigte Bühnen Bozen",
+    "prize-it": "2 tickets per uno spettacolo a scelta entro 2023",
+    "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
+    "quantity": 1,
+    "value": 39
+  },
+  {
+    "name": "Thaler ",
+    "prize-it": "Thaler Profumeria: Prodotti bellezza",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": 1,
+    "value": 30.5
+  },
+  {
+    "name": "Thaler ",
+    "prize-it": "Thaler Profumeria: Prodotti bellezza",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": 1,
+    "value": 30.5
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": 1,
+    "value": 30
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": 1,
+    "value": 30
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": 1,
+    "value": 30
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": 1,
+    "value": 30
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": 1,
+    "value": 30
   },
   {
     "name": "Loacker cafè",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "Geschenkskorb",
-    "prize-it": "Cestino del divertimento"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": 1,
+    "value": 29.9
   },
   {
     "name": "Loacker cafè",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "Geschenkskorb",
-    "prize-it": "Cestino del divertimento"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": 1,
+    "value": 29.9
   },
   {
     "name": "Loacker cafè",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "Geschenkskorb",
-    "prize-it": "Cestino del divertimento"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": 1,
+    "value": 29.9
   },
   {
     "name": "Loacker cafè",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "Geschenkskorb",
-    "prize-it": "Cestino del divertimento"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": 1,
+    "value": 29.9
   },
   {
     "name": "Loacker cafè",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "Geschenkskorb",
-    "prize-it": "Cestino del divertimento"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": 1,
+    "value": 29.9
   },
   {
-    "name": "THUN ",
-    "lat": "46.4718255",
-    "lng": "11.3229903",
-    "prize-de": "Glocke",
-    "prize-it": "Campanella "
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": 1,
+    "value": 28
   },
   {
-    "name": "Estetica di Lu",
-    "lat": "46.492034",
-    "lng": "11.3310545",
-    "prize-de": "Pedicure Spa",
-    "prize-it": "Pedicure Spa"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": 1,
+    "value": 28
   },
   {
-    "name": "Grifoncino",
-    "lat": "46.4983367",
-    "lng": "11.3534654",
-    "prize-de": "Gutschein für 2 Cocktails",
-    "prize-it": "Buono acquisto per due cocktail"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": 1,
+    "value": 28
   },
   {
-    "name": "Vereinigte Bühnen Bozen",
-    "lat": "46.4955302",
-    "lng": "11.3512453",
-    "prize-de": "2 Theatergutscheine",
-    "prize-it": "Buono per il teatro 2 Persone"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": 1,
+    "value": 28
   },
   {
-    "name": "Vereinigte Bühnen Bozen",
-    "lat": "46.4955302",
-    "lng": "11.3512453",
-    "prize-de": "2 Theatergutscheine",
-    "prize-it": "Buono per il teatro 2 Persone"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": 1,
+    "value": 28
   },
   {
-    "name": "Vereinigte Bühnen Bozen",
-    "lat": "46.4955302",
-    "lng": "11.3512453",
-    "prize-de": "2 Theatergutscheine",
-    "prize-it": "Buono per il teatro 2 Persone"
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": 1,
+    "value": 27.5
   },
   {
-    "name": "Vereinigte Bühnen Bozen",
-    "lat": "46.4955302",
-    "lng": "11.3512453",
-    "prize-de": "2 Theatergutscheine",
-    "prize-it": "Buono per il teatro 2 Persone"
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": 1,
+    "value": 27.5
   },
   {
-    "name": "Vereinigte Bühnen Bozen",
-    "lat": "46.4955302",
-    "lng": "11.3512453",
-    "prize-de": "2 Theatergutscheine",
-    "prize-it": "Buono per il teatro 2 Persone"
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": 1,
+    "value": 27.5
   },
   {
-    "name": "Vereinigte Bühnen Bozen",
-    "lat": "46.4955302",
-    "lng": "11.3512453",
-    "prize-de": "2 Theatergutscheine",
-    "prize-it": "Buono per il teatro 2 Persone"
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": 1,
+    "value": 27.5
   },
   {
-    "name": "Grüne Import Paganella ",
-    "lat": "46.47404",
-    "lng": "11,324,486",
-    "prize-de": "Slokker Mütze",
-    "prize-it": "Slokker cappellino megan "
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": 1,
+    "value": 27.5
   },
   {
-    "name": "Estetica di Lu",
-    "lat": "46.492034",
-    "lng": "11.3310545",
-    "prize-de": "Manicure Semipermanent",
-    "prize-it": "Manicure semipermanente "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Zari Bolzano",
-    "lat": "46.4991121",
-    "lng": "11.3546622",
-    "prize-de": "30 € Gutschein",
-    "prize-it": "Buono acquisto"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Corte - Bar & Bistro",
-    "lat": "46.4981663",
-    "lng": "11.3521604",
-    "prize-de": "Mittagessen für 2 Personen",
-    "prize-it": "Pranzo x2 persone "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Mercerie Fuganti",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "500 gr Wolle",
-    "prize-it": "500 gr di lana "
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe ",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": 1,
+    "value": 25
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "2 bottiglie di vino",
+    "prize-de": "2er Karton Wein ",
+    "quantity": 1,
+    "value": 23
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "2 bottiglie di vino",
+    "prize-de": "2er Karton Wein ",
+    "quantity": 1,
+    "value": 23
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "2 bottiglie di vino",
+    "prize-de": "2er Karton Wein ",
+    "quantity": 1,
+    "value": 23
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Schmid & von Bosio",
-    "lat": "46.4994823",
-    "lng": "11.3510304",
-    "prize-de": "Ohrringe",
-    "prize-it": "Orecchini coccinella 925 argento"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": 1,
+    "value": 22.9
   },
   {
-    "name": "Enoteca Gandolfi ",
-    "lat": "46.4937556",
-    "lng": "11.3099532",
-    "prize-de": "Degustation für 2 Personen",
-    "prize-it": "Serata degustazione per 2 persone"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Enoteca Gandolfi ",
-    "lat": "46.4937556",
-    "lng": "113099532",
-    "prize-de": "Degustation für 2 Personen",
-    "prize-it": "Serata degustazione per 2 persone"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Enoteca Gandolfi ",
-    "lat": "46.4937556",
-    "lng": "11.3099532",
-    "prize-de": "Degustation für 2 Personen",
-    "prize-it": "Serata degustazione per 2 persone"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Mercerie Fuganti ",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "Männer T-shirt",
-    "prize-it": "T-shirt intimo uomo "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Mercerie Fuganti ",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "Männer T-shirt",
-    "prize-it": "T-shirt intimo uomo "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Mercerie Fuganti ",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "Frauen Unterwäsche",
-    "prize-it": "Canotta + 2 slip abbinati donna "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Restaurant Bamboo",
-    "lat": "46.4966809",
-    "lng": "11.351511",
-    "prize-de": "25 € Gutschein",
-    "prize-it": "Buono Regalo Bamboo"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Restaurant Bamboo",
-    "lat": "46.4966809",
-    "lng": "11.351511",
-    "prize-de": "25 € Gutschein",
-    "prize-it": "Buono Regalo Bamboo"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Restaurant Bamboo",
-    "lat": "46.4966809",
-    "lng": "11.351511",
-    "prize-de": "25 € Gutschein",
-    "prize-it": "Buono Regalo Bamboo"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Restaurant Bamboo",
-    "lat": "46.4966809",
-    "lng": "11.351511",
-    "prize-de": "25 € Gutschein",
-    "prize-it": "Buono Regalo Bamboo"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Restaurant Bamboo",
-    "lat": "46.4966809",
-    "lng": "11.351511",
-    "prize-de": "25 € Gutschein",
-    "prize-it": "Buono Regalo Bamboo"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Bierfass zu 5 l",
-    "prize-it": "Fusto 5 lt.birra "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Bierfass zu 5 l",
-    "prize-it": "Fusto 5 lt.birra "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Bierfass zu 5 l",
-    "prize-it": "Fusto 5 lt.birra "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "Bierfass zu 5 l",
-    "prize-it": "Fusto 5 lt.birra "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Heinrichshof ",
-    "lat": "46.5080924",
-    "lng": "11.3525503",
-    "prize-de": "2 Rotweinflaschen ",
-    "prize-it": "Due bottiglie di vino rosso 0,75c "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 30cm ",
-    "prize-it": "Buono da 4 Sandwich da 30cm "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück",
-    "prize-it": "Colazione"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück",
-    "prize-it": "Colazione"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück",
-    "prize-it": "Colazione"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück",
-    "prize-it": "Colazione"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück",
-    "prize-it": "Colazione"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Cupcakes ",
-    "prize-it": "Cupcakes "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Cupcakes ",
-    "prize-it": "Cupcakes "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Cupcakes ",
-    "prize-it": "Cupcakes "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Cupcakes ",
-    "prize-it": "Cupcakes "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Cupcakes ",
-    "prize-it": "Cupcakes "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "Cupcakes ",
-    "prize-it": "Cupcakes "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Weingut Eberlehof ",
-    "lat": "46.5020374",
-    "lng": "11.3686768",
-    "prize-de": "Box mit 2  St.Magdalener Classico e Lagrein Riserva",
-    "prize-it": "Box di 2  St.Magdalener Classico e Lagrein Riserva"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Weingut Eberlehof ",
-    "lat": "46.5020374",
-    "lng": "11.3686768",
-    "prize-de": "Box mit 2  St.Magdalener Classico e Lagrein Riserva",
-    "prize-it": "Box di 2  St.Magdalener Classico e Lagrein Riserva"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Weingut Eberlehof ",
-    "lat": "46.5020374",
-    "lng": "11.3686768",
-    "prize-de": "Box mit 2  St.Magdalener Classico e Lagrein Riserva",
-    "prize-it": "Box di 2  St.Magdalener Classico e Lagrein Riserva"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "2 Gourmet-Pizzas",
-    "prize-it": "2 pizze gourmet "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "2 Gourmet-Pizzas",
-    "prize-it": "2 pizze gourmet "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "2 Gourmet-Pizzas",
-    "prize-it": "2 pizze gourmet "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "2 Gourmet-Pizzas",
-    "prize-it": "2 pizze gourmet "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "2 Gourmet-Pizzas",
-    "prize-it": "2 pizze gourmet "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "2 Gourmet-Pizzas",
-    "prize-it": "2 pizze gourmet "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": 1,
+    "value": 13.97
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Kiki Bakery Lab",
-    "lat": "46.5006261",
-    "lng": "11.3544916",
-    "prize-de": "cookies ",
-    "prize-it": "cookies "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Galleria Alessandro Casciaro",
-    "lat": "46.4959159",
-    "lng": "11.3501625",
-    "prize-de": "Druck von Paul Flora ",
-    "prize-it": "Stampa autografata di Paul Flora "
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   },
   {
-    "name": "Galleria Alessandro Casciaro",
-    "lat": "46.4959159",
-    "lng": "11.3501625",
-    "prize-de": "Druck von Paul Flora ",
-    "prize-it": "Stampa autografata di Paul Flora "
-  },
-  {
-    "name": "Galleria Alessandro Casciaro",
-    "lat": "46.4959159",
-    "lng": "11.3501625",
-    "prize-de": "Druck von Paul Flora ",
-    "prize-it": "Stampa autografata di Paul Flora "
-  },
-  {
-    "name": "Galleria Alessandro Casciaro",
-    "lat": "46.4959159",
-    "lng": "11.3501625",
-    "prize-de": "Druck von Paul Flora ",
-    "prize-it": "Stampa autografata di Paul Flora "
-  },
-  {
-    "name": "Galleria Alessandro Casciaro",
-    "lat": "46.4959159",
-    "lng": "11.3501625",
-    "prize-de": "Druck von Paul Flora ",
-    "prize-it": "Stampa autografata di Paul Flora "
-  },
-  {
-    "name": "THUN",
-    "lat": "46.4718255",
-    "lng": "11.3229903",
-    "prize-de": "Weihnachtsmann",
-    "prize-it": " Babbo Natale"
-  },
-  {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "2 l Bierflasche",
-    "prize-it": "bottiglia birra da 2 lt."
-  },
-  {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "2 l Bierflasche",
-    "prize-it": "bottiglia birra da 2 lt."
-  },
-  {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "2 l Bierflasche",
-    "prize-it": "bottiglia birra da 2 lt."
-  },
-  {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "2 l Bierflasche",
-    "prize-it": "bottiglia birra da 2 lt."
-  },
-  {
-    "name": "Hopfen & Co",
-    "lat": "46.4992914",
-    "lng": "11.3503616",
-    "prize-de": "2 l Bierflasche",
-    "prize-it": "bottiglia birra da 2 lt."
-  },
-  {
-    "name": "Loacker Café",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "18 € Gutschein",
-    "prize-it": "Buono acquisto "
-  },
-  {
-    "name": "Loacker Café",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "18 € Gutschein",
-    "prize-it": "Buono acquisto "
-  },
-  {
-    "name": "Loacker Café",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "18 € Gutschein",
-    "prize-it": "Buono acquisto "
-  },
-  {
-    "name": "Loacker Café",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "18 € Gutschein",
-    "prize-it": "Buono acquisto "
-  },
-  {
-    "name": "Loacker Café",
-    "lat": "46.4980283",
-    "lng": "11.3521093",
-    "prize-de": "18 € Gutschein",
-    "prize-it": "Buono acquisto "
-  },
-  {
-    "name": "Mercerie Fuganti ",
-    "lat": "46.4905933",
-    "lng": "11.3359417",
-    "prize-de": "Halskette ",
-    "prize-it": "Collant donna - 18,00€"
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "6 Weihnachtsmarkttassen ",
-    "prize-it": "Conf. 6 tazzine mercatino "
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "Stadtführung für 2 Personen",
-    "prize-it": "Guida città 2 persone"
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "Stadtführung für 2 Personen",
-    "prize-it": "Guida città 2 persone"
-  },
-  {
-    "name": "Azienda soggiorno e turismo Bolzano",
-    "lat": "46.4953482",
-    "lng": "11.3528027",
-    "prize-de": "Stadtführung für 2 Personen",
-    "prize-it": "Guida città 2 persone"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Subway",
-    "lat": "46.4974968",
-    "lng": "11.3530455",
-    "prize-de": "Gutschein für 4 Sandwich zu 15cm ",
-    "prize-it": "Buono da 4 Sandwich da 15cm"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza ",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "1 Pizza",
-    "prize-it": "pizza classica"
-  },
-  {
-    "name": "Corte - Bar & Bistro",
-    "lat": "46.4981663",
-    "lng": "11.3521604",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo per 2 persone "
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Torgglhaus Al Torchio ",
-    "lat": "46.4996963",
-    "lng": "11.3501926",
-    "prize-de": "Aperitivo für 2 Personen",
-    "prize-it": "Aperitivo x2 persone"
-  },
-  {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück für 2 Personen",
-    "prize-it": "Colazione per una persona"
-  },
-  {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück für 2 Personen",
-    "prize-it": "Colazione per una persona"
-  },
-  {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück für 2 Personen",
-    "prize-it": "Colazione per una persona"
-  },
-  {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück für 2 Personen",
-    "prize-it": "Colazione per una persona"
-  },
-  {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück für 2 Personen",
-    "prize-it": "Colazione per una persona"
-  },
-  {
-    "name": "Franziskaner Bäckerei ",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "Frühstück für 2 Personen",
-    "prize-it": "Colazione per una persona"
-  },
-  {
-    "name": "Gramm",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "1x Lebensmittelkorb",
-    "prize-it": "1x cesto regalo"
-  },
-  {
-    "name": "Gramm",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "1x Lebensmittelkorb",
-    "prize-it": "1x cesto regalo"
-  },
-  {
-    "name": "Gramm",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "1x Lebensmittelkorb",
-    "prize-it": "1x cesto regalo"
-  },
-  {
-    "name": "Gramm",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "1x Lebensmittelkorb",
-    "prize-it": "1x cesto regalo"
-  },
-  {
-    "name": "Gramm",
-    "lat": "46.5005525",
-    "lng": "11.3514659",
-    "prize-de": "1x Lebensmittelkorb",
-    "prize-it": "1x cesto regalo"
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": 1,
+    "value": 11
   }
 ]

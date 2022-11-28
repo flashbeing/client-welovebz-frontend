@@ -18,9 +18,9 @@
                 <div>
                   {{ $t('page.homepage.heading.afterTheFirstEditionsSuccess') }}
                 </div>
-                <div>
+                <!--<div>
                   {{ $t('page.homepage.heading.moreInformationComingSoon') }}
-                </div>
+                </div>-->
 
                 <!-- <div class="car">
                   <div class="image"></div>
@@ -60,15 +60,15 @@
         </i18n>
       </div>
     </section>
-    <!-- <section id="countdown" class="red">
+    <section id="countdown" class="red">
       <div class="center">
         <TitleHeading :show-as-title="true" :inverted="true">{{
-          $t('page.homepage.winnersInfo.title')
+          $t('common.extraction')
         }}</TitleHeading>
         <div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div>
-        <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
+        <!-- <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
         <ul>
           <li>{{ $t('page.homepage.winnersInfo.pointOne') }}</li>
           <i18n path="page.homepage.winnersInfo.pointTwo" tag="li">
@@ -128,8 +128,13 @@
         </Accordion>
         <p v-if="!filteredWonPrizes.length">
           {{ $t('page.homepage.winnersInfo.noWinningPrizeFound') }}
-        </p> -->
-    <!--<i18n path="page.homepage.secondSection.firstParagraph.text" tag="p">
+        </p>
+        -->
+        <i18n
+          path="page.homepage.secondSection.firstParagraph.text"
+          tag="p"
+          class="text-center"
+        >
           <template #bold>
             <b class="text-primary">{{
               $t('page.homepage.secondSection.firstParagraph.bold')
@@ -143,8 +148,8 @@
               $t('page.homepage.secondSection.firstParagraph.link')
             }}</a>
           </template>
-        </i18n>-->
-    <!--<Accordion
+        </i18n>
+        <Accordion
           v-if="isCountdownOver"
           :button="$t('page.homepage.secondSection.button')"
           :is-red="true"
@@ -161,10 +166,10 @@
               :placeholder="$t('common.search')"
             />
           </div>
-        </Accordion>-->
-    <!-- </div>
-    </section> -->
-    <!-- <section id="sponsors" class="black">
+        </Accordion>
+      </div>
+    </section>
+    <section id="sponsors" class="black">
       <div class="partner-title">
         <div class="center">
           <TitleHeading :show-as-title="true">{{
@@ -177,8 +182,8 @@
           <Slider :elements="partners" />
         </div>
       </div>
-    </section> -->
-    <!-- <section id="prizes" class="green">
+    </section>
+    <section id="prizes" class="green">
       <div class="center">
         <TitleHeading :show-as-title="true">{{
           $t('page.homepage.thirdSection.title')
@@ -208,8 +213,8 @@
           </div>
         </Accordion>
       </div>
-    </section> -->
-    <!-- <section id="partner" class="white">
+    </section>
+    <section id="partner" class="white">
       <div class="center">
         <TitleHeading :show-as-title="true" :show-green="true">{{
           $t('page.homepage.fourthSection.title')
@@ -219,6 +224,7 @@
           :center="{ lat: 46.4892313, lng: 11.3121382 }"
           :options="options"
           map-type="roadmap"
+          @clickedMarker="showLocation"
         />
         <Accordion
           :button="$t('page.homepage.fourthSection.button')"
@@ -229,7 +235,11 @@
               <a
                 :href="
                   'https://' +
-                  store.website.replace('http://', '').replace('https://', '')
+                  (store.website
+                    ? store.website
+                        .replace('http://', '')
+                        .replace('https://', '')
+                    : '')
                 "
                 target="_blank"
                 >{{ store.name }}</a
@@ -238,7 +248,7 @@
           </div>
         </Accordion>
       </div>
-    </section> -->
+    </section>
     <div
       class="scroll-top-bt clickable"
       :class="{ visible: !scrolledBodyToTop }"
@@ -267,10 +277,51 @@ export default {
           img: 'partners/BrasolinAuto.svg',
         },
         {
-          img: 'partners/Globus.svg',
+          img: 'partners/Sparkasse.svg',
         },
         {
-          img: 'partners/Gutweniger.svg',
+          img: 'partners/Sportler.svg',
+        },
+        {
+          img: 'partners/OberrauchZitt.svg',
+        },
+        {
+          img: 'partners/fc-sudtirol.svg',
+        },
+        // TODO: add WaltherPark logo
+        {
+          img: 'partners/SkyAlps.svg',
+        },
+        {
+          img: 'partners/hotel-citta.jpg',
+        },
+        {
+          img: 'partners/straudi.svg',
+        },
+        {
+          img: 'partners/teatro-cristallo.svg',
+        },
+        {
+          img: 'partners/trony.svg',
+        },
+        {
+          img: 'partners/Twenty.svg',
+        },
+        {
+          img: 'partners/schmild-vo-bosio.svg',
+        },
+        // TODO: add Project 29 logo
+        {
+          img: 'partners/Laurin.svg',
+        },
+        {
+          img: 'partners/novalux.jpg',
+        },
+        {
+          img: 'partners/Noistudio.png',
+        },
+        {
+          img: 'partners/hopfen.svg',
         },
         {
           img: 'partners/HCB_Foxes.svg',
@@ -279,55 +330,31 @@ export default {
           img: 'partners/hds_unione.svg',
         },
         {
-          img: 'partners/Laurin.svg',
+          img: 'partners/Gutweniger.svg',
         },
         {
-          img: 'partners/Lorenzi.svg',
-        },
-        {
-          img: 'partners/Mair.svg',
-        },
-        {
-          img: 'partners/META.svg',
-        },
-        {
-          img: 'partners/OberrauchZitt.svg',
-        },
-        {
-          img: 'partners/Pornbacher.svg',
-        },
-        {
-          img: 'partners/Porsche.png',
+          img: 'partners/goldschmiede-mair.jpg',
         },
         {
           img: 'partners/ProfumerieFerrari.png',
         },
         {
-          img: 'partners/Provoice.png',
+          img: 'partners/buratti.svg',
         },
         {
-          img: 'partners/Ranzi_Knapp.svg',
+          img: 'partners/buratti.svg',
         },
         {
-          img: 'partners/SkyAlps.svg',
+          img: 'partners/castel-hortenberg.svg',
         },
         {
-          img: 'partners/Sparkasse.svg',
+          img: 'partners/buratti.svg',
         },
         {
-          img: 'partners/Sportler.svg',
+          img: 'partners/bressan.png',
         },
         {
-          img: 'partners/Twenty.svg',
-        },
-        {
-          img: 'partners/Alto_Adige.png',
-        },
-        {
-          img: 'partners/Dolomiten.png',
-        },
-        {
-          img: 'partners/Noistudio.png',
+          img: 'partners/2fit.png',
         },
       ],
       options: {
@@ -337,7 +364,7 @@ export default {
         mapTypeControl: false,
       },
       prizeCodeFilter: '',
-      endCountdown: '2022-01-12T00:00:00',
+      endCountdown: '2023-01-31T00:00:00',
       wonPrizes,
     }
   },
@@ -435,6 +462,16 @@ export default {
   methods: {
     scrollToTop() {
       window.scrollTo({ top: 0, behavior: 'smooth' })
+    },
+
+    showLocation(location) {
+      const newWin = window.open(
+        'https://www.google.com/maps/search/?api=1&query=' +
+          location.lat +
+          ',' +
+          location.lng
+      )
+      newWin.focus()
     },
 
     watchWindowScroll() {
