@@ -194,8 +194,8 @@
   {
     "name": "Farmacie Bonvicini (filiale 1)",
     "street": "Piazza Don Bosco 6",
-    "lat": "46.4886261",
-    "lng": "11.1858459",
+    "lat": "46.4917351",
+    "lng": "11.3244671",
     "website": "https://farmacie.gruppobonvicini.it/"
   },
   {
@@ -382,8 +382,8 @@
   {
     "name": "La Lanterna Ristorante/pizzeria",
     "street": "Via Rovigo 14/B ",
-    "lat": "46.1991571",
-    "lng": "10.9509972",
+    "lat": "46.4944916",
+    "lng": "11.3336706",
     "website": "https://www.pizzeria-lalanterna.it/"
   },
   {
@@ -415,7 +415,7 @@
     "website": "https://www.mcsystemsrl.com/"
   },
   {
-    "name": "Madonna Apotheke Bozen ",
+    "name": "Madonna Apotheke Bozen",
     "street": "Lauben 17",
     "lat": "46.4996122",
     "lng": "11.3532453",
@@ -424,15 +424,15 @@
   {
     "name": "Marka Drogeriemarket ",
     "street": "Vicolo Grumer 11",
-    "lat": "46.4990974",
-    "lng": "11.2154972,",
+    "lat": "46.4944925",
+    "lng": "11.3256611",
     "website": "https://mymarka.it/"
   },
   {
     "name": "Marka Drogeriemarket ",
     "street": "Via Palermo 10 A (1) ",
-    "lat": "46.4938249",
-    "lng": "11.297482",
+    "lat": "46.4865208",
+    "lng": "11.3303122",
     "website": "https://mymarka.it/"
   },
   {
@@ -466,8 +466,8 @@
   {
     "name": "MC Donald's ",
     "street": "Via G. Galilei 20",
-    "lat": "46.4861553",
-    "lng": "11.1956263",
+    "lat": "46.4836486",
+    "lng": "11.3347403",
     "website": "https://www.mcdonalds.it/"
   },
   {
@@ -516,7 +516,7 @@
     "name": "Peter's TeaHouse ",
     "street": "Via Argentieri 9",
     "lat": "46.498945",
-    "lng": "11.0735596",
+    "lng": "11.3515223",
     "website": "https://www.peters-teahouse.it/it"
   },
   {
@@ -571,8 +571,8 @@
   {
     "name": "Rizzolli ",
     "street": "Via Portici 60",
-    "lat": "46.4120601",
-    "lng": "11.2065366",
+    "lat": "46.4996585",
+    "lng": "11.3513898",
     "website": "https://www.rizzolli.com/it/"
   },
   {
@@ -599,8 +599,8 @@
   {
     "name": "Schuhhaus Fill",
     "street": "Freiheitsstr. 65E",
-    "lat": "46.4977052",
-    "lng": "11.2588944",
+    "lat": "46.5019853",
+    "lng": "11.3351856",
     "website": "http://www.fillbz.it/"
   },
   {
@@ -681,8 +681,8 @@
   {
     "name": "Thaler srl Beautiful things (filiale 2)",
     "street": "Piazza Dogana 8/11 (1)",
-    "lat": "46.456787",
-    "lng": "11.2347109",
+    "lat": "46.4945085",
+    "lng": "11.350755",
     "website": "https://www.thalershop.com/"
   },
   {
@@ -710,7 +710,7 @@
     "name": "Trony ",
     "street": "Via Resia 12/R",
     "lat": "46.4914643",
-    "lng": "11.0343693"
+    "lng": "11.312332"
   },
   {
     "name": "Tschager ",
@@ -883,8 +883,8 @@
   {
     "name": "ASPIAG ",
     "street": "Interspar - Bolzano - Via Buozzi, 30",
-    "lat": "46.4716072",
-    "lng": "11.1820497",
+    "lat": "46.4944925",
+    "lng": "11.3256611",
     "website": "https://www.aspiag.com/"
   },
   {

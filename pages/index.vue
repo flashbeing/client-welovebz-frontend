@@ -22,14 +22,13 @@
                   {{ $t('page.homepage.heading.moreInformationComingSoon') }}
                 </div>-->
 
-                <!-- <div class="car">
+                <div class="car">
                   <div class="image"></div>
                   <p class="label">
-                    {{ $t('page.homepage.heading.mainPrize') }}<br />Porsche
-                    Macan
+                    {{ $t('page.homepage.heading.mainPrize') }}<br />Fiat 500
                   </p>
                 </div>
-                <div class="logo"></div> -->
+                <!--<div class="logo"></div>-->
               </div>
             </div>
           </div>
@@ -288,7 +287,9 @@ export default {
         {
           img: 'partners/fc-sudtirol.svg',
         },
-        // TODO: add WaltherPark logo
+        {
+          img: 'partners/waltherpark.svg',
+        },
         {
           img: 'partners/SkyAlps.svg',
         },
@@ -310,7 +311,9 @@ export default {
         {
           img: 'partners/schmild-vo-bosio.svg',
         },
-        // TODO: add Project 29 logo
+        {
+          img: 'partners/athletic29.svg',
+        },
         {
           img: 'partners/Laurin.svg',
         },
@@ -364,7 +367,7 @@ export default {
         mapTypeControl: false,
       },
       prizeCodeFilter: '',
-      endCountdown: '2023-01-31T00:00:00',
+      endCountdown: '2023-01-16T00:00:00',
       wonPrizes,
     }
   },
@@ -469,7 +472,9 @@ export default {
         'https://www.google.com/maps/search/?api=1&query=' +
           location.lat +
           ',' +
-          location.lng
+          location.lng +
+          ',' +
+          location.name
       )
       newWin.focus()
     },
@@ -584,7 +589,7 @@ main {
 
                   width: 200px;
                   height: 100px;
-                  background-image: url(~/static/images/porsche-macan.png);
+                  background-image: url(~/static/images/fiat-500.png);
                 }
 
                 & .label {
