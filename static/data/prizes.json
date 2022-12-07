@@ -28,8 +28,8 @@
     "value": 1000
   },
   {
-    "name": "Parth ",
-    "prize-it": "Orologio  Longines",
+    "name": "Parth Juwelen & Uhren",
+    "prize-it": "Orologio Longines",
     "prize-de": "Uhr von Longines",
     "quantity": 1,
     "value": 1270
@@ -42,7 +42,7 @@
     "value": 1000
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a € 1.000",
     "prize-de": "Einkaufsgutschein - Happy Card zu 1.000€",
     "quantity": 1,
@@ -190,27 +190,27 @@
   },
   {
     "name": "Parkhotel Laurin",
-    "prize-it": "Cena ConTamina 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-it": "Cena ConTanima 2 persone (Martina Boscheri 8 portate & bevande) ",
     "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
     "quantity": 1,
     "value": 510
   },
   {
     "name": "Parkhotel Laurin",
-    "prize-it": "Cena ConTamina 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-it": "Cena ConTanima 2 persone (Martina Boscheri 8 portate & bevande) ",
     "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
     "quantity": 1,
     "value": 510
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a € 500",
     "prize-de": "Monni card zu 500 €",
     "quantity": 1,
     "value": 500
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a € 500",
     "prize-de": "Monni card zu 500 €",
     "quantity": 1,
@@ -280,9 +280,9 @@
     "value": 400
   },
   {
-    "name": "Noistudio ",
+    "name": "Noistudio",
     "prize-it": "Orologio Marca Donna",
-    "prize-de": "Frauenuht",
+    "prize-de": "Frauenuhr",
     "quantity": 1,
     "value": 427
   },
@@ -316,7 +316,7 @@
   },
   {
     "name": "Parkhotel Laurin",
-    "prize-it": "Cena ConTamina 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-it": "Cena ConTanima 2 persone (Martina Boscheri 8 portate & bevande) ",
     "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
     "quantity": 1,
     "value": 360
@@ -406,14 +406,14 @@
     "value": 230
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "monnycard a 250€",
     "prize-de": "monnycard zu 250€",
     "quantity": 1,
     "value": 250
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "monnycard a 250€",
     "prize-de": "monnycard zu 250€",
     "quantity": 1,
@@ -441,23 +441,23 @@
     "value": 198
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Set Cura viso Estèe Lauder",
-    "prize-de": "Geschtspflege-Set Markesi-Clingie Estèe Lauder",
+    "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
     "quantity": 1,
     "value": 163
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Set Cura viso Estèe Lauder",
-    "prize-de": "Geschtspflege-Set Markesi-Clingie Estèe Lauder",
+    "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
     "quantity": 1,
     "value": 163
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Set Cura viso Estèe Lauder",
-    "prize-de": "Geschtspflege-Set Markesi-Clingie Estèe Lauder",
+    "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
     "quantity": 1,
     "value": 163
   },
@@ -596,29 +596,29 @@
   },
   {
     "name": "Selectra",
-    "prize-it": "Lamapada riciclabile da tavolo bianca",
-    "prize-de": "Recyclbare Tischlampe",
+    "prize-it": "Lamapada ricaricabile da tavolo bianca",
+    "prize-de": "Aufladbare Tischlampe",
     "quantity": 1,
     "value": 134.2
   },
   {
     "name": "Selectra",
-    "prize-it": "Lamapada riciclabile da tavolo bianca",
-    "prize-de": "Recyclbare Tischlampe",
+    "prize-it": "Lamapada ricaricabile da tavolo bianca",
+    "prize-de": "Aufladbare Tischlampe",
     "quantity": 1,
     "value": 134.2
   },
   {
     "name": "Selectra ",
-    "prize-it": "Lamapada riciclabile da tavolo bianca",
-    "prize-de": "Recyclbare Tischlampe",
+    "prize-it": "Lamapada ricaricabile da tavolo bianca",
+    "prize-de": "Aufladbare Tischlampe",
     "quantity": 1,
     "value": 134.2
   },
   {
     "name": "Bressan ",
     "prize-it": "Logica lampada ricaricabile Twiggy ",
-    "prize-de": "Recyclbare Lampe Twiggy",
+    "prize-de": "Aufladbare Lampe Twiggy",
     "quantity": 1,
     "value": 128
   },
@@ -798,448 +798,448 @@
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "ASPIAG",
+    "name": "Despar",
     "prize-it": "Buono spesa  - Happy Card a 100€",
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
     "value": 100
   },
   {
-    "name": "HDS unione",
+    "name": "Monni card",
     "prize-it": "Monni card a 100€",
     "prize-de": "Monni card zu 100€",
     "quantity": 1,
@@ -1512,35 +1512,35 @@
     "value": 60
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": 1,
     "value": 60
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": 1,
     "value": 60
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": 1,
     "value": 60
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": 1,
     "value": 60
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": 1,
@@ -1645,14 +1645,14 @@
     "value": 50
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Buono a 50€",
     "prize-de": "Gutschein zu 50€",
     "quantity": 1,
     "value": 50
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Buono a 50€",
     "prize-de": "Gutschein zu 50€",
     "quantity": 1,
@@ -1932,28 +1932,28 @@
     "value": 44
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": 1,
     "value": 40
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": 1,
     "value": 40
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": 1,
     "value": 40
   },
   {
-    "name": "Profumerie Ferrari",
+    "name": "Parfümerie Ferrari",
     "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": 1,

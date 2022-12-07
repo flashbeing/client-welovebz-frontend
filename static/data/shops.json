@@ -14,13 +14,6 @@
     "website": "http://www.artsandcrafts.it/"
   },
   {
-    "name": "Arts and Crafts  (Filiale 2)",
-    "street": "Piazza delle Erbe 36 ( Boutique)",
-    "lat": "46.4999994",
-    "lng": ",11.3437416",
-    "website": "http://www.artsandcrafts.it/"
-  },
-  {
     "name": "Azienda di soggiorno Bolzano",
     "street": "Via Alto Adige 60",
     "lat": "46.4953482",
@@ -138,13 +131,6 @@
     "website": "https://www.eccel.it/"
   },
   {
-    "name": "Eccel Decorona (filiale 2)",
-    "street": "Rauschertorgasse 15 a",
-    "lat": "46.5000787",
-    "lng": "11.3495664",
-    "website": "https://www.eccel.it/"
-  },
-  {
     "name": "Elena Miro",
     "street": "Bahnhofsallee 11 ",
     "lat": "46.4974563",
@@ -194,13 +180,6 @@
   {
     "name": "Farmacie Bonvicini (filiale 1)",
     "street": "Piazza Don Bosco 6",
-    "lat": "46.4917351",
-    "lng": "11.3244671",
-    "website": "https://farmacie.gruppobonvicini.it/"
-  },
-  {
-    "name": "Farmacie Bonvicini (filiale 2)",
-    "street": "Viale Druso 43",
     "lat": "46.4917351",
     "lng": "11.3244671",
     "website": "https://farmacie.gruppobonvicini.it/"
@@ -275,7 +254,7 @@
     "website": "https://gioielleriabonaldi.it/"
   },
   {
-    "name": "Gioielliere Parth ",
+    "name": " Juwelier Parth",
     "street": "Lauben 5",
     "lat": "46.4996489",
     "lng": "11.3539899",
@@ -352,17 +331,10 @@
     "website": "https://www.kellereibozen.com/"
   },
   {
-    "name": "Kiro's - Balzatti (filiale 1)",
+    "name": "Kiros - Balzatti (filiale 1)",
     "street": "Piazza erbe /portici 73",
     "lat": "46.4995507",
     "lng": "11.3504518",
-    "website": "https://www.kiros.bz/"
-  },
-  {
-    "name": "Kiro's - Balzatti (filiale 2)",
-    "street": "Via Museo 38",
-    "lat": "46.4999374",
-    "lng": "11.348402",
     "website": "https://www.kiros.bz/"
   },
   {
@@ -422,21 +394,21 @@
     "website": "https://www.farmaciamadonna.com/"
   },
   {
-    "name": "Marka Drogeriemarket ",
+    "name": "Marka Drogeriemarkt ",
     "street": "Vicolo Grumer 11",
     "lat": "46.4944925",
     "lng": "11.3256611",
     "website": "https://mymarka.it/"
   },
   {
-    "name": "Marka Drogeriemarket ",
+    "name": "Marka Drogeriemarkt ",
     "street": "Via Palermo 10 A (1) ",
     "lat": "46.4865208",
     "lng": "11.3303122",
     "website": "https://mymarka.it/"
   },
   {
-    "name": "Marka Drogeriemarket ",
+    "name": "Marka Drogeriemarkt ",
     "street": "Piazza Don Bosco 5A (1)",
     "lat": "46.4886089",
     "lng": "11.3238598",
@@ -527,7 +499,7 @@
     "website": "https://www.profumeriaferrari.it/"
   },
   {
-    "name": "Profumerie Irene Ferrari ",
+    "name": "Parfumerie Irene Ferrari",
     "street": "Corso libertà 36",
     "lat": "46.5015878",
     "lng": "11.3324474",
@@ -604,7 +576,7 @@
     "website": "http://www.fillbz.it/"
   },
   {
-    "name": "Sigi",
+    "name": "Sigi Autotechnik",
     "street": "Piazza della dogana 9 ",
     "lat": "46.5001057",
     "lng": "11.3586187",
@@ -679,13 +651,6 @@
     "website": "https://www.thalershop.com/"
   },
   {
-    "name": "Thaler srl Beautiful things (filiale 2)",
-    "street": "Piazza Dogana 8/11 (1)",
-    "lat": "46.4945085",
-    "lng": "11.350755",
-    "website": "https://www.thalershop.com/"
-  },
-  {
     "name": "Thaler srl Beautiful things (filiale 3)",
     "street": "Via Roma 35 (1)",
     "lat": "46.4961697",
@@ -720,7 +685,7 @@
     "website": "https://www.manueltschager.com/it/"
   },
   {
-    "name": "Wassermann",
+    "name": "Optik Wassermann",
     "street": "Lauben 72/B",
     "lat": "46.4996579",
     "lng": "11.3510831",

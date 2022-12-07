@@ -25,7 +25,8 @@
                 <div class="car">
                   <div class="image"></div>
                   <p class="label">
-                    {{ $t('page.homepage.heading.mainPrize') }}<br />Fiat 500
+                    {{ $t('page.homepage.heading.mainPrize') }}<br />2x Fiat 500
+                    Hybrid Dolcevita full optional
                   </p>
                 </div>
                 <!--<div class="logo"></div>-->
@@ -330,7 +331,7 @@ export default {
           img: 'partners/HCB_Foxes.svg',
         },
         {
-          img: 'partners/hds_unione.svg',
+          img: 'partners/hds_unione.png',
         },
         {
           img: 'partners/Gutweniger.svg',
