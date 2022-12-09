@@ -263,13 +263,19 @@ import prizesData from '~/static/data/prizes.json'
 import wonPrizes from '~/static/data/wonPrizes.json'
 import shopsData from '~/static/data/shops.json'
 
+const OTHER_SPONSOR_PHOTOS = require.context(
+  '~/static/images/partners/other/',
+  true,
+  /\.png$/
+)
+
 export default {
   data() {
     return {
       SHOW_PRIZES_UNTIL: 21,
       isCountdownOver: false,
       scrolledBodyToTop: true,
-      partners: [
+      featuredPartners: [
         {
           img: 'partners/Aspiag.svg',
         },
@@ -346,19 +352,13 @@ export default {
           img: 'partners/buratti.svg',
         },
         {
-          img: 'partners/buratti.svg',
-        },
-        {
           img: 'partners/castel-hortenberg.svg',
-        },
-        {
-          img: 'partners/buratti.svg',
         },
         {
           img: 'partners/bressan.png',
         },
         {
-          img: 'partners/2fit.png',
+          img: 'partners/2fit.jpeg',
         },
       ],
       options: {
@@ -379,6 +379,20 @@ export default {
         return this.winners.filter((item) => item.id === this.awardFilter)
       }
       return this.winners.slice(0, 30)
+    },
+
+    partners() {
+      let otherPartners = []
+      OTHER_SPONSOR_PHOTOS.keys().forEach((photoName) =>
+        otherPartners.push(encodeURIComponent(photoName.replace('./', '')))
+      )
+
+      otherPartners.sort()
+      otherPartners = otherPartners.map((imageName) => ({
+        img: 'partners/other/' + imageName,
+      }))
+
+      return [...this.featuredPartners, ...otherPartners]
     },
 
     filteredWonPrizes() {
