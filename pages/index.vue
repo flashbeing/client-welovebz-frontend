@@ -256,7 +256,6 @@
     >
       <Icon name="arrow-up" class="ico" />
     </div>
-    <!-- TODO -->
   </main>
 </template>
 <script>
