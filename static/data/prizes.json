@@ -358,15 +358,15 @@
   },
   {
     "name": "Hockey Club Bozen 2000 ",
-    "prize-it": "2 ingressi per la VIP ROOM per due partite",
-    "prize-de": "Vip-Eintritt für 2 Personen für 2 Spiele",
+    "prize-it": "2 ingressi per la VIP ROOM per una partita",
+    "prize-de": "Vip-Eintritt für 2 Personen für 1 Spiel",
     "quantity": 1,
     "value": 300
   },
   {
     "name": "Hockey Club Bozen 2001",
-    "prize-it": "2 ingressi per la VIP ROOM per due partite",
-    "prize-de": "Vip-Eintritt für 2 Personen für 2 Spiele",
+    "prize-it": "2 ingressi per la VIP ROOM per una partita",
+    "prize-de": "Vip-Eintritt für 2 Personen für 1 Spiel",
     "quantity": 1,
     "value": 300
   },
