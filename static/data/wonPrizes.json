@@ -1,2845 +1,3370 @@
 [
   {
-    "prize": "Porsche Macan ",
-    "name": "Centro Porsche Bolzano / Porsche Zentrum Bozen",
-    "code": "0315151"
+    "name": "Brasolin Auto",
+    "prize-it": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "prize-de": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "quantity": "1",
+    "value": "18700",
+    "winning-ticket": "0237797"
   },
   {
-    "undefined": "hds unione",
-    "prize": "E-Bike",
-    "name": "Sportler AG",
-    "code": "0637069"
+    "name": "Brasolin Auto",
+    "prize-it": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "prize-de": "Fiat 500 Dolcevita 1.0 Hybrid",
+    "quantity": "1",
+    "value": "18500",
+    "winning-ticket": "0212051"
   },
   {
-    "undefined": "keine",
-    "prize": "Orologio \nUhr ",
+    "name": "Sportler ",
+    "prize-it": "E-Bike ",
+    "prize-de": "E-Bike ",
+    "quantity": "1",
+    "value": "4000",
+    "winning-ticket": "0008559"
+  },
+  {
+    "name": "Castel Hoertenberg",
+    "prize-it": "1 pernottamento per 2 persone con colazione",
+    "prize-de": "1 Übernachtung für 2 Personen mit Frühstück",
+    "quantity": "1",
+    "value": "1000",
+    "winning-ticket": "0015081"
+  },
+  {
+    "name": "Parth Juwelen & Uhren",
+    "prize-it": "Orologio Longines",
+    "prize-de": "Uhr von Longines",
+    "quantity": "1",
+    "value": "1270",
+    "winning-ticket": "0153749"
+  },
+  {
     "name": "Goldschmiede Mair",
-    "code": "0266524"
+    "prize-it": "Anello con brillante",
+    "prize-de": "Brillantring",
+    "quantity": "1",
+    "value": "1000",
+    "winning-ticket": "0164082"
   },
   {
-    "undefined": "hds unione",
-    "prize": "E-Scooter",
-    "name": "Brasolin Auto srl",
-    "code": "0099755"
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a € 1.000",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 1.000€",
+    "quantity": "1",
+    "value": "1000",
+    "winning-ticket": "0100088"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Anello\nRing",
-    "name": "Gioielleria Ranzi - \nKnapp Juwelen",
-    "code": "0934082"
+    "name": "Hotel Città ",
+    "prize-it": "1 pernottamento per 2 persone ",
+    "prize-de": "1 Übernachtung für 2 Personen ",
+    "quantity": "1",
+    "value": "1000",
+    "winning-ticket": "0337454"
   },
   {
-    "undefined": "HGV",
-    "prize": "Weekend \"Jazz&Gourmet\" III Parkhotel Laurin per 2 persone \nWeekend \"Jazz&Goumert\" für 2 Personen",
+    "name": "Green energym",
+    "prize-it": "ABO palestra per 9 mesi ",
+    "prize-de": "Fitness ABO für 9 Monate",
+    "quantity": "1",
+    "value": "790",
+    "winning-ticket": "0064177"
+  },
+  {
+    "name": "Leonardelli ",
+    "prize-it": "Notebook Lenovo ",
+    "prize-de": "Notebook Lenovo ",
+    "quantity": "1",
+    "value": "649",
+    "winning-ticket": "0026257"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0066983"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0031670"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0178385"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0039272"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0045295"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0082246"
+  },
+  {
+    "name": "Schmid &von Bosio",
+    "prize-it": "Braccialetto d'argento",
+    "prize-de": "Armband aus Silber",
+    "quantity": "1",
+    "value": "749",
+    "winning-ticket": "0076641"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0051369"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0076644"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0124242"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0105520"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0092887"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0074208"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0107007"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0174990"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0339455"
+  },
+  {
+    "name": "Sky Alps ",
+    "prize-it": "Biglietto aereo",
+    "prize-de": "Flugticket",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0147479"
+  },
+  {
     "name": "Parkhotel Laurin",
-    "code": "0149219"
+    "prize-it": "Cena ConTanima 2 persone (8 portate & bevande) ",
+    "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
+    "quantity": "1",
+    "value": "510",
+    "winning-ticket": "0096599"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Collana con ciondolo (con diamanti 0.39ct.) \nRotgoldkette mit Anhänger (Diamant 0.39Kar)",
-    "name": "Pörnbacher Josef",
-    "code": "0087236"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Cena ConTanima 2 persone (8 portate & bevande) ",
+    "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
+    "quantity": "1",
+    "value": "510",
+    "winning-ticket": "0105870"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Orologio\nUhr ",
-    "name": "Gioielleria Ranzi -\nKnapp Juwelen",
-    "code": "0054453"
+    "name": "Monni card",
+    "prize-it": "Monni card a € 500",
+    "prize-de": "Monni card zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0137288"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Hockey Club Bozen 2000 ",
-    "code": "0080442"
+    "name": "Monni card",
+    "prize-it": "Monni card a € 500",
+    "prize-de": "Monni card zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0053794"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Set cura \"Decorte\"\nPflegeset \"Decorte\"",
-    "name": "Profumerie Ferrari",
-    "code": "0091202"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0444137"
-  },
-  {
-    "undefined": "Via Portici - Lauben 67",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
     "name": "Oberrauch Zitt",
-    "code": "0357868"
+    "prize-it": "Buono a € 500",
+    "prize-de": "Gutschein zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0021061"
   },
   {
-    "undefined": "Via Portici - Lauben 67",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Oberrauch Zitt",
-    "code": "0052972"
+    "name": "Max&Co",
+    "prize-it": "Buono a € 500",
+    "prize-de": "Gutschein zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0066336"
   },
   {
-    "undefined": "Via Portici - Lauben 67",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Oberrauch Zitt",
-    "code": "0771890"
+    "name": "Twenty ",
+    "prize-it": "GiftCard Twenty a € 500",
+    "prize-de": "GiftCard Twenty zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0127280"
   },
   {
-    "undefined": "Via Portici - Lauben 67",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Oberrauch Zitt",
-    "code": "0011780"
+    "name": "Twenty ",
+    "prize-it": "GiftCard Twenty a € 500",
+    "prize-de": "GiftCard Twenty zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0210063"
   },
   {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "hds unione",
-    "code": "0208732"
+    "name": "Twenty ",
+    "prize-it": "GiftCard Twenty a € 500",
+    "prize-de": "GiftCard Twenty zu 500 €",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0064668"
   },
   {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "hds unione",
-    "code": "0813894"
+    "name": "Castel Hörtenberg",
+    "prize-it": "1 cena per 2 persone ",
+    "prize-de": "Abendessen für 2 Personen",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0167096"
   },
   {
-    "undefined": "HGV ",
-    "prize": "Una notte per due persone\nÜbernachtung für 2 Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0771397"
+    "name": "Hotel Città ",
+    "prize-it": "1 cena per 2 persone ",
+    "prize-de": "Abendessen für 2 Personen",
+    "quantity": "1",
+    "value": "500",
+    "winning-ticket": "0045383"
   },
   {
-    "undefined": "HGV",
-    "prize": "Corso barista x 4 persone\nBarman Kurs für 4 Personen ",
-    "name": "Meta Restaurant",
-    "code": "0268418"
+    "name": "Green energym",
+    "prize-it": "ABO palestra per 5 mesi ",
+    "prize-de": "Fitness ABO für 5 Monate ",
+    "quantity": "1",
+    "value": "490",
+    "winning-ticket": "0136049"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Lego technic ",
-    "name": "Gutweniger Giocattoli \nSpielwaren",
-    "code": "0454860"
+    "name": "ProVoice",
+    "prize-it": "Volo panoramico in aereo (pilota+3pax)",
+    "prize-de": "Rundflug",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0078038"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Affettatrice 220 CES \nSchneidemaschine 220 CES ",
-    "name": "Messerschmiede N.Lorenzi \nColltelleria ",
-    "code": "0954436"
+    "name": "Noistudio",
+    "prize-it": "Orologio Marca Donna",
+    "prize-de": "Frauenuhr",
+    "quantity": "1",
+    "value": "427",
+    "winning-ticket": "0072601"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Viaggio andata e ritorno, destinazione a scelta. Max.368,85€ \nFlug hin und Retour, auf Wahl, Max. Wert 368,85",
-    "name": "Sky Alps Tour Operator S.r.l",
-    "code": "0154116"
+    "name": "Buratti ",
+    "prize-it": "Store Card Buratti a 400€",
+    "prize-de": "Store Card Buratti zu 400€",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0127053"
   },
   {
-    "undefined": "Via Giotto Straße 12/a",
-    "prize": "Volo panoramico \nPanoramaflug",
-    "name": "Provoice Right società\ncoperativa",
-    "code": "0759318"
+    "name": "Buratti ",
+    "prize-it": "Store Card Buratti a 400€",
+    "prize-de": "Store Card Buratti zu 400€",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0068356"
   },
   {
-    "undefined": "Ivh.apa",
-    "prize": "Climatizzatore \nKlimaanlage",
-    "name": "Tecnoservice",
-    "code": "0718182"
+    "name": "Noistudio",
+    "prize-it": "Bracciale Donna ",
+    "prize-de": "Frauenarmband",
+    "quantity": "1",
+    "value": "400",
+    "winning-ticket": "0041832"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Lampada da tavolo \nTischlampe ",
-    "name": "Bressan snc",
-    "code": "0526761"
+    "name": "Noistudio",
+    "prize-it": "Orologio Marca Uomo ",
+    "prize-de": "Männeruhr",
+    "quantity": "1",
+    "value": "366",
+    "winning-ticket": "0000577"
   },
   {
-    "undefined": "hds unione",
-    "prize": "TVC Led 50'' smart TV + Sat nordmende /\nTVC Led 50\" smart TV + Sat nordmende",
-    "name": "Trony ",
-    "code": "0784876"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Cena ConTanima 2 persone (Martina Boscheri 8 portate & bevande) ",
+    "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
+    "quantity": "1",
+    "value": "360",
+    "winning-ticket": "0010125"
   },
   {
-    "undefined": "HGV",
-    "prize": "2 notti con colazione per 2 persone \nZwei Übernachtungen mit Frühstück für 2 Personen ",
-    "name": "Hotel Magdalener Hof",
-    "code": "0110951"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Una notte per due persone \nEine Übernachtung für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0608701"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Store card Buratti ",
-    "name": "Buratti snc",
-    "code": "0538604"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Store card Buratti ",
-    "name": "Buratti snc",
-    "code": "0249521"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Store card Buratti ",
-    "name": "Buratti snc",
-    "code": "0183777"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Globus",
-    "code": "0755543"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Globus",
-    "code": "0803969"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto\nEinkaufsgutschein",
-    "name": "Globus",
-    "code": "0888229"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "Massaggio 4 trattamenti\n4 Massagen",
-    "name": "Joli Nails & Beauty",
-    "code": "0644144"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0200394"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0718919"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0071033"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0757568"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0604497"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0796871"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0798498"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0636068"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Twenty giftcard",
-    "name": "Twenty srl",
-    "code": "0012572"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono viaggio \nReisegutschein",
-    "name": "Mundus Reisen",
-    "code": "0926832"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono viaggio \nReisegutschein",
-    "name": "Mundus Reisen",
-    "code": "0003045"
-  },
-  {
-    "undefined": "hds unione/Ivh.apa",
-    "prize": "Incisione di Paul Flora / Radierung von Paul Flora",
-    "name": "Galleria Alessandro Casciaro",
-    "code": "0415630"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orologio donna \nDamenuhr ",
-    "name": "Noistudio ",
-    "code": "0168958"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "orologio uomo \nHerrenuhr ",
-    "name": "Noistudio ",
-    "code": "0925387"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale unisex \nArmband unisex ",
-    "name": "Noistudio ",
-    "code": "0897092"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Piumino ",
-    "name": "Eccel Decorona",
-    "code": "0815364"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Piumino",
-    "name": "Eccel Decorona",
-    "code": "0754442"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Termostato smart bliss 2 /\nTermostato smart bliss 2 Macan",
-    "name": "Novalux ",
-    "code": "0393341"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Braccialetto in argento in 925/000 \nSilberarmband 925/000 ",
-    "name": "Pörnbacher Josef",
-    "code": "0413187"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Menu degustazione x2 persone / \nDegustationsmenü für 2 Personen ",
-    "name": "Meta Restaurant",
-    "code": "0595645"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Menu degustazione x 2 persone / \nDegustationsmenü für 2 Personen ",
-    "name": "Meta Restaurant",
-    "code": "0026272"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Stokke steps ",
-    "name": "La culla ",
-    "code": "0356337"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Stokketripp-trapp ",
-    "name": "La culla ",
-    "code": "0664384"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "Trattamento skin needling con Bbglow  \nSkin needling Behandlung mit Bbglow  ",
-    "name": "Vis a Vis",
-    "code": "0583534"
-  },
-  {
-    "undefined": "Via Buozzi - Buozzistraße 35",
-    "prize": "1 pernottamento per due persone colazione inclusa\n1 Übernachtung mit Frühstück     ",
-    "name": "Four Points Sheraton ",
-    "code": "0934434"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Set di pentole \nTopf set ",
-    "name": "Home living ",
-    "code": "0430619"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Occhiale Lamarca mod.intagli 88 / \nBrille Lamarca mod.intagli 88   ",
-    "name": "Otticagianni",
-    "code": "0026802"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "5 piega donna /  5 Friseurgutscheine ",
-    "name": "Elena Hair ",
-    "code": "0451683"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Cini&Nils cubo britto",
     "name": "Bressan ",
-    "code": "0761795"
+    "prize-it": "Slamp lampada ricaricabile Laufler",
+    "prize-de": "Aufladbare Lampe",
+    "quantity": "1",
+    "value": "317",
+    "winning-ticket": "0338118"
   },
   {
-    "undefined": "hds unione",
-    "prize": "UPS Legrand 310180 ",
-    "name": "Novalux ",
-    "code": "0602556"
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 300€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 300€",
+    "quantity": "1",
+    "value": "302.5",
+    "winning-ticket": "0230787"
   },
   {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0215716"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0756154"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0916505"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0438213"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0081970"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0320239"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0095928"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0777130"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0394467"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0673485"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0794668"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0199499"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0784459"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0210908"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0462320"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0647833"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi",
-    "code": "0245573"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi",
-    "code": "0319629"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi",
-    "code": "0072950"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi",
-    "code": "0455477"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi",
-    "code": "0418111"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "5 taglio uomo / 5mal Herrenschnitt ",
-    "name": "Elena Hair ",
-    "code": "0192507"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto su occhiali da sole o da vista con altre promozioni / Einkaufsgutschein für Sonnen - oder Sichtbrillen  mit anderen Promotionen ",
-    "name": "Fielmann",
-    "code": "0104033"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto su occhiali da sole o da vista con altre promozioni / Einkaufsgutschein für Sonnen - oder Sichtbrillen  mit anderen Promotionen ",
-    "name": "Fielmann",
-    "code": "0122658"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto su occhiali da sole o da vista con altre promozioni / Einkaufsgutschein für Sonnen - oder Sichtbrillen  mit anderen Promotionen ",
-    "name": "Fielmann",
-    "code": "0179539"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Profumerie Ferrari",
-    "code": "0069704"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Lampada da tavolo led\nTischlampe Led ",
-    "name": "Novalux ",
-    "code": "0358571"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Occhiale da sole / Sonnenbrille",
-    "name": "Optik Walter",
-    "code": "0745291"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Odenwaelder saccomucky p5  ",
-    "name": "La culla ",
-    "code": "0767033"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Odenwaelder saccomucky p5 ",
-    "name": "La culla ",
-    "code": "0315511"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "Rituale viso e corpo  \nGesichts- und Körperbehandlung ",
-    "name": "Joli Nails & Beauty",
-    "code": "0136372"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone /\nEintritt in die Spa für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0773579"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone /\nEintritt in die Spa für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0711725"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone /\nEintritt in die Spa für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0627155"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone /\nEintritt in die Spa für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0045703"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Torcia Led Lenser - Taschenlampe Led Lenser ",
-    "name": "SIGI d.Covi DStephan&Co. KG",
-    "code": "0715596"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Happy Card",
-    "name": "ASPIAG",
-    "code": "0178508"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Gutweniger Giocattoli \nSpielwaren",
-    "code": "0767376"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Gutweniger Giocattoli\nSpielwaren",
-    "code": "0638844"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono negozio intimissimi donna -\nEinkaufsgutschein für das Damengeschäft Intimissimi ",
-    "name": "Intimo snc",
-    "code": "0745799"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono negozio intimissimi donna -\nEinkaufsgutschein für das Damengeschäft Intimissimi ",
-    "name": "Intimo snc",
-    "code": "0095144"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono negozio intimissimi donna -\nEinkaufsgutschein für das Damengeschäft Intimissimi ",
-    "name": "Intimo snc",
-    "code": "0933907"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono negozio intimissimi donna -\nEinkaufsgutschein für das Damengeschäft Intimissimi ",
-    "name": "Intimo snc",
-    "code": "0891134"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0810149"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0401171"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0585629"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0431445"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0007481"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0932990"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0044874"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0004654"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0327685"
-  },
-  {
-    "undefined": "Via di Mezzo ai Piani -  Mitterweg 5",
-    "prize": "Buoni Monni cards ",
-    "name": "hds unione",
-    "code": "0809688"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Cena per due persone / Abendessen für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0031267"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Cena per due persone / Abendessen für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0413544"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Cena per due persone / Abendessen für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0093676"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Cena per due persone / Abendessen für zwei Personen ",
-    "name": "Torgglhaus Al Torchio",
-    "code": "0381969"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0105309"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0789611"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0320261"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0319868"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0573828"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Palais Moire",
-    "code": "0034534"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Palais Moire",
-    "code": "0098064"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Palais Moire",
-    "code": "0102972"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Palais Moire",
-    "code": "0716387"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Palais Moire",
-    "code": "0078670"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Panificio Lemayr ",
-    "code": "0713918"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Panificio Lemayr ",
-    "code": "0031603"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Panificio Lemayr ",
-    "code": "0320208"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Cofanetto prodotti beauty / Beautyset ",
-    "name": "Thaler ",
-    "code": "0222407"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Cofanetto prodotti beauty / Beautyset ",
-    "name": "Thaler ",
-    "code": "0954232"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Cofanetto prodotti beauty / Beautyset ",
-    "name": "Thaler ",
-    "code": "0269068"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Cofanetto prodotti beauty / Beautyset ",
-    "name": "Thaler ",
-    "code": "0413323"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Cofanetto prodotti beauty / Beautyset ",
-    "name": "Thaler ",
-    "code": "0391950"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Zari Bolzano",
-    "code": "0916029"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Buono culinario\nGenussgutschein",
-    "name": "Castel Flavon - Haselburg",
-    "code": "0949145"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Buono culinario \nGenussgutschein",
-    "name": "Castel Flavon - Haselburg",
-    "code": "0640959"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Cena / Abendessen",
     "name": "Hotel Magdalener Hof",
-    "code": "0613578"
+    "prize-it": "2 pernottamenti con colazione per 2 persone",
+    "prize-de": "2 Übernachtungen mit Früchstück für 2 Personen ",
+    "quantity": "1",
+    "value": "302.4",
+    "winning-ticket": "0127644"
   },
   {
-    "undefined": "hds unione/ confesercenti",
-    "prize": "Cena / Abendessen",
+    "name": "Buratti ",
+    "prize-it": "Store Card Buratti a 300€",
+    "prize-de": "Store Card Buratti zu 300€",
+    "quantity": "1",
+    "value": "300",
+    "winning-ticket": "0128063"
+  },
+  {
+    "name": "Gutweniger",
+    "prize-it": "Calcetto",
+    "prize-de": "Tisch Fussball ",
+    "quantity": "1",
+    "value": "300",
+    "winning-ticket": "0124346"
+  },
+  {
+    "name": "Hockey Club Bozen 2000 ",
+    "prize-it": "2 ingressi per la VIP ROOM per una partita",
+    "prize-de": "Vip-Eintritt für 2 Personen für 1 Spiel",
+    "quantity": "1",
+    "value": "300",
+    "winning-ticket": "0091197"
+  },
+  {
+    "name": "Hockey Club Bozen 2000 ",
+    "prize-it": "2 ingressi per la VIP ROOM per una partita",
+    "prize-de": "Vip-Eintritt für 2 Personen für 1 Spiel",
+    "quantity": "1",
+    "value": "300",
+    "winning-ticket": "0047398"
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": "1",
+    "value": "230",
+    "winning-ticket": "0066509"
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": "1",
+    "value": "230",
+    "winning-ticket": "0169701"
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": "1",
+    "value": "230",
+    "winning-ticket": "0346266"
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": "1",
+    "value": "230",
+    "winning-ticket": "0054424"
+  },
+  {
+    "name": "FC Südtirol",
+    "prize-it": "2 biglietti per lo stadio con posto a sedere nel settore \"Gold\" + 1 maglia autografata da tutta la squadra ",
+    "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
+    "quantity": "1",
+    "value": "230",
+    "winning-ticket": "0137821"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "monni card a 250€",
+    "prize-de": "monni card zu 250€",
+    "quantity": "1",
+    "value": "250",
+    "winning-ticket": "0093254"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "monni card a 250€",
+    "prize-de": "monni card zu 250€",
+    "quantity": "1",
+    "value": "250",
+    "winning-ticket": "0073547"
+  },
+  {
+    "name": "Globus ",
+    "prize-it": "Buono a 225€",
+    "prize-de": "Gutschein zu 225€",
+    "quantity": "1",
+    "value": "225",
+    "winning-ticket": "0060802"
+  },
+  {
+    "name": "Globus ",
+    "prize-it": "Buono a 225€",
+    "prize-de": "Gutschein zu 225€",
+    "quantity": "1",
+    "value": "225",
+    "winning-ticket": "0177624"
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 200€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 200€",
+    "quantity": "1",
+    "value": "198",
+    "winning-ticket": "0030237"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Set Cura viso Estèe Lauder",
+    "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
+    "quantity": "1",
+    "value": "163",
+    "winning-ticket": "0237414"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Set Cura viso Estèe Lauder",
+    "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
+    "quantity": "1",
+    "value": "163",
+    "winning-ticket": "0054536"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Set Cura viso Estèe Lauder",
+    "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
+    "quantity": "1",
+    "value": "163",
+    "winning-ticket": "0037086"
+  },
+  {
+    "name": "Bressan ",
+    "prize-it": "Lampada musicale portatile",
+    "prize-de": "Tragbare Musik-Lampe",
+    "quantity": "1",
+    "value": "158.6",
+    "winning-ticket": "0339433"
+  },
+  {
+    "name": "Novalux ",
+    "prize-it": "Take Away Sound RS",
+    "prize-de": "Take Away Sound RS",
+    "quantity": "1",
+    "value": "150.87",
+    "winning-ticket": "0118294"
+  },
+  {
+    "name": "Four Points Sheraton",
+    "prize-it": "Cena per 2 persone (3 portate bevande escluse)",
+    "prize-de": "Abendessen für 2 Personen (3 Gang Menü exkl. Getränke)",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0038812"
+  },
+  {
+    "name": "Fielmann",
+    "prize-it": "Buono per acquisto occhiali sole/vista da 150€",
+    "prize-de": "Gutschein für eine Seh- oder Sonnebrille zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0159737"
+  },
+  {
+    "name": "Fielmann",
+    "prize-it": "Buono per acquisto occhiali sole/vista da 150€",
+    "prize-de": "Gutschein für eine Seh- oder Sonnebrille zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0115559"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0005296"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0067347"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0114454"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0021927"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a 150€",
+    "prize-de": "Einkaufsgutschein zu 150€",
+    "quantity": "1",
+    "value": "150",
+    "winning-ticket": "0084173"
+  },
+  {
+    "name": "La culla",
+    "prize-it": "Bici bambino",
+    "prize-de": "Kinderfahrrad",
+    "quantity": "1",
+    "value": "149.9",
+    "winning-ticket": "0056039"
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 150€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 150€",
+    "quantity": "1",
+    "value": "148.5",
+    "winning-ticket": "0117283"
+  },
+  {
+    "name": "Novalux ",
+    "prize-it": "Lampada PH Beauvis",
+    "prize-de": "Lampe PH Beauvis",
+    "quantity": "1",
+    "value": "146.4",
+    "winning-ticket": "0103198"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": "1",
+    "value": "140",
+    "winning-ticket": "0115123"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": "1",
+    "value": "140",
+    "winning-ticket": "0080114"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": "1",
+    "value": "140",
+    "winning-ticket": "0013827"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": "1",
+    "value": "140",
+    "winning-ticket": "0016105"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Day Spa per 2 persone",
+    "prize-de": "Day Spa für 2 Personen",
+    "quantity": "1",
+    "value": "140",
+    "winning-ticket": "0026243"
+  },
+  {
+    "name": "La culla ",
+    "prize-it": "Seggiolino Legno Timba",
+    "prize-de": "Kinderstuhl Holz Timba",
+    "quantity": "1",
+    "value": "139.9",
+    "winning-ticket": "0050142"
+  },
+  {
+    "name": "Selectra",
+    "prize-it": "Lamapada ricaricabile da tavolo bianca",
+    "prize-de": "Aufladbare Tischlampe",
+    "quantity": "1",
+    "value": "134.2",
+    "winning-ticket": "0165523"
+  },
+  {
+    "name": "Selectra",
+    "prize-it": "Lamapada ricaricabile da tavolo bianca",
+    "prize-de": "Aufladbare Tischlampe",
+    "quantity": "1",
+    "value": "134.2",
+    "winning-ticket": "0171892"
+  },
+  {
+    "name": "Selectra ",
+    "prize-it": "Lamapada ricaricabile da tavolo bianca",
+    "prize-de": "Aufladbare Tischlampe",
+    "quantity": "1",
+    "value": "134.2",
+    "winning-ticket": "0084629"
+  },
+  {
+    "name": "Bressan ",
+    "prize-it": "Logica lampada ricaricabile Twiggy ",
+    "prize-de": "Aufladbare Lampe Twiggy",
+    "quantity": "1",
+    "value": "128",
+    "winning-ticket": "0037052"
+  },
+  {
+    "name": "Metzgerei Kaufmann",
+    "prize-it": "Buono a 125€",
+    "prize-de": "Gutschein zu 125€",
+    "quantity": "1",
+    "value": "125",
+    "winning-ticket": "0111248"
+  },
+  {
+    "name": "Metzgerei Kaufmann",
+    "prize-it": "Buono a 125€",
+    "prize-de": "Gutschein zu 125€",
+    "quantity": "1",
+    "value": "125",
+    "winning-ticket": "0040220"
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exklusive Stadtführung ",
+    "quantity": "1",
+    "value": "123.5",
+    "winning-ticket": "0131714"
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exklusive Stadtführung ",
+    "quantity": "1",
+    "value": "123.5",
+    "winning-ticket": "0120757"
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exklusive Stadtführung ",
+    "quantity": "1",
+    "value": "123.5",
+    "winning-ticket": "0162492"
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exklusive Stadtführung ",
+    "quantity": "1",
+    "value": "123.5",
+    "winning-ticket": "0101313"
+  },
+  {
+    "name": "Azienda soggiorno e turismo Bolzano",
+    "prize-it": "Visita guidata esclusiva alla città di Bolzano",
+    "prize-de": "Exklusive Stadtführung ",
+    "quantity": "1",
+    "value": "123.5",
+    "winning-ticket": "0090248"
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": "1",
+    "value": "120",
+    "winning-ticket": "0019454"
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": "1",
+    "value": "120",
+    "winning-ticket": "0076346"
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": "1",
+    "value": "120",
+    "winning-ticket": "0076961"
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": "1",
+    "value": "120",
+    "winning-ticket": "0040095"
+  },
+  {
+    "name": "2Fit ",
+    "prize-it": "ABO Palestra per 1 mese",
+    "prize-de": "Fitness ABO für 1 Monat",
+    "quantity": "1",
+    "value": "120",
+    "winning-ticket": "0083398"
+  },
+  {
+    "name": "La culla ",
+    "prize-it": "Seggiolino auto gr. 2-3",
+    "prize-de": "Autokindersitz Gr. 2-3",
+    "quantity": "1",
+    "value": "119.9",
+    "winning-ticket": "0057433"
+  },
+  {
+    "name": "Fuganti ",
+    "prize-it": "Giacca da Camera-Perofil",
+    "prize-de": "Jacke",
+    "quantity": "1",
+    "value": "116",
+    "winning-ticket": "0109197"
+  },
+  {
+    "name": "Novalux",
+    "prize-it": "Mixer, Coltello EL. e Set Thermos ",
+    "prize-de": "Mixer, Messer und Set Thermos ",
+    "quantity": "1",
+    "value": "114.7",
+    "winning-ticket": "0076757"
+  },
+  {
+    "name": "Novalux ",
+    "prize-it": "Mini Living Colors PH e Set Thermos",
+    "prize-de": "Mini Living Colors PH und Set Thermos",
+    "quantity": "1",
+    "value": "105.31",
+    "winning-ticket": "0079541"
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0193088"
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0038182"
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0215360"
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch für 2 Personen",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0004900"
+  },
+  {
+    "name": "Hotel Città ",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch für 2 Personen",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0071226"
+  },
+  {
+    "name": "Panificio Lemayr ",
+    "prize-it": "Cesta alimentare",
+    "prize-de": "Essenskorb",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0108582"
+  },
+  {
+    "name": "Parfumerie Irene Ferrari ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutscheine zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0046447"
+  },
+  {
+    "name": "Parfumerie Irene Ferrari ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutscheine zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0164771"
+  },
+  {
+    "name": "Parfumerie Irene Ferrari ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutscheine zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0046443"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0040840"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0035029"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0100815"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0001256"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0158877"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0039097"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0156027"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0114634"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0174734"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0086152"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0031823"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0025248"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0105487"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0044306"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0069494"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0083891"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0105679"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0027241"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0042566"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0071022"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0166066"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0040229"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0145579"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0034047"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0146432"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0074255"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0208073"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0069375"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "218168"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0081985"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0040986"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0050299"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0046051"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0345833"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0079491"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0127528"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0165416"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0095034"
+  },
+  {
+    "name": "Despar",
+    "prize-it": "Buono spesa  - Happy Card a 100€",
+    "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0020926"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0024117"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0163029"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0339568"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0072175"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0112304"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0056914"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0081504"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0032270"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0044434"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0056922"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0013766"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0017143"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0035854"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0176464"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0058787"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0169422"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0138261"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0075886"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0005092"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0193988"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0033594"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0154264"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0138104"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0170031"
+  },
+  {
+    "name": "Monni card",
+    "prize-it": "Monni card a 100€",
+    "prize-de": "Monni card zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0028676"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100 ",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0021053"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100 ",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0170027"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0090734"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0175325"
+  },
+  {
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €100",
+    "prize-de": "Einkaufsgutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0114153"
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0064591"
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "216689"
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0025617"
+  },
+  {
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 100€",
+    "prize-de": "Gutschein zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0165188"
+  },
+  {
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 100€",
+    "prize-de": "Gutschein Abendessen zu 100€",
+    "quantity": "1",
+    "value": "100",
+    "winning-ticket": "0158270"
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": "1",
+    "value": "99",
+    "winning-ticket": "0010743"
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": "1",
+    "value": "99",
+    "winning-ticket": "0016108"
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": "1",
+    "value": "99",
+    "winning-ticket": "0349924"
+  },
+  {
+    "name": "Ristorante Argentieri",
+    "prize-it": "Buono pranzo o cena a 99€",
+    "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
+    "quantity": "1",
+    "value": "99",
+    "winning-ticket": "0178181"
+  },
+  {
+    "name": "La culla",
+    "prize-it": "Peluches orso gigante",
+    "prize-de": "Großer Teddybär",
+    "quantity": "1",
+    "value": "81.88",
+    "winning-ticket": "0057896"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch für 2 Personen",
+    "quantity": "1",
+    "value": "80",
+    "winning-ticket": "0055775"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": "1",
+    "value": "80",
+    "winning-ticket": "0016006"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": "1",
+    "value": "80",
+    "winning-ticket": "0107288"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": "1",
+    "value": "80",
+    "winning-ticket": "0124563"
+  },
+  {
+    "name": "Castel Hörtenberg",
+    "prize-it": "Brunch per 2 persone",
+    "prize-de": "Brunch per 2 persone",
+    "quantity": "1",
+    "value": "80",
+    "winning-ticket": "0008640"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Menu degustazione per 2 persone",
+    "prize-de": "Degustationsmenü für 2 Personen",
+    "quantity": "1",
+    "value": "76",
+    "winning-ticket": "0112482"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Menu degustazione per 2 persone",
+    "prize-de": "Degustationsmenü für 2 Personen",
+    "quantity": "1",
+    "value": "76",
+    "winning-ticket": "0035948"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Menu degustazione per 2 persone",
+    "prize-de": "Degustationsmenü für 2 Personen",
+    "quantity": "1",
+    "value": "76",
+    "winning-ticket": "0035710"
+  },
+  {
+    "name": "Ottica Calderari",
+    "prize-it": "Occhiali da sole",
+    "prize-de": "Sonnenbrille",
+    "quantity": "1",
+    "value": "73.2",
+    "winning-ticket": "0055800"
+  },
+  {
+    "name": "Ottica Calderari",
+    "prize-it": "Occhiali da sole",
+    "prize-de": "Sonnenbrille",
+    "quantity": "1",
+    "value": "73.2",
+    "winning-ticket": "0065478"
+  },
+  {
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 70€",
+    "prize-de": "Gutschein Abendessen zu 70€",
+    "quantity": "1",
+    "value": "70",
+    "winning-ticket": "0091128"
+  },
+  {
+    "name": "Thaler ",
+    "prize-it": "Thaler profumeria: Prodotti bellezza ",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": "1",
+    "value": "61",
+    "winning-ticket": "0229469"
+  },
+  {
+    "name": "Thaler ",
+    "prize-it": "Thaler profumeria: Prodotti bellezza ",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": "1",
+    "value": "61",
+    "winning-ticket": "0093196"
+  },
+  {
+    "name": "Marka ",
+    "prize-it": "Articoli cura persona",
+    "prize-de": "Pflegeprodukte",
+    "quantity": "1",
+    "value": "61",
+    "winning-ticket": "0079027"
+  },
+  {
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": "1",
+    "value": "75",
+    "winning-ticket": "0046842"
+  },
+  {
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": "1",
+    "value": "75",
+    "winning-ticket": "0118235"
+  },
+  {
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": "1",
+    "value": "75",
+    "winning-ticket": "0087450"
+  },
+  {
+    "name": "Gutweniger",
+    "prize-it": "Buono a 75€",
+    "prize-de": "Gutschein zu 75€",
+    "quantity": "1",
+    "value": "75",
+    "winning-ticket": "0166998"
+  },
+  {
     "name": "Restaurant Nadamas",
-    "code": "0332669"
+    "prize-it": "Buono a cena o pranzo per due ",
+    "prize-de": "Gutschein für Mittag- oder Abendessen ",
+    "quantity": "1",
+    "value": "66",
+    "winning-ticket": "0028679"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Buono a cena o pranzo per due ",
+    "prize-de": "Gutschein für Mittag- oder Abendessen ",
+    "quantity": "1",
+    "value": "66",
+    "winning-ticket": "0082701"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Buono a cena o pranzo per due ",
+    "prize-de": "Gutschein für Mittag- oder Abendessen ",
+    "quantity": "1",
+    "value": "66",
+    "winning-ticket": "0109237"
+  },
+  {
+    "name": "Thaler ",
+    "prize-it": "Thaler Vital: Articoli/prodotti benessere",
+    "prize-de": "Thaler Vital: Schönheitsprodukte",
+    "quantity": "1",
+    "value": "61",
+    "winning-ticket": "0095311"
+  },
+  {
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 60€",
+    "prize-de": "Gutschein Abendessen zu 60€",
+    "quantity": "1",
+    "value": "60",
+    "winning-ticket": "0037359"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": "1",
+    "value": "60",
+    "winning-ticket": "0016701"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": "1",
+    "value": "60",
+    "winning-ticket": "0105529"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": "1",
+    "value": "60",
+    "winning-ticket": "0094964"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": "1",
+    "value": "60",
+    "winning-ticket": "0117618"
+  },
+  {
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Parfum 30ml \"The Mercant of Venice\"",
+    "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
+    "quantity": "1",
+    "value": "60",
+    "winning-ticket": "0079719"
+  },
+  {
+    "name": "Parkhotel Laurin",
+    "prize-it": "Sunday Brunch per 2 persone",
+    "prize-de": "Sunday Brunch für 2 Personen ",
+    "quantity": "1",
+    "value": "58",
+    "winning-ticket": "0085629"
+  },
+  {
+    "name": "Parkhotel Laurin",
+    "prize-it": "Sunday Brunch per 2 persone",
+    "prize-de": "Sunday Brunch für 2 Personen ",
+    "quantity": "1",
+    "value": "58",
+    "winning-ticket": "0149787"
+  },
+  {
+    "name": "Four Points Sheraton",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": "1",
+    "value": "56",
+    "winning-ticket": "0233729"
   },
   {
-    "undefined": "Ivh.apa",
-    "prize": "Sconto su fornitura climatizzatore \"Riello\" / \nPreisnachlass auf Klimaanlage  \"Riello\"  ",
-    "name": "Termoservice ",
-    "code": "0696489"
+    "name": "Four Points Sheraton",
+    "prize-it": "Ingresso SPA per 2 persone",
+    "prize-de": "Eintritt SPA für 2 Personen",
+    "quantity": "1",
+    "value": "56",
+    "winning-ticket": "0144437"
   },
   {
-    "undefined": "Ivh.apa",
-    "prize": "Sconto su fornitura climatizzatore \"Riello\" /\nPreisnachlass auf Klimaanlage  \"Riello\"  ",
-    "name": "Termoservice ",
-    "code": "0362397"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0029406"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Slokker casco randal / Slokker randal Helm",
-    "name": "Grüne Import Paganella ",
-    "code": "0528695"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0076706"
   },
   {
-    "undefined": "Via Alto Adige 60 - Südtiroler Straße 60 - DA CONFERMARE",
-    "prize": "Skipass ",
-    "name": "Consorzio Impianti a Fune Val Di Fiemme Obereggen ",
-    "code": "0394485"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0137342"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Collier in bronzo rodiato Marca Rebecca \nHalskette in Bronze Marke Rebecca ",
-    "name": "Gioielleria Bonaldi",
-    "code": "0574391"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0174100"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0647761"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0118789"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0358386"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0150047"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0929944"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0019759"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0755561"
+    "name": "Gutweniger ",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0201924"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0584592"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Buono colazione per 2 persone",
+    "prize-de": "Gutschein Frühstück für 2 Personen ",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0023172"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0007868"
+    "name": "Parkhotel Laurin",
+    "prize-it": "Buono colazione per 2 persone",
+    "prize-de": "Gutschein Frühstück für 2 Personen ",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0061221"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0266669"
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0003150"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0148620"
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Gutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0147315"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0247898"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0159932"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0627900"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0082825"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0756645"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0159931"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0408574"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0094105"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0595640"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0118833"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0029053"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0201791"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0364411"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0044881"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0441039"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0042638"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0268901"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0072064"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0932005"
+    "name": "ATEm",
+    "prize-it": "Buono a 50€",
+    "prize-de": "Wertgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0148530"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0070610"
+    "name": "Athletic29 ",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0041224"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cubo 925 argento Armand",
-    "name": "Schmid &von Bosio",
-    "code": "0666094"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0008292"
   },
   {
-    "undefined": "Ivh.apa",
-    "prize": "Buono per manutenzione caldaia murale \"Riello\" /\n Preisnachlass auf Klimaanlagen  \"Riello\"  ",
-    "name": "Termoservice ",
-    "code": "0105512"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0103973"
   },
   {
-    "undefined": "Ivh.apa",
-    "prize": "Buono per manutenzione caldaia murale \"Riello\" /\n Preisnachlass auf Klimaanlagen  \"Riello\"  ",
-    "name": "Termoservice ",
-    "code": "0334436"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0091167"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Serata degustazione per 2 persone / \nVerkostung für 2 Personen",
-    "name": "Enoteca Gandolfi ",
-    "code": "0214074"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0099120"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Serata degustazione per 2 persone / \nVerkostung für 2 Personen",
-    "name": "Enoteca Gandolfi ",
-    "code": "0038202"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0034735"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Serata degustazione per 2 persone / \nVerkostung für 2 Personen",
-    "name": "Enoteca Gandolfi ",
-    "code": "0456834"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0091803"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Rubatscher ",
-    "code": "0043706"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0039198"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Rubatscher ",
-    "code": "0439451"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0000050"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
-    "name": "Rubatscher ",
-    "code": "0585174"
+    "name": "Athletic29",
+    "prize-it": "Seduta di Personal Trainer o Pilates",
+    "prize-de": "Sitzung Personal Trainer oder Pilates",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0038243"
   },
   {
-    "undefined": "CNA-SHV",
-    "prize": "Buono per 5 pieghe / 5 Friseurgutscheine  ",
-    "name": "Lady 900",
-    "code": "0366651"
+    "name": "Resurrection d. Hermann Nussbaumer",
+    "prize-it": "Buono per lavaggi, taglio e piega",
+    "prize-de": "Gutschein für waschen, schneiden und föhnen",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0232082"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Biancheria da letto + lenzuolo / Bettwäsche  ",
-    "name": "Eccel Decorona ",
-    "code": "0011392"
+    "name": "Resurrection d. Hermann Nussbaumer",
+    "prize-it": "Buono per lavaggi, taglio e piega",
+    "prize-de": "Gutschein für waschen, schneiden und föhnen",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0201683"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Biancheria da letto + lenzuolo / Bettwäsche  ",
-    "name": "Eccel Decorona ",
-    "code": "0144301"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0216505"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0932714"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0195021"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0215517"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0273973"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0931496"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0053399"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0072293"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0424396"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0811020"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0421552"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0747491"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0646013"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0762271"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0355792"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0257034"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0069929"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0670439"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0230498"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Bracciale in argento 925 Cuore/Perle / \nArmband Silber 925 Herz und Perlen ",
-    "name": "Schmid &von Bosio",
-    "code": "0038902"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Abbonamento annuale entrata al museo per due persone / \nAbo für 1 Jahr für 2 Personen ",
-    "name": "Stiftung Museion",
-    "code": "0805270"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Slokker occhiali da sole siusi /\nSlokker Sonnenbrille ",
-    "name": "Grüne Import Paganella ",
-    "code": "0899670"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": " Torta x 12 persone / Kuchen für 12 Personen ",
-    "name": "Kiki Bakery Lab",
-    "code": "0308132"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Menu degustazione x2 persone / \nDegustationsmenü für 2 Personen ",
-    "name": "Hopfen&co",
-    "code": "0811797"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Menu degustazione x2 persone / \nDegustationsmenü für 2 Personen ",
-    "name": "Hopfen&co",
-    "code": "0241316"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Menu degustazione x2 persone / \nDegustationsmenü für 2 Personen ",
-    "name": "Hopfen&co",
-    "code": "0656110"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Brunch per due persone  / Brunch für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0712652"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Brunch per due persone  / Brunch für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0257611"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Brunch per due persone  / Brunch für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0718920"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Brunch per due persone  / Brunch für zwei Personen ",
-    "name": "Castel Hörtenberg ",
-    "code": "0608029"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Una colazione per due persone / \nFrühstück für zwei Personen  ",
-    "name": "Castel Hörtenberg ",
-    "code": "0636707"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Una colazione per due persone / \nFrühstück für zwei Personen  ",
-    "name": "Castel Hörtenberg ",
-    "code": "0005382"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Una colazione per due persone / \nFrühstück für zwei Personen  ",
-    "name": "Castel Hörtenberg ",
-    "code": "0459244"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Una colazione per due persone / \nFrühstück für zwei Personen  ",
-    "name": "Castel Hörtenberg ",
-    "code": "0957831"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Visita guidata con il direttore del Museion Van der Heide per 2 persone (60 minuti) / Museumsführung mit Direktor Van der Heide für 2 Personen ",
-    "name": "Stiftung Museion",
-    "code": "0288637"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "Massaggio hot stone pietre calde / \nHot Stone Massage",
-    "name": "Estetica di Lu",
-    "code": "0958132"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Buono per la prima colazione al Greif per 2 persone /\nGutschein für 2 Personen ",
-    "name": "Grifoncino ",
-    "code": "0892755"
-  },
-  {
-    "undefined": "Via L.Galvani Straße - 29",
-    "prize": "6 Tazzine fiesta / 6 Tassen  Fiesta ",
-    "name": "THUN",
-    "code": "0467341"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "6 Tazzine Jungle / 6 Tassen Jungle ",
-    "name": "THUN ",
-    "code": "0053594"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Twenty giftcard",
-    "name": "Twenty ",
-    "code": "0352698"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Twenty giftcard",
-    "name": "Twenty ",
-    "code": "0583372"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Twenty giftcard",
-    "name": "Twenty ",
-    "code": "0768043"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Twenty giftcard",
-    "name": "Twenty ",
-    "code": "0308434"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Twenty giftcard",
-    "name": "Twenty ",
-    "code": "0394962"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone / \nEintritt in die Spa für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0530770"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone / \nEintritt in die Spa für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0593223"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone / \nEintritt in die Spa für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0034789"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone / \nEintritt in die Spa für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0952128"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone / \nEintritt in die Spa für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0787560"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Ingresso Spa per due persone / \nEintritt in die Spa für zwei Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0214672"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0769942"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0159346"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0637778"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0607558"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0053145"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0631415"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0779036"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0571955"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0118811"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Koncoop",
-    "code": "0700992"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bergmilch Südtirol ",
-    "code": "0043530"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bergmilch Südtirol ",
-    "code": "0329864"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bergmilch Südtirol ",
-    "code": "0778966"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bergmilch Südtirol ",
-    "code": "0144002"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0311242"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0429807"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0949946"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0094649"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Bricocenter Straudi ",
-    "code": "0588311"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto prodotti cosmetici / \nGutschein auf kosmetische Produkte",
     "name": "Farmacie Bonvicini ",
-    "code": "0379867"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0048075"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto prodotti cosmetici / \nGutschein für kosmetische Produkte",
     "name": "Farmacie Bonvicini ",
-    "code": "0360286"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0156978"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto prodotti cosmetici / \nGutschein für kosmetische Produkte",
     "name": "Farmacie Bonvicini ",
-    "code": "0265259"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0142116"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto prodotti cosmetici / \nGutschein für kosmetische Produkte",
     "name": "Farmacie Bonvicini ",
-    "code": "0370196"
+    "prize-it": "Buono cosmesi a 50€",
+    "prize-de": "Kosmetikgutschein 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "216638"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono acquisto prodotti cosmetici / \nGutschein für kosmetische Produkte",
-    "name": "Farmacie Bonvicini ",
-    "code": "0294867"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0239800"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono negozio intimissimi / Gutschein Intimissimi  ",
-    "name": "Intimo snc",
-    "code": "0089860"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0099850"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono negozio intimissimi / Gutschein Intimissimi  ",
-    "name": "Intimo snc",
-    "code": "0915193"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0065102"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Zari Bolzano",
-    "code": "0323176"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "219300"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono per due persone / Gutschein für zwei Personen ",
-    "name": "Stiftung Haydn ",
-    "code": "0356778"
+    "name": "Straudi ",
+    "prize-it": "Buono Acquisto a €50",
+    "prize-de": "Einkaufsgutschein zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0104503"
   },
   {
-    "undefined": "HGV",
-    "prize": "Cena per due persone / Abendessen für zwei Personen ",
-    "name": "Rest. Nussbaumer",
-    "code": "0270982"
+    "name": "Altorchio ",
+    "prize-it": "Buono cena a 50€",
+    "prize-de": "Gutschein Abendessen zu 50€",
+    "quantity": "1",
+    "value": "50",
+    "winning-ticket": "0071999"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono Regalo Bamboo, 50 / Geschenkgutschein Bamboo 50  ",
-    "name": "Restaurant Bamboo",
-    "code": "0893878"
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0158185"
   },
   {
-    "undefined": "keine",
-    "prize": "Biglietti per il concerto dell'Orchestra Haydn/Kent Nagano il 19.02.2022 x 2 persone / \n2 Eintrittskarten für das Konzert- Haydn/Kent Nagano am 19.02.2022",
-    "name": "Stiftung Haydn ",
-    "code": "0805937"
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0176047"
   },
   {
-    "undefined": "Via L.Galvani Straße - 29",
-    "prize": "Angelo Nelly / Nelly Engel ",
-    "name": "THUN",
-    "code": "0189531"
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0042614"
   },
   {
-    "undefined": "nessuna",
-    "prize": "Voucher per una degustazione di vini per due persone / Weindegustation für 2 Personen ",
-    "name": "Weingut Eberlehof",
-    "code": "0809432"
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0069836"
   },
   {
-    "undefined": "nessuna",
-    "prize": "Voucher per una degustazione di vini per due persone / Weindegustation für 2 Personen ",
-    "name": "Weingut Eberlehof",
-    "code": "0449259"
+    "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
+    "prize-it": "Buono per un corso di (4 ore) pronto soccorso",
+    "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0141121"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cesto di prodotti alimentari/Lebensmittelkorb",
-    "name": "Gramm AG",
-    "code": "0647006"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "Buono per una degustazione vini per 2 persone",
+    "prize-de": "Gutschein Weinverkostung für 2 Personen",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0139474"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cesto di prodotti alimentari/Lebensmittelkorb",
-    "name": "Gramm AG",
-    "code": "0527095"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "Buono per una degustazione vini per 2 persone",
+    "prize-de": "Gutschein Weinverkostung für 2 Personen",
+    "quantity": "1",
+    "value": "44",
+    "winning-ticket": "0086099"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cesto di prodotti alimentari/Lebensmittelkorb",
-    "name": "Gramm AG",
-    "code": "0510079"
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": "1",
+    "value": "40",
+    "winning-ticket": "0039991"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cesto di prodotti alimentari/Lebensmittelkorb",
-    "name": "Gramm AG",
-    "code": "0571553"
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": "1",
+    "value": "40",
+    "winning-ticket": "0001019"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Cesto di prodotti alimentari/Lebensmittelkorb",
-    "name": "Gramm AG",
-    "code": "0572729"
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": "1",
+    "value": "40",
+    "winning-ticket": "0000479"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono cambio olio  / Gutschein für einen Ölwechsel",
-    "name": "Brasolin Auto ",
-    "code": "0313724"
+    "name": "Parfümerie Ferrari",
+    "prize-it": "Bagnoschiuma \"Secreti Nobilissimi\"",
+    "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
+    "quantity": "1",
+    "value": "40",
+    "winning-ticket": "0073048"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Buono cambio olio  / Gutschein für einen Ölwechsel",
-    "name": "Brasolin Auto ",
-    "code": "0891510"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono cambio olio  / Gutschein für einen Ölwechsel",
-    "name": "Brasolin Auto ",
-    "code": "0224844"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono cambio olio  / Gutschein für einen Ölwechsel",
-    "name": "Brasolin Auto ",
-    "code": "0697034"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono cambio olio  / Gutschein für einen Ölwechsel",
-    "name": "Brasolin Auto ",
-    "code": "0456706"
-  },
-  {
-    "undefined": "Ivh.apa",
-    "prize": "Buono per manutenzione scaldabagno \"Riello\" (q.2) / \nWartungsgutschein ",
-    "name": "Termoservice ",
-    "code": "0106404"
-  },
-  {
-    "undefined": "Ivh.apa",
-    "prize": "Buono per manutenzione scaldabagno \"Riello\" (q.2) / \nWartungsgutschein ",
-    "name": "Termoservice ",
-    "code": "0179509"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Cestino di specialità / Genusskorb",
-    "name": "Loacker cafè",
-    "code": "0460567"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Cestino di specialità / Genusskorb",
-    "name": "Loacker cafè",
-    "code": "0270572"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Cestino di specialità / Genusskorb",
-    "name": "Loacker cafè",
-    "code": "0361999"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Cestino di specialità / Genusskorb",
-    "name": "Loacker cafè",
-    "code": "0427714"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Cestino di specialità / Genusskorb",
-    "name": "Loacker cafè",
-    "code": "0290418"
-  },
-  {
-    "undefined": "Via Buozzi - Buozzistraße 35",
-    "prize": "Ingresso per 2 persone al 7° Cielo Beauty&Wellness / \nEintritt fü 2 Personen im 7° Heaven Beauty&Wellness ",
-    "name": "Four Points Sheraton ",
-    "code": "0218525"
-  },
-  {
-    "undefined": "Via Buozzi - Buozzistraße 35",
-    "prize": "Ingresso per 2 persone al 7° Cielo Beauty&Wellness / \nEintritt fü 2 Personen im 7° Heaven Beauty&Wellness ",
-    "name": "Four Points Sheraton ",
-    "code": "0707443"
-  },
-  {
-    "undefined": "Via L.Galvani Straße - 29",
-    "prize": "Campanella / Glocke ",
-    "name": "THUN ",
-    "code": "0094472"
-  },
-  {
-    "undefined": "CNA-SHV",
-    "prize": "Pedicure Spa",
-    "name": "Estetica di Lu",
-    "code": "0922667"
-  },
-  {
-    "undefined": "HGV",
-    "prize": "Buono acquisto per due cocktail / \nGutschein für 2 Cocktails",
-    "name": "Grifoncino",
-    "code": "0768225"
-  },
-  {
-    "undefined": "keine",
-    "prize": "Buono per il teatro 2 Persone / 2 Theatergutscheine ",
     "name": "Vereinigte Bühnen Bozen",
-    "code": "0799224"
+    "prize-it": "2 tickets per uno spettacolo a scelta entro 2023",
+    "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
+    "quantity": "1",
+    "value": "39",
+    "winning-ticket": "0093558"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono per il teatro 2 Persone / 2 Theatergutscheine ",
     "name": "Vereinigte Bühnen Bozen",
-    "code": "0589757"
+    "prize-it": "2 tickets per uno spettacolo a scelta entro 2023",
+    "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
+    "quantity": "1",
+    "value": "39",
+    "winning-ticket": "0044959"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono per il teatro 2 Persone / 2 Theatergutscheine ",
     "name": "Vereinigte Bühnen Bozen",
-    "code": "0638667"
+    "prize-it": "2 tickets per uno spettacolo a scelta entro 2023",
+    "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
+    "quantity": "1",
+    "value": "39",
+    "winning-ticket": "0085058"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono per il teatro 2 Persone / 2 Theatergutscheine ",
-    "name": "Vereinigte Bühnen Bozen",
-    "code": "0081160"
+    "name": "Thaler ",
+    "prize-it": "Thaler Profumeria: Prodotti bellezza",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": "1",
+    "value": "30.5",
+    "winning-ticket": "0230571"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono per il teatro 2 Persone / 2 Theatergutscheine ",
-    "name": "Vereinigte Bühnen Bozen",
-    "code": "0129264"
+    "name": "Thaler ",
+    "prize-it": "Thaler Profumeria: Prodotti bellezza",
+    "prize-de": "Thaler profumeria: Schönheitsprodukte ",
+    "quantity": "1",
+    "value": "30.5",
+    "winning-ticket": "0005104"
   },
   {
-    "undefined": "keine",
-    "prize": "Buono per il teatro 2 Persone / 2 Theatergutscheine ",
-    "name": "Vereinigte Bühnen Bozen",
-    "code": "0320344"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": "1",
+    "value": "30",
+    "winning-ticket": "0166283"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Slokker cappellino megan / Slokker Mütze ",
-    "name": "Grüne Import Paganella ",
-    "code": "0027516"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": "1",
+    "value": "30",
+    "winning-ticket": "0068955"
   },
   {
-    "undefined": "CNA-SHV",
-    "prize": "Semipermanente mani / Manicure Semipermanent",
-    "name": "Estetica di Lu",
-    "code": "0205129"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": "1",
+    "value": "30",
+    "winning-ticket": "0051084"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono acquisto / Einkaufsgutschein",
-    "name": "Zari Bolzano",
-    "code": "0753211"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": "1",
+    "value": "30",
+    "winning-ticket": "0145654"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Pranzo x 2 persone / Mittagessen für 2 Personen ",
-    "name": "Corte bar bistrò",
-    "code": "0234096"
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Fusto di birra da 5 lt.",
+    "prize-de": "Bierfass 5 Liter",
+    "quantity": "1",
+    "value": "30",
+    "winning-ticket": "0013326"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "500 gr di lana / 500 gr Wolle ",
-    "name": "Mercerie Fuganti",
-    "code": "0807690"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0414803"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0373283"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0091577"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0749440"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0231813"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0771218"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0466451"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0374502"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0566372"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0274592"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0226952"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0382570"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0924468"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0033522"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0415153"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0774105"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0765334"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0749703"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0681233"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Orecchini coccinella 925 argento / Ohrringe ",
-    "name": "Schmid &von Bosio",
-    "code": "0582544"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "T-shirt intimo uomo / Männer T-shirt ",
-    "name": "Mercerie Fuganti ",
-    "code": "0147912"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "T-shirt intimo uomo / Männer T-shirt ",
-    "name": "Mercerie Fuganti ",
-    "code": "0456864"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Canotta + 2 slip abbinati donna / Frauenunterwäsche ",
-    "name": "Mercerie Fuganti ",
-    "code": "0453474"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "2 pizze gourmet ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0317981"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "2 pizze gourmet ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0206978"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "2 pizze gourmet ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0654604"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "2 pizze gourmet ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0569394"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "2 pizze gourmet ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0809165"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "2 pizze gourmet ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0094888"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono Regalo Bamboo / Gutschein Bamboo",
-    "name": "Restaurant Bamboo",
-    "code": "0803511"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono Regalo Bamboo / Gutschein Bamboo",
-    "name": "Restaurant Bamboo",
-    "code": "0564693"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono Regalo Bamboo / Gutschein Bamboo",
-    "name": "Restaurant Bamboo",
-    "code": "0424381"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono Regalo Bamboo / Gutschein Bamboo",
-    "name": "Restaurant Bamboo",
-    "code": "0348931"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Buono Regalo Bamboo / Gutschein Bamboo",
-    "name": "Restaurant Bamboo",
-    "code": "0598206"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0576032"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0497340"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0631379"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0565697"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0782746"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0751379"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0399415"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0746826"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0682483"
-  },
-  {
-    "undefined": "HGV ",
-    "prize": "Aperitivo per due persone / Aperitivo für 2 Personen ",
-    "name": "Stadt Hotel Cittá ",
-    "code": "0599308"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Fusto 5 lt.birra / Bierfass zu 5 l ",
-    "name": "Hopfen & Co. ",
-    "code": "0388772"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Fusto 5 lt.birra / Bierfass zu 5 l ",
-    "name": "Hopfen & Co",
-    "code": "0762035"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Fusto 5 lt.birra / Bierfass zu 5 l ",
-    "name": "Hopfen & Co",
-    "code": "0677876"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Fusto 5 lt.birra / Bierfass zu 5 l ",
-    "name": "Hopfen & Co",
-    "code": "0423895"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Fusto 5 lt.birra / Bierfass zu 5 l ",
-    "name": "Hopfen & Co",
-    "code": "0087607"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0386900"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0362085"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0294677"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0097202"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0234626"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0435274"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0245441"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0053306"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0296064"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Due bottiglie di vino rosso 0,75c / \n2 Rotweinflaschen 0,75 c  ",
-    "name": "Heinrichshof ",
-    "code": "0100371"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0151566"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0331060"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0020992"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0687602"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0013796"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0416676"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0388250"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0920230"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0151691"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0695512"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0247233"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0103408"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0049914"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0010653"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0265575"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0799763"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0257437"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0637264"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0591686"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0580125"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0388773"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0368097"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0107523"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0269797"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0771477"
-  },
-  {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 30cm /\nGutschein für 4 Sandwich zu 30cm  ",
-    "name": "Subway",
-    "code": "0074057"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Colazione per due persone / Frühstück für zwei Personen ",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0757209"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Colazione per due persone / Frühstück für zwei Personen ",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0012062"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Colazione per due persone / Frühstück für zwei Personen ",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0029839"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Colazione per due persone / Frühstück für zwei Personen ",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0255345"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "Colazione per due persone / Frühstück für zwei Personen ",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0197507"
-  },
-  {
-    "undefined": "hds unione",
-    "prize": "6 Cupcakes ",
-    "name": "Kiki Bakery Lab",
-    "code": "0447529"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Box di 2  St.Magdalener Classico e Lagrein Riserva / Box mit 2  St.Magdalener Classico und Lagrein Riserva",
-    "name": "Weingut Eberlehof ",
-    "code": "0046382"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Box di 2  St.Magdalener Classico e Lagrein Riserva / Box mit 2  St.Magdalener Classico und Lagrein Riserva",
-    "name": "Weingut Eberlehof ",
-    "code": "0784817"
-  },
-  {
-    "undefined": "nessuna",
-    "prize": "Box di 2  St.Magdalener Classico e Lagrein Riserva / Box mit 2  St.Magdalener Classico und Lagrein Riserva",
-    "name": "Weingut Eberlehof ",
-    "code": "0712242"
-  },
-  {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
     "name": "Loacker cafè",
-    "code": "0027476"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": "1",
+    "value": "29.9",
+    "winning-ticket": "0034002"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
     "name": "Loacker cafè",
-    "code": "0677958"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": "1",
+    "value": "29.9",
+    "winning-ticket": "0107486"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
     "name": "Loacker cafè",
-    "code": "0920759"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": "1",
+    "value": "29.9",
+    "winning-ticket": "0087601"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
     "name": "Loacker cafè",
-    "code": "0916453"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": "1",
+    "value": "29.9",
+    "winning-ticket": "0023511"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "Buono acquisto \nEinkaufsgutschein",
     "name": "Loacker cafè",
-    "code": "0057175"
+    "prize-it": "Cesto regalo ",
+    "prize-de": "Filzkrob",
+    "quantity": "1",
+    "value": "29.9",
+    "winning-ticket": "0097405"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": "1",
+    "value": "28",
+    "winning-ticket": "0023636"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": "1",
+    "value": "28",
+    "winning-ticket": "0080422"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": "1",
+    "value": "28",
+    "winning-ticket": "0111956"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": "1",
+    "value": "28",
+    "winning-ticket": "0104516"
+  },
+  {
+    "name": "Hopfen&co. - Bozner Brau Gmbh",
+    "prize-it": "Bottiglia di birra 2lt.",
+    "prize-de": "Bierflasche 2 Liter",
+    "quantity": "1",
+    "value": "28",
+    "winning-ticket": "0102035"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": "1",
+    "value": "27.5",
+    "winning-ticket": "0054158"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": "1",
+    "value": "27.5",
+    "winning-ticket": "0040679"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": "1",
+    "value": "27.5",
+    "winning-ticket": "0054984"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": "1",
+    "value": "27.5",
+    "winning-ticket": "0046491"
+  },
+  {
+    "name": "Restaurant Nadamas",
+    "prize-it": "Aperitivo",
+    "prize-de": "Aperitif",
+    "quantity": "1",
+    "value": "27.5",
+    "winning-ticket": "0083932"
+  },
+  {
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0007676"
+  },
+  {
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0095130"
   },
   {
-    "undefined": "hds unione",
-    "prize": "10 cookies ",
-    "name": "Kiki Bakery Lab",
-    "code": "0691891"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0026955"
   },
   {
-    "undefined": "hds unione/Ivh.apa",
-    "prize": "Stampa autografata di Paul Flora / Druck von Paul Flora ",
-    "name": "Galleria Alessandro \nCasciaro",
-    "code": "0066205"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0087001"
   },
   {
-    "undefined": "hds unione/Ivh.apa",
-    "prize": "Stampa autografata di Paul Flora / Druck von Paul Flora ",
-    "name": "Galleria Alessandro \nCasciaro",
-    "code": "0621148"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0042704"
   },
   {
-    "undefined": "hds unione/Ivh.apa",
-    "prize": "Stampa autografata di Paul Flora / Druck von Paul Flora ",
-    "name": "Galleria Alessandro \nCasciaro",
-    "code": "0897627"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0106944"
   },
   {
-    "undefined": "hds unione/Ivh.apa",
-    "prize": "Stampa autografata di Paul Flora / Druck von Paul Flora ",
-    "name": "Galleria Alessandro \nCasciaro",
-    "code": "0619258"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0000267"
   },
   {
-    "undefined": "hds unione/Ivh.apa",
-    "prize": "Stampa autografata di Paul Flora / Druck von Paul Flora ",
-    "name": "Galleria Alessandro \nCasciaro",
-    "code": "0932652"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0104981"
   },
   {
-    "undefined": "Via L.Galvani Straße - 29",
-    "prize": "Addobbo Babbo Natale / Weihnachtsmann-Deko",
-    "name": "THUN",
-    "code": "0687435"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0087630"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "bottiglia birra da 2 lt. / 2 l Bierflasche",
-    "name": "Hopfen & Co",
-    "code": "0010178"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0092331"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "bottiglia birra da 2 lt. / 2 l Bierflasche",
-    "name": "Hopfen & Co",
-    "code": "0356042"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0069667"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "bottiglia birra da 2 lt. / 2 l Bierflasche",
-    "name": "Hopfen & Co",
-    "code": "0243197"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0086604"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "bottiglia birra da 2 lt. / 2 l Bierflasche",
-    "name": "Hopfen & Co",
-    "code": "0314961"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0067218"
   },
   {
-    "undefined": "hds unione / HGV",
-    "prize": "bottiglia birra da 2 lt. / 2 l Bierflasche",
-    "name": "Hopfen & Co",
-    "code": "0462771"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0078425"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "4 Collant donna / 4 Strumpfhosen",
-    "name": "Mercerie Fuganti ",
-    "code": "0954262"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0032865"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Guida città 2 persone / Stadtführung für 2 Personen",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0698225"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0064991"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Guida città 2 persone / Stadtführung für 2 Personen",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0957637"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0015044"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Guida città 2 persone / Stadtführung für 2 Personen",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0294716"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0093213"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\n Gutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0181914"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0083172"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\n Gutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0109506"
+    "name": "Hotel Post Gries",
+    "prize-it": "Tessera parcheggio ricaricabile a 25€",
+    "prize-de": "Aufladbare Parkkarte im Wert von 25€",
+    "quantity": "1",
+    "value": "25",
+    "winning-ticket": "0040495"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0575504"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "2 bottiglie di vino",
+    "prize-de": "2er Karton Wein ",
+    "quantity": "1",
+    "value": "23",
+    "winning-ticket": "0047094"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0116361"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "2 bottiglie di vino",
+    "prize-de": "2er Karton Wein ",
+    "quantity": "1",
+    "value": "23",
+    "winning-ticket": "0206978"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0097247"
+    "name": "Weingut Eberlehof des Zisser Horst",
+    "prize-it": "2 bottiglie di vino",
+    "prize-de": "2er Karton Wein ",
+    "quantity": "1",
+    "value": "23",
+    "winning-ticket": "0009384"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0608888"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0067654"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0288465"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0097690"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0114051"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0090298"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0447561"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0020364"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0098473"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0048547"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0304044"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0136800"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0688194"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0165065"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0793314"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0009346"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0672211"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0000353"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0042717"
+    "name": "MC Dondald's",
+    "prize-it": "Menù Mc Family Large",
+    "prize-de": "Menü Mc Family Large",
+    "quantity": "1",
+    "value": "22.9",
+    "winning-ticket": "0105615"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0593440"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0007399"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0567083"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0107034"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0370449"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0017074"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0039586"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0060621"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0244913"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0161680"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0317674"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0237118"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0177520"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0091527"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0776219"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0127598"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0761677"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0078447"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Buono da 4 Sandwich da 15cm /\nGutschein für 4 Sandwich zu 15cm ",
-    "name": "Subway",
-    "code": "0467569"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0115561"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Corte Bar & Bistro",
-    "code": "0403488"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0034914"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0355984"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0050621"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0660125"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0212031"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0935063"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0237119"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0108613"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0039465"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0406596"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0024576"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0257600"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0210201"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0034648"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0138175"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0203624"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0059770"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0793442"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0009727"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "pizza classica / 1 pizza ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0107389"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0009885"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0673635"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0013567"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0431996"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0008906"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0434964"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0085154"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0103584"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0086756"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0581214"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0025817"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0782964"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0056872"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0587954"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0056233"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0637823"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0059323"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0672598"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0005270"
   },
   {
-    "undefined": "confesercenti",
-    "prize": "Aperitivo per 2 persone / Aperitivo für 2 Personen ",
-    "name": "Torgglhaus Al Torchio ",
-    "code": "0069369"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0105069"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0424831"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0129986"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0447028"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0166257"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0227235"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0032958"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0410628"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0142062"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0212846"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0034178"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0631011"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0118681"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0002910"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0060566"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0265460"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0142057"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0789049"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0152099"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Conf. 6 tazzine mercatino / 6 Christkindlmarkttassen  ",
-    "name": "Azienda soggiorno e \nturismo Bolzano",
-    "code": "0300353"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0051061"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Colazione per una persona / Frühstück für eine Person",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0118351"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0074817"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Colazione per una persona / Frühstück für eine Person",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0890152"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0232801"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Colazione per una persona / Frühstück für eine Person",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0043462"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0176400"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Colazione per una persona / Frühstück für eine Person",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0322916"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0336603"
   },
   {
-    "undefined": "hds unione",
-    "prize": "Colazione per una persona / Frühstück für eine Person",
-    "name": "Franziskaner Bäckerei ",
-    "code": "0134435"
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0049457"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0025944"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0060421"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0128425"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0077877"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0051160"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0069779"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0027227"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0178241"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0116360"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0045194"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0055472"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0016556"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0019535"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0164002"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0077692"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0000614"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0039787"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0214325"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0139142"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0090353"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0099576"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0040796"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0078771"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0151701"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0346145"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0038717"
+  },
+  {
+    "name": "Teatro Cristallo Associazione Verein",
+    "prize-it": "Biglietto per spettacoli stagione 2022/2023",
+    "prize-de": "Ticket für die Saison 2022/2023",
+    "quantity": "1",
+    "value": "13.97",
+    "winning-ticket": "0114646"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0061804"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0131783"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0016564"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0066212"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0145212"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0161209"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0051812"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0024390"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0048002"
+  },
+  {
+    "name": "Bozner Weisse GmbH- Batzen Bräu ",
+    "prize-it": "6-Pack Batzen Bier",
+    "prize-de": "6-Pack Batzen Bier",
+    "quantity": "1",
+    "value": "11",
+    "winning-ticket": "0031262"
   }
 ]

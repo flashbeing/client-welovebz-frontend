@@ -62,13 +62,14 @@
     </section>
     <section id="countdown" class="red">
       <div class="center">
-        <TitleHeading :show-as-title="true" :inverted="true">{{
+        <!--<TitleHeading :show-as-title="true" :inverted="true">{{
           $t('common.extraction')
         }}</TitleHeading>
         <div class="countdown">
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
-        </div>
-        <!-- <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
+        </div> -->
+        <!-- Start here to comment to disable prize win view -->
+        <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
         <ul>
           <li>{{ $t('page.homepage.winnersInfo.pointOne') }}</li>
           <i18n path="page.homepage.winnersInfo.pointTwo" tag="li">
@@ -129,7 +130,8 @@
         <p v-if="!filteredWonPrizes.length">
           {{ $t('page.homepage.winnersInfo.noWinningPrizeFound') }}
         </p>
-        -->
+        <!-- End here to comment to disable prize win view -->
+        <!--
         <i18n
           path="page.homepage.secondSection.firstParagraph.text"
           tag="p"
@@ -149,6 +151,7 @@
             }}</a>
           </template>
         </i18n>
+        -->
         <Accordion
           v-if="isCountdownOver"
           :button="$t('page.homepage.secondSection.button')"
@@ -397,25 +400,18 @@ export default {
 
     filteredWonPrizes() {
       let prizes = this.wonPrizes.map((p, index) => {
-        const descParts = p.prize.split(/\r?\n/)
-
-        let prize = descParts[0].trim()
-        if (descParts[1] && descParts[1].trim()) {
-          const itDesc = descParts[0].trim()
-          const deDesc = descParts[1].trim()
-
-          if (this.$i18n.locale === 'it') {
-            prize = itDesc
-          } else {
-            prize = deDesc
-          }
+        let prize = ''
+        if (this.$i18n.locale === 'it') {
+          prize = p['prize-it']
+        } else {
+          prize = p['prize-de']
         }
 
         return {
           number: index + 1,
           shopName: p.name.trim(),
           prize,
-          code: p.code.trim(),
+          code: p['winning-ticket'].trim(),
         }
       })
 
