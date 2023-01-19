@@ -69,7 +69,7 @@
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div> -->
         <!-- Start here to comment to disable prize win view -->
-        <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
+        <!--<p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
         <ul>
           <li>{{ $t('page.homepage.winnersInfo.pointOne') }}</li>
           <i18n path="page.homepage.winnersInfo.pointTwo" tag="li">
@@ -129,7 +129,7 @@
         </Accordion>
         <p v-if="!filteredWonPrizes.length">
           {{ $t('page.homepage.winnersInfo.noWinningPrizeFound') }}
-        </p>
+        </p>-->
         <!-- End here to comment to disable prize win view -->
         <!--
         <i18n
