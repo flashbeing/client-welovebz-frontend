@@ -69,7 +69,7 @@
           <Countdown :end-date="endCountdown" @end="isCountdownOver = true" />
         </div> -->
         <!-- Start here to comment to disable prize win view -->
-        <!--<p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
+        <p class="mt-3">{{ $t('page.homepage.winnersInfo.topDesc') }}</p>
         <ul>
           <li>{{ $t('page.homepage.winnersInfo.pointOne') }}</li>
           <i18n path="page.homepage.winnersInfo.pointTwo" tag="li">
@@ -103,7 +103,17 @@
             :key="index"
             class="prize"
           >
-            <b>{{ item.number + '. ' + item.code + ': ' + item.prize }}</b>
+            <b>{{
+              item.number +
+              '. ' +
+              item.code +
+              ' (' +
+              (item.isRedTicket
+                ? $t('common.redTicket')
+                : $t('common.whiteTicket')) +
+              '): ' +
+              item.prize
+            }}</b>
             <span> - </span>
             {{ item.shopName }}
           </p>
@@ -129,7 +139,7 @@
         </Accordion>
         <p v-if="!filteredWonPrizes.length">
           {{ $t('page.homepage.winnersInfo.noWinningPrizeFound') }}
-        </p>-->
+        </p>
         <!-- End here to comment to disable prize win view -->
         <!--
         <i18n
@@ -411,6 +421,7 @@ export default {
           number: index + 1,
           shopName: p.name.trim(),
           prize,
+          isRedTicket: p.color.trim() === 'rosso/rot',
           code: p['winning-ticket'].trim(),
         }
       })

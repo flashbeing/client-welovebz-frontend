@@ -9,7 +9,9 @@
     "rules": "Reglement",
     "impressum": "Impressum",
     "contact": "Kontakt",
-    "extraction": "Verlosung"
+    "extraction": "Verlosung",
+    "redTicket": "Rotes Los",
+    "whiteTicket": "Weißes Los"
   },
   "page": {
     "homepage": {

@@ -9,7 +9,9 @@
     "rules": "Regolamento",
     "impressum": "Note legali",
     "contact": "Contatti",
-    "extraction": "Estrazione"
+    "extraction": "Estrazione",
+    "redTicket": "Biglietto rosso",
+    "whiteTicket": "Biglietto bianco"
   },
   "page": {
     "homepage": {

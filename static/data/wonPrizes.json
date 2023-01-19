@@ -5,7 +5,8 @@
     "prize-de": "Fiat 500 Dolcevita 1.0 Hybrid",
     "quantity": "1",
     "value": "18700",
-    "winning-ticket": "0237797"
+    "winning-ticket": "0237797",
+    "color": "rosso/rot"
   },
   {
     "name": "Brasolin Auto",
@@ -13,7 +14,8 @@
     "prize-de": "Fiat 500 Dolcevita 1.0 Hybrid",
     "quantity": "1",
     "value": "18500",
-    "winning-ticket": "0212051"
+    "winning-ticket": "0212051",
+    "color": "bianco/weiß"
   },
   {
     "name": "Sportler ",
@@ -21,7 +23,8 @@
     "prize-de": "E-Bike ",
     "quantity": "1",
     "value": "4000",
-    "winning-ticket": "0008559"
+    "winning-ticket": "0008559",
+    "color": "rosso/rot"
   },
   {
     "name": "Castel Hoertenberg",
@@ -29,7 +32,8 @@
     "prize-de": "1 Übernachtung für 2 Personen mit Frühstück",
     "quantity": "1",
     "value": "1000",
-    "winning-ticket": "0015081"
+    "winning-ticket": "0015081",
+    "color": "rosso/rot"
   },
   {
     "name": "Parth Juwelen & Uhren",
@@ -37,7 +41,8 @@
     "prize-de": "Uhr von Longines",
     "quantity": "1",
     "value": "1270",
-    "winning-ticket": "0153749"
+    "winning-ticket": "0153749",
+    "color": "bianco/weiß"
   },
   {
     "name": "Goldschmiede Mair",
@@ -45,7 +50,8 @@
     "prize-de": "Brillantring",
     "quantity": "1",
     "value": "1000",
-    "winning-ticket": "0164082"
+    "winning-ticket": "0164082",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -53,7 +59,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 1.000€",
     "quantity": "1",
     "value": "1000",
-    "winning-ticket": "0100088"
+    "winning-ticket": "0100088",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Città ",
@@ -61,7 +68,8 @@
     "prize-de": "1 Übernachtung für 2 Personen ",
     "quantity": "1",
     "value": "1000",
-    "winning-ticket": "0337454"
+    "winning-ticket": "0337454",
+    "color": "rosso/rot"
   },
   {
     "name": "Green energym",
@@ -69,7 +77,8 @@
     "prize-de": "Fitness ABO für 9 Monate",
     "quantity": "1",
     "value": "790",
-    "winning-ticket": "0064177"
+    "winning-ticket": "0064177",
+    "color": "bianco/weiß"
   },
   {
     "name": "Leonardelli ",
@@ -77,7 +86,8 @@
     "prize-de": "Notebook Lenovo ",
     "quantity": "1",
     "value": "649",
-    "winning-ticket": "0026257"
+    "winning-ticket": "0026257",
+    "color": "rosso/rot"
   },
   {
     "name": "Schmid &von Bosio",
@@ -85,7 +95,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0066983"
+    "winning-ticket": "0066983",
+    "color": "bianco/weiß"
   },
   {
     "name": "Schmid &von Bosio",
@@ -93,7 +104,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0031670"
+    "winning-ticket": "0031670",
+    "color": "rosso/rot"
   },
   {
     "name": "Schmid &von Bosio",
@@ -101,7 +113,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0178385"
+    "winning-ticket": "0178385",
+    "color": "bianco/weiß"
   },
   {
     "name": "Schmid &von Bosio",
@@ -109,7 +122,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0039272"
+    "winning-ticket": "0039272",
+    "color": "rosso/rot"
   },
   {
     "name": "Schmid &von Bosio",
@@ -117,7 +131,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0045295"
+    "winning-ticket": "0045295",
+    "color": "bianco/weiß"
   },
   {
     "name": "Schmid &von Bosio",
@@ -125,7 +140,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0082246"
+    "winning-ticket": "0082246",
+    "color": "bianco/weiß"
   },
   {
     "name": "Schmid &von Bosio",
@@ -133,7 +149,8 @@
     "prize-de": "Armband aus Silber",
     "quantity": "1",
     "value": "749",
-    "winning-ticket": "0076641"
+    "winning-ticket": "0076641",
+    "color": "rosso/rot"
   },
   {
     "name": "Sky Alps ",
@@ -141,7 +158,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0051369"
+    "winning-ticket": "0051369",
+    "color": "rosso/rot"
   },
   {
     "name": "Sky Alps ",
@@ -149,7 +167,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0076644"
+    "winning-ticket": "0076644",
+    "color": "bianco/weiß"
   },
   {
     "name": "Sky Alps ",
@@ -157,7 +176,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0124242"
+    "winning-ticket": "0124242",
+    "color": "rosso/rot"
   },
   {
     "name": "Sky Alps ",
@@ -165,7 +185,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0105520"
+    "winning-ticket": "0105520",
+    "color": "bianco/weiß"
   },
   {
     "name": "Sky Alps ",
@@ -173,7 +194,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0092887"
+    "winning-ticket": "0092887",
+    "color": "rosso/rot"
   },
   {
     "name": "Sky Alps ",
@@ -181,7 +203,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0074208"
+    "winning-ticket": "0074208",
+    "color": "bianco/weiß"
   },
   {
     "name": "Sky Alps ",
@@ -189,7 +212,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0107007"
+    "winning-ticket": "0107007",
+    "color": "rosso/rot"
   },
   {
     "name": "Sky Alps ",
@@ -197,7 +221,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0174990"
+    "winning-ticket": "0174990",
+    "color": "bianco/weiß"
   },
   {
     "name": "Sky Alps ",
@@ -205,7 +230,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0339455"
+    "winning-ticket": "0339455",
+    "color": "rosso/rot"
   },
   {
     "name": "Sky Alps ",
@@ -213,7 +239,8 @@
     "prize-de": "Flugticket",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0147479"
+    "winning-ticket": "0147479",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parkhotel Laurin",
@@ -221,7 +248,8 @@
     "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
     "quantity": "1",
     "value": "510",
-    "winning-ticket": "0096599"
+    "winning-ticket": "0096599",
+    "color": "rosso/rot"
   },
   {
     "name": "Parkhotel Laurin",
@@ -229,7 +257,8 @@
     "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
     "quantity": "1",
     "value": "510",
-    "winning-ticket": "0105870"
+    "winning-ticket": "0105870",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -237,7 +266,8 @@
     "prize-de": "Monni card zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0137288"
+    "winning-ticket": "0137288",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -245,7 +275,8 @@
     "prize-de": "Monni card zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0053794"
+    "winning-ticket": "0053794",
+    "color": "bianco/weiß"
   },
   {
     "name": "Oberrauch Zitt",
@@ -253,7 +284,8 @@
     "prize-de": "Gutschein zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0021061"
+    "winning-ticket": "0021061",
+    "color": "rosso/rot"
   },
   {
     "name": "Max&Co",
@@ -261,7 +293,8 @@
     "prize-de": "Gutschein zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0066336"
+    "winning-ticket": "0066336",
+    "color": "bianco/weiß"
   },
   {
     "name": "Twenty ",
@@ -269,7 +302,8 @@
     "prize-de": "GiftCard Twenty zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0127280"
+    "winning-ticket": "0127280",
+    "color": "rosso/rot"
   },
   {
     "name": "Twenty ",
@@ -277,7 +311,8 @@
     "prize-de": "GiftCard Twenty zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0210063"
+    "winning-ticket": "0210063",
+    "color": "bianco/weiß"
   },
   {
     "name": "Twenty ",
@@ -285,7 +320,8 @@
     "prize-de": "GiftCard Twenty zu 500 €",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0064668"
+    "winning-ticket": "0064668",
+    "color": "rosso/rot"
   },
   {
     "name": "Castel Hörtenberg",
@@ -293,7 +329,8 @@
     "prize-de": "Abendessen für 2 Personen",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0167096"
+    "winning-ticket": "0167096",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Città ",
@@ -301,7 +338,8 @@
     "prize-de": "Abendessen für 2 Personen",
     "quantity": "1",
     "value": "500",
-    "winning-ticket": "0045383"
+    "winning-ticket": "0045383",
+    "color": "bianco/weiß"
   },
   {
     "name": "Green energym",
@@ -309,7 +347,8 @@
     "prize-de": "Fitness ABO für 5 Monate ",
     "quantity": "1",
     "value": "490",
-    "winning-ticket": "0136049"
+    "winning-ticket": "0136049",
+    "color": "rosso/rot"
   },
   {
     "name": "ProVoice",
@@ -317,7 +356,8 @@
     "prize-de": "Rundflug",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0078038"
+    "winning-ticket": "0078038",
+    "color": "rosso/rot"
   },
   {
     "name": "Noistudio",
@@ -325,7 +365,8 @@
     "prize-de": "Frauenuhr",
     "quantity": "1",
     "value": "427",
-    "winning-ticket": "0072601"
+    "winning-ticket": "0072601",
+    "color": "rosso/rot"
   },
   {
     "name": "Buratti ",
@@ -333,7 +374,8 @@
     "prize-de": "Store Card Buratti zu 400€",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0127053"
+    "winning-ticket": "0127053",
+    "color": "rosso/rot"
   },
   {
     "name": "Buratti ",
@@ -341,7 +383,8 @@
     "prize-de": "Store Card Buratti zu 400€",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0068356"
+    "winning-ticket": "0068356",
+    "color": "bianco/weiß"
   },
   {
     "name": "Noistudio",
@@ -349,7 +392,8 @@
     "prize-de": "Frauenarmband",
     "quantity": "1",
     "value": "400",
-    "winning-ticket": "0041832"
+    "winning-ticket": "0041832",
+    "color": "rosso/rot"
   },
   {
     "name": "Noistudio",
@@ -357,7 +401,8 @@
     "prize-de": "Männeruhr",
     "quantity": "1",
     "value": "366",
-    "winning-ticket": "0000577"
+    "winning-ticket": "0000577",
+    "color": "rosso/rot"
   },
   {
     "name": "Parkhotel Laurin",
@@ -365,7 +410,8 @@
     "prize-de": "Abendessen ConTanima 2 Personen ( Martina Boscheri 8 Gang Menü & Getränkebegleitung) ",
     "quantity": "1",
     "value": "360",
-    "winning-ticket": "0010125"
+    "winning-ticket": "0010125",
+    "color": "rosso/rot"
   },
   {
     "name": "Bressan ",
@@ -373,7 +419,8 @@
     "prize-de": "Aufladbare Lampe",
     "quantity": "1",
     "value": "317",
-    "winning-ticket": "0338118"
+    "winning-ticket": "0338118",
+    "color": "rosso/rot"
   },
   {
     "name": "Ristorante Argentieri",
@@ -381,7 +428,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 300€",
     "quantity": "1",
     "value": "302.5",
-    "winning-ticket": "0230787"
+    "winning-ticket": "0230787",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Magdalener Hof",
@@ -389,7 +437,8 @@
     "prize-de": "2 Übernachtungen mit Früchstück für 2 Personen ",
     "quantity": "1",
     "value": "302.4",
-    "winning-ticket": "0127644"
+    "winning-ticket": "0127644",
+    "color": "rosso/rot"
   },
   {
     "name": "Buratti ",
@@ -397,7 +446,8 @@
     "prize-de": "Store Card Buratti zu 300€",
     "quantity": "1",
     "value": "300",
-    "winning-ticket": "0128063"
+    "winning-ticket": "0128063",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger",
@@ -405,7 +455,8 @@
     "prize-de": "Tisch Fussball ",
     "quantity": "1",
     "value": "300",
-    "winning-ticket": "0124346"
+    "winning-ticket": "0124346",
+    "color": "rosso/rot"
   },
   {
     "name": "Hockey Club Bozen 2000 ",
@@ -413,15 +464,17 @@
     "prize-de": "Vip-Eintritt für 2 Personen für 1 Spiel",
     "quantity": "1",
     "value": "300",
-    "winning-ticket": "0091197"
+    "winning-ticket": "0091197",
+    "color": "rosso/rot"
   },
   {
-    "name": "Hockey Club Bozen 2000 ",
+    "name": "Hockey Club Bozen 2001",
     "prize-it": "2 ingressi per la VIP ROOM per una partita",
     "prize-de": "Vip-Eintritt für 2 Personen für 1 Spiel",
     "quantity": "1",
     "value": "300",
-    "winning-ticket": "0047398"
+    "winning-ticket": "0047398",
+    "color": "bianco/weiß"
   },
   {
     "name": "FC Südtirol",
@@ -429,7 +482,8 @@
     "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
     "quantity": "1",
     "value": "230",
-    "winning-ticket": "0066509"
+    "winning-ticket": "0066509",
+    "color": "rosso/rot"
   },
   {
     "name": "FC Südtirol",
@@ -437,7 +491,8 @@
     "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
     "quantity": "1",
     "value": "230",
-    "winning-ticket": "0169701"
+    "winning-ticket": "0169701",
+    "color": "bianco/weiß"
   },
   {
     "name": "FC Südtirol",
@@ -445,7 +500,8 @@
     "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
     "quantity": "1",
     "value": "230",
-    "winning-ticket": "0346266"
+    "winning-ticket": "0346266",
+    "color": "rosso/rot"
   },
   {
     "name": "FC Südtirol",
@@ -453,7 +509,8 @@
     "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
     "quantity": "1",
     "value": "230",
-    "winning-ticket": "0054424"
+    "winning-ticket": "0054424",
+    "color": "bianco/weiß"
   },
   {
     "name": "FC Südtirol",
@@ -461,7 +518,8 @@
     "prize-de": "2 Eintrittskarten für 2 Personen Sitz- Sekt. \"Gold\" + 1 Trikot von allen Spielern signiert",
     "quantity": "1",
     "value": "230",
-    "winning-ticket": "0137821"
+    "winning-ticket": "0137821",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -469,7 +527,8 @@
     "prize-de": "monni card zu 250€",
     "quantity": "1",
     "value": "250",
-    "winning-ticket": "0093254"
+    "winning-ticket": "0093254",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -477,7 +536,8 @@
     "prize-de": "monni card zu 250€",
     "quantity": "1",
     "value": "250",
-    "winning-ticket": "0073547"
+    "winning-ticket": "0073547",
+    "color": "bianco/weiß"
   },
   {
     "name": "Globus ",
@@ -485,7 +545,8 @@
     "prize-de": "Gutschein zu 225€",
     "quantity": "1",
     "value": "225",
-    "winning-ticket": "0060802"
+    "winning-ticket": "0060802",
+    "color": "rosso/rot"
   },
   {
     "name": "Globus ",
@@ -493,7 +554,8 @@
     "prize-de": "Gutschein zu 225€",
     "quantity": "1",
     "value": "225",
-    "winning-ticket": "0177624"
+    "winning-ticket": "0177624",
+    "color": "bianco/weiß"
   },
   {
     "name": "Ristorante Argentieri",
@@ -501,7 +563,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 200€",
     "quantity": "1",
     "value": "198",
-    "winning-ticket": "0030237"
+    "winning-ticket": "0030237",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -509,7 +572,8 @@
     "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
     "quantity": "1",
     "value": "163",
-    "winning-ticket": "0237414"
+    "winning-ticket": "0237414",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -517,7 +581,8 @@
     "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
     "quantity": "1",
     "value": "163",
-    "winning-ticket": "0054536"
+    "winning-ticket": "0054536",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -525,7 +590,8 @@
     "prize-de": "Gesichtspflege-Set Markesi-Clingie Estèe Lauder",
     "quantity": "1",
     "value": "163",
-    "winning-ticket": "0037086"
+    "winning-ticket": "0037086",
+    "color": "rosso/rot"
   },
   {
     "name": "Bressan ",
@@ -533,7 +599,8 @@
     "prize-de": "Tragbare Musik-Lampe",
     "quantity": "1",
     "value": "158.6",
-    "winning-ticket": "0339433"
+    "winning-ticket": "0339433",
+    "color": "rosso/rot"
   },
   {
     "name": "Novalux ",
@@ -541,7 +608,8 @@
     "prize-de": "Take Away Sound RS",
     "quantity": "1",
     "value": "150.87",
-    "winning-ticket": "0118294"
+    "winning-ticket": "0118294",
+    "color": "rosso/rot"
   },
   {
     "name": "Four Points Sheraton",
@@ -549,7 +617,8 @@
     "prize-de": "Abendessen für 2 Personen (3 Gang Menü exkl. Getränke)",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0038812"
+    "winning-ticket": "0038812",
+    "color": "rosso/rot"
   },
   {
     "name": "Fielmann",
@@ -557,7 +626,8 @@
     "prize-de": "Gutschein für eine Seh- oder Sonnebrille zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0159737"
+    "winning-ticket": "0159737",
+    "color": "bianco/weiß"
   },
   {
     "name": "Fielmann",
@@ -565,7 +635,8 @@
     "prize-de": "Gutschein für eine Seh- oder Sonnebrille zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0115559"
+    "winning-ticket": "0115559",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -573,7 +644,8 @@
     "prize-de": "Einkaufsgutschein zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0005296"
+    "winning-ticket": "0005296",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -581,7 +653,8 @@
     "prize-de": "Einkaufsgutschein zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0067347"
+    "winning-ticket": "0067347",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -589,7 +662,8 @@
     "prize-de": "Einkaufsgutschein zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0114454"
+    "winning-ticket": "0114454",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -597,7 +671,8 @@
     "prize-de": "Einkaufsgutschein zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0021927"
+    "winning-ticket": "0021927",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -605,7 +680,8 @@
     "prize-de": "Einkaufsgutschein zu 150€",
     "quantity": "1",
     "value": "150",
-    "winning-ticket": "0084173"
+    "winning-ticket": "0084173",
+    "color": "rosso/rot"
   },
   {
     "name": "La culla",
@@ -613,7 +689,8 @@
     "prize-de": "Kinderfahrrad",
     "quantity": "1",
     "value": "149.9",
-    "winning-ticket": "0056039"
+    "winning-ticket": "0056039",
+    "color": "bianco/weiß"
   },
   {
     "name": "Ristorante Argentieri",
@@ -621,7 +698,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 150€",
     "quantity": "1",
     "value": "148.5",
-    "winning-ticket": "0117283"
+    "winning-ticket": "0117283",
+    "color": "rosso/rot"
   },
   {
     "name": "Novalux ",
@@ -629,7 +707,8 @@
     "prize-de": "Lampe PH Beauvis",
     "quantity": "1",
     "value": "146.4",
-    "winning-ticket": "0103198"
+    "winning-ticket": "0103198",
+    "color": "bianco/weiß"
   },
   {
     "name": "Castel Hörtenberg",
@@ -637,7 +716,8 @@
     "prize-de": "Day Spa für 2 Personen",
     "quantity": "1",
     "value": "140",
-    "winning-ticket": "0115123"
+    "winning-ticket": "0115123",
+    "color": "rosso/rot"
   },
   {
     "name": "Castel Hörtenberg",
@@ -645,7 +725,8 @@
     "prize-de": "Day Spa für 2 Personen",
     "quantity": "1",
     "value": "140",
-    "winning-ticket": "0080114"
+    "winning-ticket": "0080114",
+    "color": "bianco/weiß"
   },
   {
     "name": "Castel Hörtenberg",
@@ -653,7 +734,8 @@
     "prize-de": "Day Spa für 2 Personen",
     "quantity": "1",
     "value": "140",
-    "winning-ticket": "0013827"
+    "winning-ticket": "0013827",
+    "color": "rosso/rot"
   },
   {
     "name": "Castel Hörtenberg",
@@ -661,7 +743,8 @@
     "prize-de": "Day Spa für 2 Personen",
     "quantity": "1",
     "value": "140",
-    "winning-ticket": "0016105"
+    "winning-ticket": "0016105",
+    "color": "bianco/weiß"
   },
   {
     "name": "Castel Hörtenberg",
@@ -669,7 +752,8 @@
     "prize-de": "Day Spa für 2 Personen",
     "quantity": "1",
     "value": "140",
-    "winning-ticket": "0026243"
+    "winning-ticket": "0026243",
+    "color": "rosso/rot"
   },
   {
     "name": "La culla ",
@@ -677,7 +761,8 @@
     "prize-de": "Kinderstuhl Holz Timba",
     "quantity": "1",
     "value": "139.9",
-    "winning-ticket": "0050142"
+    "winning-ticket": "0050142",
+    "color": "rosso/rot"
   },
   {
     "name": "Selectra",
@@ -685,7 +770,8 @@
     "prize-de": "Aufladbare Tischlampe",
     "quantity": "1",
     "value": "134.2",
-    "winning-ticket": "0165523"
+    "winning-ticket": "0165523",
+    "color": "rosso/rot"
   },
   {
     "name": "Selectra",
@@ -693,7 +779,8 @@
     "prize-de": "Aufladbare Tischlampe",
     "quantity": "1",
     "value": "134.2",
-    "winning-ticket": "0171892"
+    "winning-ticket": "0171892",
+    "color": "bianco/weiß"
   },
   {
     "name": "Selectra ",
@@ -701,7 +788,8 @@
     "prize-de": "Aufladbare Tischlampe",
     "quantity": "1",
     "value": "134.2",
-    "winning-ticket": "0084629"
+    "winning-ticket": "0084629",
+    "color": "rosso/rot"
   },
   {
     "name": "Bressan ",
@@ -709,7 +797,8 @@
     "prize-de": "Aufladbare Lampe Twiggy",
     "quantity": "1",
     "value": "128",
-    "winning-ticket": "0037052"
+    "winning-ticket": "0037052",
+    "color": "bianco/weiß"
   },
   {
     "name": "Metzgerei Kaufmann",
@@ -717,7 +806,8 @@
     "prize-de": "Gutschein zu 125€",
     "quantity": "1",
     "value": "125",
-    "winning-ticket": "0111248"
+    "winning-ticket": "0111248",
+    "color": "rosso/rot"
   },
   {
     "name": "Metzgerei Kaufmann",
@@ -725,7 +815,8 @@
     "prize-de": "Gutschein zu 125€",
     "quantity": "1",
     "value": "125",
-    "winning-ticket": "0040220"
+    "winning-ticket": "0040220",
+    "color": "bianco/weiß"
   },
   {
     "name": "Azienda soggiorno e turismo Bolzano",
@@ -733,7 +824,8 @@
     "prize-de": "Exklusive Stadtführung ",
     "quantity": "1",
     "value": "123.5",
-    "winning-ticket": "0131714"
+    "winning-ticket": "0131714",
+    "color": "rosso/rot"
   },
   {
     "name": "Azienda soggiorno e turismo Bolzano",
@@ -741,7 +833,8 @@
     "prize-de": "Exklusive Stadtführung ",
     "quantity": "1",
     "value": "123.5",
-    "winning-ticket": "0120757"
+    "winning-ticket": "0120757",
+    "color": "bianco/weiß"
   },
   {
     "name": "Azienda soggiorno e turismo Bolzano",
@@ -749,7 +842,8 @@
     "prize-de": "Exklusive Stadtführung ",
     "quantity": "1",
     "value": "123.5",
-    "winning-ticket": "0162492"
+    "winning-ticket": "0162492",
+    "color": "rosso/rot"
   },
   {
     "name": "Azienda soggiorno e turismo Bolzano",
@@ -757,7 +851,8 @@
     "prize-de": "Exklusive Stadtführung ",
     "quantity": "1",
     "value": "123.5",
-    "winning-ticket": "0101313"
+    "winning-ticket": "0101313",
+    "color": "bianco/weiß"
   },
   {
     "name": "Azienda soggiorno e turismo Bolzano",
@@ -765,7 +860,8 @@
     "prize-de": "Exklusive Stadtführung ",
     "quantity": "1",
     "value": "123.5",
-    "winning-ticket": "0090248"
+    "winning-ticket": "0090248",
+    "color": "rosso/rot"
   },
   {
     "name": "2Fit ",
@@ -773,7 +869,8 @@
     "prize-de": "Fitness ABO für 1 Monat",
     "quantity": "1",
     "value": "120",
-    "winning-ticket": "0019454"
+    "winning-ticket": "0019454",
+    "color": "rosso/rot"
   },
   {
     "name": "2Fit ",
@@ -781,7 +878,8 @@
     "prize-de": "Fitness ABO für 1 Monat",
     "quantity": "1",
     "value": "120",
-    "winning-ticket": "0076346"
+    "winning-ticket": "0076346",
+    "color": "bianco/weiß"
   },
   {
     "name": "2Fit ",
@@ -789,7 +887,8 @@
     "prize-de": "Fitness ABO für 1 Monat",
     "quantity": "1",
     "value": "120",
-    "winning-ticket": "0076961"
+    "winning-ticket": "0076961",
+    "color": "rosso/rot"
   },
   {
     "name": "2Fit ",
@@ -797,7 +896,8 @@
     "prize-de": "Fitness ABO für 1 Monat",
     "quantity": "1",
     "value": "120",
-    "winning-ticket": "0040095"
+    "winning-ticket": "0040095",
+    "color": "bianco/weiß"
   },
   {
     "name": "2Fit ",
@@ -805,7 +905,8 @@
     "prize-de": "Fitness ABO für 1 Monat",
     "quantity": "1",
     "value": "120",
-    "winning-ticket": "0083398"
+    "winning-ticket": "0083398",
+    "color": "rosso/rot"
   },
   {
     "name": "La culla ",
@@ -813,7 +914,8 @@
     "prize-de": "Autokindersitz Gr. 2-3",
     "quantity": "1",
     "value": "119.9",
-    "winning-ticket": "0057433"
+    "winning-ticket": "0057433",
+    "color": "rosso/rot"
   },
   {
     "name": "Fuganti ",
@@ -821,7 +923,8 @@
     "prize-de": "Jacke",
     "quantity": "1",
     "value": "116",
-    "winning-ticket": "0109197"
+    "winning-ticket": "0109197",
+    "color": "rosso/rot"
   },
   {
     "name": "Novalux",
@@ -829,7 +932,8 @@
     "prize-de": "Mixer, Messer und Set Thermos ",
     "quantity": "1",
     "value": "114.7",
-    "winning-ticket": "0076757"
+    "winning-ticket": "0076757",
+    "color": "bianco/weiß"
   },
   {
     "name": "Novalux ",
@@ -837,7 +941,8 @@
     "prize-de": "Mini Living Colors PH und Set Thermos",
     "quantity": "1",
     "value": "105.31",
-    "winning-ticket": "0079541"
+    "winning-ticket": "0079541",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Città ",
@@ -845,7 +950,8 @@
     "prize-de": "Eintritt SPA für 2 Personen",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0193088"
+    "winning-ticket": "0193088",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Città ",
@@ -853,7 +959,8 @@
     "prize-de": "Eintritt SPA für 2 Personen",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0038182"
+    "winning-ticket": "0038182",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Città ",
@@ -861,7 +968,8 @@
     "prize-de": "Eintritt SPA für 2 Personen",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0215360"
+    "winning-ticket": "0215360",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Città ",
@@ -869,7 +977,8 @@
     "prize-de": "Brunch für 2 Personen",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0004900"
+    "winning-ticket": "0004900",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Città ",
@@ -877,7 +986,8 @@
     "prize-de": "Brunch für 2 Personen",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0071226"
+    "winning-ticket": "0071226",
+    "color": "bianco/weiß"
   },
   {
     "name": "Panificio Lemayr ",
@@ -885,7 +995,8 @@
     "prize-de": "Essenskorb",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0108582"
+    "winning-ticket": "0108582",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfumerie Irene Ferrari ",
@@ -893,7 +1004,8 @@
     "prize-de": "Gutscheine zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0046447"
+    "winning-ticket": "0046447",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfumerie Irene Ferrari ",
@@ -901,7 +1013,8 @@
     "prize-de": "Gutscheine zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0164771"
+    "winning-ticket": "0164771",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfumerie Irene Ferrari ",
@@ -909,7 +1022,8 @@
     "prize-de": "Gutscheine zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0046443"
+    "winning-ticket": "0046443",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -917,7 +1031,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0040840"
+    "winning-ticket": "0040840",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -925,7 +1040,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0035029"
+    "winning-ticket": "0035029",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -933,7 +1049,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0100815"
+    "winning-ticket": "0100815",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -941,7 +1058,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0001256"
+    "winning-ticket": "0001256",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -949,7 +1067,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0158877"
+    "winning-ticket": "0158877",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -957,7 +1076,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0039097"
+    "winning-ticket": "0039097",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -965,7 +1085,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0156027"
+    "winning-ticket": "0156027",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -973,7 +1094,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0114634"
+    "winning-ticket": "0114634",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -981,7 +1103,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0174734"
+    "winning-ticket": "0174734",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -989,7 +1112,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0086152"
+    "winning-ticket": "0086152",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -997,7 +1121,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0031823"
+    "winning-ticket": "0031823",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1005,7 +1130,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0025248"
+    "winning-ticket": "0025248",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1013,7 +1139,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0105487"
+    "winning-ticket": "0105487",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1021,7 +1148,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0044306"
+    "winning-ticket": "0044306",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1029,7 +1157,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0069494"
+    "winning-ticket": "0069494",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1037,7 +1166,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0083891"
+    "winning-ticket": "0083891",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1045,7 +1175,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0105679"
+    "winning-ticket": "0105679",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1053,7 +1184,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0027241"
+    "winning-ticket": "0027241",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1061,7 +1193,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0042566"
+    "winning-ticket": "0042566",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1069,7 +1202,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0071022"
+    "winning-ticket": "0071022",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1077,7 +1211,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0166066"
+    "winning-ticket": "0166066",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1085,7 +1220,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0040229"
+    "winning-ticket": "0040229",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1093,7 +1229,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0145579"
+    "winning-ticket": "0145579",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1101,7 +1238,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0034047"
+    "winning-ticket": "0034047",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1109,7 +1247,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0146432"
+    "winning-ticket": "0146432",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1117,7 +1256,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0074255"
+    "winning-ticket": "0074255",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1125,7 +1265,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0208073"
+    "winning-ticket": "0208073",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1133,7 +1274,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0069375"
+    "winning-ticket": "0069375",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1141,7 +1283,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "218168"
+    "winning-ticket": "218168",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1149,7 +1292,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0081985"
+    "winning-ticket": "0081985",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1157,7 +1301,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0040986"
+    "winning-ticket": "0040986",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1165,7 +1310,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0050299"
+    "winning-ticket": "0050299",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1173,7 +1319,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0046051"
+    "winning-ticket": "0046051",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1181,7 +1328,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0345833"
+    "winning-ticket": "0345833",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1189,7 +1337,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0079491"
+    "winning-ticket": "0079491",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1197,7 +1346,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0127528"
+    "winning-ticket": "0127528",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1205,7 +1355,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0165416"
+    "winning-ticket": "0165416",
+    "color": "bianco/weiß"
   },
   {
     "name": "Despar",
@@ -1213,7 +1364,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0095034"
+    "winning-ticket": "0095034",
+    "color": "rosso/rot"
   },
   {
     "name": "Despar",
@@ -1221,7 +1373,8 @@
     "prize-de": "Einkaufsgutschein - Happy Card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0020926"
+    "winning-ticket": "0020926",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1229,7 +1382,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0024117"
+    "winning-ticket": "0024117",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1237,7 +1391,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0163029"
+    "winning-ticket": "0163029",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1245,7 +1400,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0339568"
+    "winning-ticket": "0339568",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1253,7 +1409,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0072175"
+    "winning-ticket": "0072175",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1261,7 +1418,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0112304"
+    "winning-ticket": "0112304",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1269,7 +1427,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0056914"
+    "winning-ticket": "0056914",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1277,7 +1436,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0081504"
+    "winning-ticket": "0081504",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1285,7 +1445,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0032270"
+    "winning-ticket": "0032270",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1293,7 +1454,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0044434"
+    "winning-ticket": "0044434",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1301,7 +1463,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0056922"
+    "winning-ticket": "0056922",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1309,7 +1472,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0013766"
+    "winning-ticket": "0013766",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1317,7 +1481,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0017143"
+    "winning-ticket": "0017143",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1325,7 +1490,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0035854"
+    "winning-ticket": "0035854",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1333,7 +1499,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0176464"
+    "winning-ticket": "0176464",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1341,7 +1508,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0058787"
+    "winning-ticket": "0058787",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1349,7 +1517,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0169422"
+    "winning-ticket": "0169422",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1357,7 +1526,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0138261"
+    "winning-ticket": "0138261",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1365,7 +1535,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0075886"
+    "winning-ticket": "0075886",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1373,7 +1544,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0005092"
+    "winning-ticket": "0005092",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1381,7 +1553,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0193988"
+    "winning-ticket": "0193988",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1389,7 +1562,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0033594"
+    "winning-ticket": "0033594",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1397,7 +1571,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0154264"
+    "winning-ticket": "0154264",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1405,7 +1580,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0138104"
+    "winning-ticket": "0138104",
+    "color": "rosso/rot"
   },
   {
     "name": "Monni card",
@@ -1413,7 +1589,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0170031"
+    "winning-ticket": "0170031",
+    "color": "bianco/weiß"
   },
   {
     "name": "Monni card",
@@ -1421,7 +1598,8 @@
     "prize-de": "Monni card zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0028676"
+    "winning-ticket": "0028676",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -1429,7 +1607,8 @@
     "prize-de": "Einkaufsgutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0021053"
+    "winning-ticket": "0021053",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -1437,7 +1616,8 @@
     "prize-de": "Einkaufsgutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0170027"
+    "winning-ticket": "0170027",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -1445,7 +1625,8 @@
     "prize-de": "Einkaufsgutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0090734"
+    "winning-ticket": "0090734",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -1453,7 +1634,8 @@
     "prize-de": "Einkaufsgutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0175325"
+    "winning-ticket": "0175325",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -1461,7 +1643,8 @@
     "prize-de": "Einkaufsgutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0114153"
+    "winning-ticket": "0114153",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1469,7 +1652,8 @@
     "prize-de": "Gutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0064591"
+    "winning-ticket": "0064591",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1477,7 +1661,8 @@
     "prize-de": "Gutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "216689"
+    "winning-ticket": "216689",
+    "color": "bianco/weiß"
   },
   {
     "name": "Gutweniger ",
@@ -1485,7 +1670,8 @@
     "prize-de": "Gutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0025617"
+    "winning-ticket": "0025617",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1493,7 +1679,8 @@
     "prize-de": "Gutschein zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0165188"
+    "winning-ticket": "0165188",
+    "color": "bianco/weiß"
   },
   {
     "name": "Altorchio ",
@@ -1501,7 +1688,8 @@
     "prize-de": "Gutschein Abendessen zu 100€",
     "quantity": "1",
     "value": "100",
-    "winning-ticket": "0158270"
+    "winning-ticket": "0158270",
+    "color": "bianco/weiß"
   },
   {
     "name": "Ristorante Argentieri",
@@ -1509,7 +1697,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
     "quantity": "1",
     "value": "99",
-    "winning-ticket": "0010743"
+    "winning-ticket": "0010743",
+    "color": "rosso/rot"
   },
   {
     "name": "Ristorante Argentieri",
@@ -1517,7 +1706,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
     "quantity": "1",
     "value": "99",
-    "winning-ticket": "0016108"
+    "winning-ticket": "0016108",
+    "color": "bianco/weiß"
   },
   {
     "name": "Ristorante Argentieri",
@@ -1525,7 +1715,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
     "quantity": "1",
     "value": "99",
-    "winning-ticket": "0349924"
+    "winning-ticket": "0349924",
+    "color": "rosso/rot"
   },
   {
     "name": "Ristorante Argentieri",
@@ -1533,7 +1724,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen zu 99€",
     "quantity": "1",
     "value": "99",
-    "winning-ticket": "0178181"
+    "winning-ticket": "0178181",
+    "color": "bianco/weiß"
   },
   {
     "name": "La culla",
@@ -1541,7 +1733,8 @@
     "prize-de": "Großer Teddybär",
     "quantity": "1",
     "value": "81.88",
-    "winning-ticket": "0057896"
+    "winning-ticket": "0057896",
+    "color": "bianco/weiß"
   },
   {
     "name": "Castel Hörtenberg",
@@ -1549,7 +1742,8 @@
     "prize-de": "Brunch für 2 Personen",
     "quantity": "1",
     "value": "80",
-    "winning-ticket": "0055775"
+    "winning-ticket": "0055775",
+    "color": "bianco/weiß"
   },
   {
     "name": "Castel Hörtenberg",
@@ -1557,7 +1751,8 @@
     "prize-de": "Brunch per 2 persone",
     "quantity": "1",
     "value": "80",
-    "winning-ticket": "0016006"
+    "winning-ticket": "0016006",
+    "color": "rosso/rot"
   },
   {
     "name": "Castel Hörtenberg",
@@ -1565,7 +1760,8 @@
     "prize-de": "Brunch per 2 persone",
     "quantity": "1",
     "value": "80",
-    "winning-ticket": "0107288"
+    "winning-ticket": "0107288",
+    "color": "bianco/weiß"
   },
   {
     "name": "Castel Hörtenberg",
@@ -1573,7 +1769,8 @@
     "prize-de": "Brunch per 2 persone",
     "quantity": "1",
     "value": "80",
-    "winning-ticket": "0124563"
+    "winning-ticket": "0124563",
+    "color": "rosso/rot"
   },
   {
     "name": "Castel Hörtenberg",
@@ -1581,7 +1778,8 @@
     "prize-de": "Brunch per 2 persone",
     "quantity": "1",
     "value": "80",
-    "winning-ticket": "0008640"
+    "winning-ticket": "0008640",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -1589,7 +1787,8 @@
     "prize-de": "Degustationsmenü für 2 Personen",
     "quantity": "1",
     "value": "76",
-    "winning-ticket": "0112482"
+    "winning-ticket": "0112482",
+    "color": "rosso/rot"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -1597,7 +1796,8 @@
     "prize-de": "Degustationsmenü für 2 Personen",
     "quantity": "1",
     "value": "76",
-    "winning-ticket": "0035948"
+    "winning-ticket": "0035948",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -1605,7 +1805,8 @@
     "prize-de": "Degustationsmenü für 2 Personen",
     "quantity": "1",
     "value": "76",
-    "winning-ticket": "0035710"
+    "winning-ticket": "0035710",
+    "color": "rosso/rot"
   },
   {
     "name": "Ottica Calderari",
@@ -1613,7 +1814,8 @@
     "prize-de": "Sonnenbrille",
     "quantity": "1",
     "value": "73.2",
-    "winning-ticket": "0055800"
+    "winning-ticket": "0055800",
+    "color": "rosso/rot"
   },
   {
     "name": "Ottica Calderari",
@@ -1621,7 +1823,8 @@
     "prize-de": "Sonnenbrille",
     "quantity": "1",
     "value": "73.2",
-    "winning-ticket": "0065478"
+    "winning-ticket": "0065478",
+    "color": "bianco/weiß"
   },
   {
     "name": "Altorchio ",
@@ -1629,7 +1832,8 @@
     "prize-de": "Gutschein Abendessen zu 70€",
     "quantity": "1",
     "value": "70",
-    "winning-ticket": "0091128"
+    "winning-ticket": "0091128",
+    "color": "rosso/rot"
   },
   {
     "name": "Thaler ",
@@ -1637,7 +1841,8 @@
     "prize-de": "Thaler profumeria: Schönheitsprodukte ",
     "quantity": "1",
     "value": "61",
-    "winning-ticket": "0229469"
+    "winning-ticket": "0229469",
+    "color": "rosso/rot"
   },
   {
     "name": "Thaler ",
@@ -1645,7 +1850,8 @@
     "prize-de": "Thaler profumeria: Schönheitsprodukte ",
     "quantity": "1",
     "value": "61",
-    "winning-ticket": "0093196"
+    "winning-ticket": "0093196",
+    "color": "bianco/weiß"
   },
   {
     "name": "Marka ",
@@ -1653,7 +1859,8 @@
     "prize-de": "Pflegeprodukte",
     "quantity": "1",
     "value": "61",
-    "winning-ticket": "0079027"
+    "winning-ticket": "0079027",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger",
@@ -1661,7 +1868,8 @@
     "prize-de": "Gutschein zu 75€",
     "quantity": "1",
     "value": "75",
-    "winning-ticket": "0046842"
+    "winning-ticket": "0046842",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger",
@@ -1669,7 +1877,8 @@
     "prize-de": "Gutschein zu 75€",
     "quantity": "1",
     "value": "75",
-    "winning-ticket": "0118235"
+    "winning-ticket": "0118235",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger",
@@ -1677,7 +1886,8 @@
     "prize-de": "Gutschein zu 75€",
     "quantity": "1",
     "value": "75",
-    "winning-ticket": "0087450"
+    "winning-ticket": "0087450",
+    "color": "bianco/weiß"
   },
   {
     "name": "Gutweniger",
@@ -1685,7 +1895,8 @@
     "prize-de": "Gutschein zu 75€",
     "quantity": "1",
     "value": "75",
-    "winning-ticket": "0166998"
+    "winning-ticket": "0166998",
+    "color": "rosso/rot"
   },
   {
     "name": "Restaurant Nadamas",
@@ -1693,7 +1904,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen ",
     "quantity": "1",
     "value": "66",
-    "winning-ticket": "0028679"
+    "winning-ticket": "0028679",
+    "color": "rosso/rot"
   },
   {
     "name": "Restaurant Nadamas",
@@ -1701,7 +1913,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen ",
     "quantity": "1",
     "value": "66",
-    "winning-ticket": "0082701"
+    "winning-ticket": "0082701",
+    "color": "bianco/weiß"
   },
   {
     "name": "Restaurant Nadamas",
@@ -1709,7 +1922,8 @@
     "prize-de": "Gutschein für Mittag- oder Abendessen ",
     "quantity": "1",
     "value": "66",
-    "winning-ticket": "0109237"
+    "winning-ticket": "0109237",
+    "color": "rosso/rot"
   },
   {
     "name": "Thaler ",
@@ -1717,7 +1931,8 @@
     "prize-de": "Thaler Vital: Schönheitsprodukte",
     "quantity": "1",
     "value": "61",
-    "winning-ticket": "0095311"
+    "winning-ticket": "0095311",
+    "color": "bianco/weiß"
   },
   {
     "name": "Altorchio ",
@@ -1725,7 +1940,8 @@
     "prize-de": "Gutschein Abendessen zu 60€",
     "quantity": "1",
     "value": "60",
-    "winning-ticket": "0037359"
+    "winning-ticket": "0037359",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1733,7 +1949,8 @@
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": "1",
     "value": "60",
-    "winning-ticket": "0016701"
+    "winning-ticket": "0016701",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1741,7 +1958,8 @@
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": "1",
     "value": "60",
-    "winning-ticket": "0105529"
+    "winning-ticket": "0105529",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1749,7 +1967,8 @@
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": "1",
     "value": "60",
-    "winning-ticket": "0094964"
+    "winning-ticket": "0094964",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1757,7 +1976,8 @@
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": "1",
     "value": "60",
-    "winning-ticket": "0117618"
+    "winning-ticket": "0117618",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1765,7 +1985,8 @@
     "prize-de": "Parfum 30ml \"The Mercant of Venice\"",
     "quantity": "1",
     "value": "60",
-    "winning-ticket": "0079719"
+    "winning-ticket": "0079719",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parkhotel Laurin",
@@ -1773,7 +1994,8 @@
     "prize-de": "Sunday Brunch für 2 Personen ",
     "quantity": "1",
     "value": "58",
-    "winning-ticket": "0085629"
+    "winning-ticket": "0085629",
+    "color": "rosso/rot"
   },
   {
     "name": "Parkhotel Laurin",
@@ -1781,7 +2003,8 @@
     "prize-de": "Sunday Brunch für 2 Personen ",
     "quantity": "1",
     "value": "58",
-    "winning-ticket": "0149787"
+    "winning-ticket": "0149787",
+    "color": "bianco/weiß"
   },
   {
     "name": "Four Points Sheraton",
@@ -1789,7 +2012,8 @@
     "prize-de": "Eintritt SPA für 2 Personen",
     "quantity": "1",
     "value": "56",
-    "winning-ticket": "0233729"
+    "winning-ticket": "0233729",
+    "color": "rosso/rot"
   },
   {
     "name": "Four Points Sheraton",
@@ -1797,7 +2021,8 @@
     "prize-de": "Eintritt SPA für 2 Personen",
     "quantity": "1",
     "value": "56",
-    "winning-ticket": "0144437"
+    "winning-ticket": "0144437",
+    "color": "bianco/weiß"
   },
   {
     "name": "Gutweniger ",
@@ -1805,7 +2030,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0029406"
+    "winning-ticket": "0029406",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1813,7 +2039,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0076706"
+    "winning-ticket": "0076706",
+    "color": "bianco/weiß"
   },
   {
     "name": "Gutweniger ",
@@ -1821,7 +2048,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0137342"
+    "winning-ticket": "0137342",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1829,7 +2057,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0174100"
+    "winning-ticket": "0174100",
+    "color": "bianco/weiß"
   },
   {
     "name": "Gutweniger ",
@@ -1837,7 +2066,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0118789"
+    "winning-ticket": "0118789",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1845,7 +2075,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0150047"
+    "winning-ticket": "0150047",
+    "color": "bianco/weiß"
   },
   {
     "name": "Gutweniger ",
@@ -1853,7 +2084,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0019759"
+    "winning-ticket": "0019759",
+    "color": "rosso/rot"
   },
   {
     "name": "Gutweniger ",
@@ -1861,7 +2093,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0201924"
+    "winning-ticket": "0201924",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parkhotel Laurin",
@@ -1869,7 +2102,8 @@
     "prize-de": "Gutschein Frühstück für 2 Personen ",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0023172"
+    "winning-ticket": "0023172",
+    "color": "rosso/rot"
   },
   {
     "name": "Parkhotel Laurin",
@@ -1877,7 +2111,8 @@
     "prize-de": "Gutschein Frühstück für 2 Personen ",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0061221"
+    "winning-ticket": "0061221",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1885,7 +2120,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0003150"
+    "winning-ticket": "0003150",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -1893,7 +2129,8 @@
     "prize-de": "Gutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0147315"
+    "winning-ticket": "0147315",
+    "color": "bianco/weiß"
   },
   {
     "name": "ATEm",
@@ -1901,7 +2138,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0159932"
+    "winning-ticket": "0159932",
+    "color": "rosso/rot"
   },
   {
     "name": "ATEm",
@@ -1909,7 +2147,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0082825"
+    "winning-ticket": "0082825",
+    "color": "bianco/weiß"
   },
   {
     "name": "ATEm",
@@ -1917,7 +2156,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0159931"
+    "winning-ticket": "0159931",
+    "color": "rosso/rot"
   },
   {
     "name": "ATEm",
@@ -1925,7 +2165,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0094105"
+    "winning-ticket": "0094105",
+    "color": "bianco/weiß"
   },
   {
     "name": "ATEm",
@@ -1933,7 +2174,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0118833"
+    "winning-ticket": "0118833",
+    "color": "rosso/rot"
   },
   {
     "name": "ATEm",
@@ -1941,7 +2183,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0201791"
+    "winning-ticket": "0201791",
+    "color": "bianco/weiß"
   },
   {
     "name": "ATEm",
@@ -1949,7 +2192,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0044881"
+    "winning-ticket": "0044881",
+    "color": "rosso/rot"
   },
   {
     "name": "ATEm",
@@ -1957,7 +2201,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0042638"
+    "winning-ticket": "0042638",
+    "color": "bianco/weiß"
   },
   {
     "name": "ATEm",
@@ -1965,7 +2210,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0072064"
+    "winning-ticket": "0072064",
+    "color": "rosso/rot"
   },
   {
     "name": "ATEm",
@@ -1973,7 +2219,8 @@
     "prize-de": "Wertgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0148530"
+    "winning-ticket": "0148530",
+    "color": "bianco/weiß"
   },
   {
     "name": "Athletic29 ",
@@ -1981,7 +2228,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0041224"
+    "winning-ticket": "0041224",
+    "color": "rosso/rot"
   },
   {
     "name": "Athletic29",
@@ -1989,7 +2237,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0008292"
+    "winning-ticket": "0008292",
+    "color": "bianco/weiß"
   },
   {
     "name": "Athletic29",
@@ -1997,7 +2246,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0103973"
+    "winning-ticket": "0103973",
+    "color": "rosso/rot"
   },
   {
     "name": "Athletic29",
@@ -2005,7 +2255,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0091167"
+    "winning-ticket": "0091167",
+    "color": "bianco/weiß"
   },
   {
     "name": "Athletic29",
@@ -2013,7 +2264,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0099120"
+    "winning-ticket": "0099120",
+    "color": "rosso/rot"
   },
   {
     "name": "Athletic29",
@@ -2021,7 +2273,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0034735"
+    "winning-ticket": "0034735",
+    "color": "bianco/weiß"
   },
   {
     "name": "Athletic29",
@@ -2029,7 +2282,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0091803"
+    "winning-ticket": "0091803",
+    "color": "rosso/rot"
   },
   {
     "name": "Athletic29",
@@ -2037,7 +2291,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0039198"
+    "winning-ticket": "0039198",
+    "color": "bianco/weiß"
   },
   {
     "name": "Athletic29",
@@ -2045,7 +2300,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0000050"
+    "winning-ticket": "0000050",
+    "color": "rosso/rot"
   },
   {
     "name": "Athletic29",
@@ -2053,7 +2309,8 @@
     "prize-de": "Sitzung Personal Trainer oder Pilates",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0038243"
+    "winning-ticket": "0038243",
+    "color": "bianco/weiß"
   },
   {
     "name": "Resurrection d. Hermann Nussbaumer",
@@ -2061,7 +2318,8 @@
     "prize-de": "Gutschein für waschen, schneiden und föhnen",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0232082"
+    "winning-ticket": "0232082",
+    "color": "rosso/rot"
   },
   {
     "name": "Resurrection d. Hermann Nussbaumer",
@@ -2069,7 +2327,8 @@
     "prize-de": "Gutschein für waschen, schneiden und föhnen",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0201683"
+    "winning-ticket": "0201683",
+    "color": "bianco/weiß"
   },
   {
     "name": "Farmacie Bonvicini ",
@@ -2077,7 +2336,8 @@
     "prize-de": "Kosmetikgutschein 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0048075"
+    "winning-ticket": "0048075",
+    "color": "rosso/rot"
   },
   {
     "name": "Farmacie Bonvicini ",
@@ -2085,7 +2345,8 @@
     "prize-de": "Kosmetikgutschein 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0156978"
+    "winning-ticket": "0156978",
+    "color": "bianco/weiß"
   },
   {
     "name": "Farmacie Bonvicini ",
@@ -2093,7 +2354,8 @@
     "prize-de": "Kosmetikgutschein 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0142116"
+    "winning-ticket": "0142116",
+    "color": "rosso/rot"
   },
   {
     "name": "Farmacie Bonvicini ",
@@ -2101,7 +2363,8 @@
     "prize-de": "Kosmetikgutschein 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "216638"
+    "winning-ticket": "216638",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -2109,7 +2372,8 @@
     "prize-de": "Einkaufsgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0239800"
+    "winning-ticket": "0239800",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -2117,7 +2381,8 @@
     "prize-de": "Einkaufsgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0099850"
+    "winning-ticket": "0099850",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -2125,7 +2390,8 @@
     "prize-de": "Einkaufsgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0065102"
+    "winning-ticket": "0065102",
+    "color": "rosso/rot"
   },
   {
     "name": "Straudi ",
@@ -2133,7 +2399,8 @@
     "prize-de": "Einkaufsgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "219300"
+    "winning-ticket": "219300",
+    "color": "bianco/weiß"
   },
   {
     "name": "Straudi ",
@@ -2141,7 +2408,8 @@
     "prize-de": "Einkaufsgutschein zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0104503"
+    "winning-ticket": "0104503",
+    "color": "rosso/rot"
   },
   {
     "name": "Altorchio ",
@@ -2149,7 +2417,8 @@
     "prize-de": "Gutschein Abendessen zu 50€",
     "quantity": "1",
     "value": "50",
-    "winning-ticket": "0071999"
+    "winning-ticket": "0071999",
+    "color": "rosso/rot"
   },
   {
     "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
@@ -2157,7 +2426,8 @@
     "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0158185"
+    "winning-ticket": "0158185",
+    "color": "rosso/rot"
   },
   {
     "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
@@ -2165,7 +2435,8 @@
     "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0176047"
+    "winning-ticket": "0176047",
+    "color": "bianco/weiß"
   },
   {
     "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
@@ -2173,7 +2444,8 @@
     "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0042614"
+    "winning-ticket": "0042614",
+    "color": "rosso/rot"
   },
   {
     "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
@@ -2181,7 +2453,8 @@
     "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0069836"
+    "winning-ticket": "0069836",
+    "color": "bianco/weiß"
   },
   {
     "name": "LANDESRETTUNGSVEREIN WEISSES KREUZ",
@@ -2189,7 +2462,8 @@
     "prize-de": "Gutscheine für Erste-Hilfe-Kurse (4h)",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0141121"
+    "winning-ticket": "0141121",
+    "color": "rosso/rot"
   },
   {
     "name": "Weingut Eberlehof des Zisser Horst",
@@ -2197,7 +2471,8 @@
     "prize-de": "Gutschein Weinverkostung für 2 Personen",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0139474"
+    "winning-ticket": "0139474",
+    "color": "rosso/rot"
   },
   {
     "name": "Weingut Eberlehof des Zisser Horst",
@@ -2205,7 +2480,8 @@
     "prize-de": "Gutschein Weinverkostung für 2 Personen",
     "quantity": "1",
     "value": "44",
-    "winning-ticket": "0086099"
+    "winning-ticket": "0086099",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -2213,7 +2489,8 @@
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": "1",
     "value": "40",
-    "winning-ticket": "0039991"
+    "winning-ticket": "0039991",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -2221,7 +2498,8 @@
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": "1",
     "value": "40",
-    "winning-ticket": "0001019"
+    "winning-ticket": "0001019",
+    "color": "bianco/weiß"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -2229,7 +2507,8 @@
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": "1",
     "value": "40",
-    "winning-ticket": "0000479"
+    "winning-ticket": "0000479",
+    "color": "rosso/rot"
   },
   {
     "name": "Parfümerie Ferrari",
@@ -2237,7 +2516,8 @@
     "prize-de": "Duschgel \"Secreti Nobilissimi\" ",
     "quantity": "1",
     "value": "40",
-    "winning-ticket": "0073048"
+    "winning-ticket": "0073048",
+    "color": "bianco/weiß"
   },
   {
     "name": "Vereinigte Bühnen Bozen",
@@ -2245,7 +2525,8 @@
     "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
     "quantity": "1",
     "value": "39",
-    "winning-ticket": "0093558"
+    "winning-ticket": "0093558",
+    "color": "rosso/rot"
   },
   {
     "name": "Vereinigte Bühnen Bozen",
@@ -2253,7 +2534,8 @@
     "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
     "quantity": "1",
     "value": "39",
-    "winning-ticket": "0044959"
+    "winning-ticket": "0044959",
+    "color": "bianco/weiß"
   },
   {
     "name": "Vereinigte Bühnen Bozen",
@@ -2261,7 +2543,8 @@
     "prize-de": "2 Tickets für eine Vorstellung nach Wahl innerhalb 2023",
     "quantity": "1",
     "value": "39",
-    "winning-ticket": "0085058"
+    "winning-ticket": "0085058",
+    "color": "rosso/rot"
   },
   {
     "name": "Thaler ",
@@ -2269,7 +2552,8 @@
     "prize-de": "Thaler profumeria: Schönheitsprodukte ",
     "quantity": "1",
     "value": "30.5",
-    "winning-ticket": "0230571"
+    "winning-ticket": "0230571",
+    "color": "rosso/rot"
   },
   {
     "name": "Thaler ",
@@ -2277,7 +2561,8 @@
     "prize-de": "Thaler profumeria: Schönheitsprodukte ",
     "quantity": "1",
     "value": "30.5",
-    "winning-ticket": "0005104"
+    "winning-ticket": "0005104",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2285,7 +2570,8 @@
     "prize-de": "Bierfass 5 Liter",
     "quantity": "1",
     "value": "30",
-    "winning-ticket": "0166283"
+    "winning-ticket": "0166283",
+    "color": "rosso/rot"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2293,7 +2579,8 @@
     "prize-de": "Bierfass 5 Liter",
     "quantity": "1",
     "value": "30",
-    "winning-ticket": "0068955"
+    "winning-ticket": "0068955",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2301,7 +2588,8 @@
     "prize-de": "Bierfass 5 Liter",
     "quantity": "1",
     "value": "30",
-    "winning-ticket": "0051084"
+    "winning-ticket": "0051084",
+    "color": "rosso/rot"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2309,7 +2597,8 @@
     "prize-de": "Bierfass 5 Liter",
     "quantity": "1",
     "value": "30",
-    "winning-ticket": "0145654"
+    "winning-ticket": "0145654",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2317,7 +2606,8 @@
     "prize-de": "Bierfass 5 Liter",
     "quantity": "1",
     "value": "30",
-    "winning-ticket": "0013326"
+    "winning-ticket": "0013326",
+    "color": "rosso/rot"
   },
   {
     "name": "Loacker cafè",
@@ -2325,7 +2615,8 @@
     "prize-de": "Filzkrob",
     "quantity": "1",
     "value": "29.9",
-    "winning-ticket": "0034002"
+    "winning-ticket": "0034002",
+    "color": "rosso/rot"
   },
   {
     "name": "Loacker cafè",
@@ -2333,7 +2624,8 @@
     "prize-de": "Filzkrob",
     "quantity": "1",
     "value": "29.9",
-    "winning-ticket": "0107486"
+    "winning-ticket": "0107486",
+    "color": "bianco/weiß"
   },
   {
     "name": "Loacker cafè",
@@ -2341,7 +2633,8 @@
     "prize-de": "Filzkrob",
     "quantity": "1",
     "value": "29.9",
-    "winning-ticket": "0087601"
+    "winning-ticket": "0087601",
+    "color": "rosso/rot"
   },
   {
     "name": "Loacker cafè",
@@ -2349,7 +2642,8 @@
     "prize-de": "Filzkrob",
     "quantity": "1",
     "value": "29.9",
-    "winning-ticket": "0023511"
+    "winning-ticket": "0023511",
+    "color": "bianco/weiß"
   },
   {
     "name": "Loacker cafè",
@@ -2357,7 +2651,8 @@
     "prize-de": "Filzkrob",
     "quantity": "1",
     "value": "29.9",
-    "winning-ticket": "0097405"
+    "winning-ticket": "0097405",
+    "color": "rosso/rot"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2365,7 +2660,8 @@
     "prize-de": "Bierflasche 2 Liter",
     "quantity": "1",
     "value": "28",
-    "winning-ticket": "0023636"
+    "winning-ticket": "0023636",
+    "color": "rosso/rot"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2373,7 +2669,8 @@
     "prize-de": "Bierflasche 2 Liter",
     "quantity": "1",
     "value": "28",
-    "winning-ticket": "0080422"
+    "winning-ticket": "0080422",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2381,7 +2678,8 @@
     "prize-de": "Bierflasche 2 Liter",
     "quantity": "1",
     "value": "28",
-    "winning-ticket": "0111956"
+    "winning-ticket": "0111956",
+    "color": "rosso/rot"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2389,7 +2687,8 @@
     "prize-de": "Bierflasche 2 Liter",
     "quantity": "1",
     "value": "28",
-    "winning-ticket": "0104516"
+    "winning-ticket": "0104516",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hopfen&co. - Bozner Brau Gmbh",
@@ -2397,7 +2696,8 @@
     "prize-de": "Bierflasche 2 Liter",
     "quantity": "1",
     "value": "28",
-    "winning-ticket": "0102035"
+    "winning-ticket": "0102035",
+    "color": "rosso/rot"
   },
   {
     "name": "Restaurant Nadamas",
@@ -2405,7 +2705,8 @@
     "prize-de": "Aperitif",
     "quantity": "1",
     "value": "27.5",
-    "winning-ticket": "0054158"
+    "winning-ticket": "0054158",
+    "color": "rosso/rot"
   },
   {
     "name": "Restaurant Nadamas",
@@ -2413,7 +2714,8 @@
     "prize-de": "Aperitif",
     "quantity": "1",
     "value": "27.5",
-    "winning-ticket": "0040679"
+    "winning-ticket": "0040679",
+    "color": "bianco/weiß"
   },
   {
     "name": "Restaurant Nadamas",
@@ -2421,7 +2723,8 @@
     "prize-de": "Aperitif",
     "quantity": "1",
     "value": "27.5",
-    "winning-ticket": "0054984"
+    "winning-ticket": "0054984",
+    "color": "rosso/rot"
   },
   {
     "name": "Restaurant Nadamas",
@@ -2429,7 +2732,8 @@
     "prize-de": "Aperitif",
     "quantity": "1",
     "value": "27.5",
-    "winning-ticket": "0046491"
+    "winning-ticket": "0046491",
+    "color": "bianco/weiß"
   },
   {
     "name": "Restaurant Nadamas",
@@ -2437,7 +2741,8 @@
     "prize-de": "Aperitif",
     "quantity": "1",
     "value": "27.5",
-    "winning-ticket": "0083932"
+    "winning-ticket": "0083932",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2445,7 +2750,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0007676"
+    "winning-ticket": "0007676",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2453,7 +2759,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0095130"
+    "winning-ticket": "0095130",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2461,7 +2768,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0026955"
+    "winning-ticket": "0026955",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2469,7 +2777,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0087001"
+    "winning-ticket": "0087001",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2477,7 +2786,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0042704"
+    "winning-ticket": "0042704",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2485,7 +2795,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0106944"
+    "winning-ticket": "0106944",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2493,7 +2804,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0000267"
+    "winning-ticket": "0000267",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2501,7 +2813,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0104981"
+    "winning-ticket": "0104981",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2509,7 +2822,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0087630"
+    "winning-ticket": "0087630",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2517,7 +2831,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0092331"
+    "winning-ticket": "0092331",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2525,7 +2840,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0069667"
+    "winning-ticket": "0069667",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2533,7 +2849,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0086604"
+    "winning-ticket": "0086604",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2541,7 +2858,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0067218"
+    "winning-ticket": "0067218",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2549,7 +2867,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0078425"
+    "winning-ticket": "0078425",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2557,7 +2876,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0032865"
+    "winning-ticket": "0032865",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2565,7 +2885,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0064991"
+    "winning-ticket": "0064991",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2573,7 +2894,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0015044"
+    "winning-ticket": "0015044",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2581,7 +2903,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0093213"
+    "winning-ticket": "0093213",
+    "color": "bianco/weiß"
   },
   {
     "name": "Hotel Post Gries",
@@ -2589,7 +2912,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0083172"
+    "winning-ticket": "0083172",
+    "color": "rosso/rot"
   },
   {
     "name": "Hotel Post Gries",
@@ -2597,7 +2921,8 @@
     "prize-de": "Aufladbare Parkkarte im Wert von 25€",
     "quantity": "1",
     "value": "25",
-    "winning-ticket": "0040495"
+    "winning-ticket": "0040495",
+    "color": "bianco/weiß"
   },
   {
     "name": "Weingut Eberlehof des Zisser Horst",
@@ -2605,7 +2930,8 @@
     "prize-de": "2er Karton Wein ",
     "quantity": "1",
     "value": "23",
-    "winning-ticket": "0047094"
+    "winning-ticket": "0047094",
+    "color": "rosso/rot"
   },
   {
     "name": "Weingut Eberlehof des Zisser Horst",
@@ -2613,7 +2939,8 @@
     "prize-de": "2er Karton Wein ",
     "quantity": "1",
     "value": "23",
-    "winning-ticket": "0206978"
+    "winning-ticket": "0206978",
+    "color": "bianco/weiß"
   },
   {
     "name": "Weingut Eberlehof des Zisser Horst",
@@ -2621,7 +2948,8 @@
     "prize-de": "2er Karton Wein ",
     "quantity": "1",
     "value": "23",
-    "winning-ticket": "0009384"
+    "winning-ticket": "0009384",
+    "color": "rosso/rot"
   },
   {
     "name": "MC Dondald's",
@@ -2629,7 +2957,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0067654"
+    "winning-ticket": "0067654",
+    "color": "bianco/weiß"
   },
   {
     "name": "MC Dondald's",
@@ -2637,7 +2966,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0097690"
+    "winning-ticket": "0097690",
+    "color": "rosso/rot"
   },
   {
     "name": "MC Dondald's",
@@ -2645,7 +2975,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0090298"
+    "winning-ticket": "0090298",
+    "color": "bianco/weiß"
   },
   {
     "name": "MC Dondald's",
@@ -2653,7 +2984,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0020364"
+    "winning-ticket": "0020364",
+    "color": "rosso/rot"
   },
   {
     "name": "MC Dondald's",
@@ -2661,7 +2993,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0048547"
+    "winning-ticket": "0048547",
+    "color": "bianco/weiß"
   },
   {
     "name": "MC Dondald's",
@@ -2669,7 +3002,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0136800"
+    "winning-ticket": "0136800",
+    "color": "rosso/rot"
   },
   {
     "name": "MC Dondald's",
@@ -2677,7 +3011,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0165065"
+    "winning-ticket": "0165065",
+    "color": "bianco/weiß"
   },
   {
     "name": "MC Dondald's",
@@ -2685,7 +3020,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0009346"
+    "winning-ticket": "0009346",
+    "color": "rosso/rot"
   },
   {
     "name": "MC Dondald's",
@@ -2693,7 +3029,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0000353"
+    "winning-ticket": "0000353",
+    "color": "bianco/weiß"
   },
   {
     "name": "MC Dondald's",
@@ -2701,7 +3038,8 @@
     "prize-de": "Menü Mc Family Large",
     "quantity": "1",
     "value": "22.9",
-    "winning-ticket": "0105615"
+    "winning-ticket": "0105615",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2709,7 +3047,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0007399"
+    "winning-ticket": "0007399",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2717,7 +3056,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0107034"
+    "winning-ticket": "0107034",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2725,7 +3065,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0017074"
+    "winning-ticket": "0017074",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2733,7 +3074,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0060621"
+    "winning-ticket": "0060621",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2741,7 +3083,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0161680"
+    "winning-ticket": "0161680",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2749,7 +3092,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0237118"
+    "winning-ticket": "0237118",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2757,7 +3101,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0091527"
+    "winning-ticket": "0091527",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2765,7 +3110,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0127598"
+    "winning-ticket": "0127598",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2773,7 +3119,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0078447"
+    "winning-ticket": "0078447",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2781,7 +3128,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0115561"
+    "winning-ticket": "0115561",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2789,7 +3137,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0034914"
+    "winning-ticket": "0034914",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2797,7 +3146,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0050621"
+    "winning-ticket": "0050621",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2805,7 +3155,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0212031"
+    "winning-ticket": "0212031",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2813,7 +3164,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0237119"
+    "winning-ticket": "0237119",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2821,7 +3173,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0039465"
+    "winning-ticket": "0039465",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2829,7 +3182,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0024576"
+    "winning-ticket": "0024576",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2837,7 +3191,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0210201"
+    "winning-ticket": "0210201",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2845,7 +3200,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0138175"
+    "winning-ticket": "0138175",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2853,7 +3209,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0059770"
+    "winning-ticket": "0059770",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2861,7 +3218,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0009727"
+    "winning-ticket": "0009727",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2869,7 +3227,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0009885"
+    "winning-ticket": "0009885",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2877,7 +3236,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0013567"
+    "winning-ticket": "0013567",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2885,7 +3245,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0008906"
+    "winning-ticket": "0008906",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2893,7 +3254,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0085154"
+    "winning-ticket": "0085154",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2901,7 +3263,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0086756"
+    "winning-ticket": "0086756",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2909,7 +3272,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0025817"
+    "winning-ticket": "0025817",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2917,7 +3281,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0056872"
+    "winning-ticket": "0056872",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2925,7 +3290,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0056233"
+    "winning-ticket": "0056233",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2933,7 +3299,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0059323"
+    "winning-ticket": "0059323",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2941,7 +3308,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0005270"
+    "winning-ticket": "0005270",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2949,7 +3317,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0105069"
+    "winning-ticket": "0105069",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2957,7 +3326,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0129986"
+    "winning-ticket": "0129986",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2965,7 +3335,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0166257"
+    "winning-ticket": "0166257",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2973,7 +3344,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0032958"
+    "winning-ticket": "0032958",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2981,7 +3353,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0142062"
+    "winning-ticket": "0142062",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2989,7 +3362,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0034178"
+    "winning-ticket": "0034178",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -2997,7 +3371,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0118681"
+    "winning-ticket": "0118681",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3005,7 +3380,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0060566"
+    "winning-ticket": "0060566",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3013,7 +3389,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0142057"
+    "winning-ticket": "0142057",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3021,7 +3398,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0152099"
+    "winning-ticket": "0152099",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3029,7 +3407,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0051061"
+    "winning-ticket": "0051061",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3037,7 +3416,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0074817"
+    "winning-ticket": "0074817",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3045,7 +3425,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0232801"
+    "winning-ticket": "0232801",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3053,7 +3434,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0176400"
+    "winning-ticket": "0176400",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3061,7 +3443,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0336603"
+    "winning-ticket": "0336603",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3069,7 +3452,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0049457"
+    "winning-ticket": "0049457",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3077,7 +3461,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0025944"
+    "winning-ticket": "0025944",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3085,7 +3470,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0060421"
+    "winning-ticket": "0060421",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3093,7 +3479,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0128425"
+    "winning-ticket": "0128425",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3101,7 +3488,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0077877"
+    "winning-ticket": "0077877",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3109,7 +3497,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0051160"
+    "winning-ticket": "0051160",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3117,7 +3506,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0069779"
+    "winning-ticket": "0069779",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3125,7 +3515,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0027227"
+    "winning-ticket": "0027227",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3133,7 +3524,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0178241"
+    "winning-ticket": "0178241",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3141,7 +3533,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0116360"
+    "winning-ticket": "0116360",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3149,7 +3542,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0045194"
+    "winning-ticket": "0045194",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3157,7 +3551,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0055472"
+    "winning-ticket": "0055472",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3165,7 +3560,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0016556"
+    "winning-ticket": "0016556",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3173,7 +3569,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0019535"
+    "winning-ticket": "0019535",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3181,7 +3578,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0164002"
+    "winning-ticket": "0164002",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3189,7 +3587,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0077692"
+    "winning-ticket": "0077692",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3197,7 +3596,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0000614"
+    "winning-ticket": "0000614",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3205,7 +3605,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0039787"
+    "winning-ticket": "0039787",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3213,7 +3614,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0214325"
+    "winning-ticket": "0214325",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3221,7 +3623,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0139142"
+    "winning-ticket": "0139142",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3229,7 +3632,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0090353"
+    "winning-ticket": "0090353",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3237,7 +3641,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0099576"
+    "winning-ticket": "0099576",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3245,7 +3650,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0040796"
+    "winning-ticket": "0040796",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3253,7 +3659,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0078771"
+    "winning-ticket": "0078771",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3261,7 +3668,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0151701"
+    "winning-ticket": "0151701",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3269,7 +3677,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0346145"
+    "winning-ticket": "0346145",
+    "color": "rosso/rot"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3277,7 +3686,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0038717"
+    "winning-ticket": "0038717",
+    "color": "bianco/weiß"
   },
   {
     "name": "Teatro Cristallo Associazione Verein",
@@ -3285,7 +3695,8 @@
     "prize-de": "Ticket für die Saison 2022/2023",
     "quantity": "1",
     "value": "13.97",
-    "winning-ticket": "0114646"
+    "winning-ticket": "0114646",
+    "color": "rosso/rot"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3293,7 +3704,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0061804"
+    "winning-ticket": "0061804",
+    "color": "bianco/weiß"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3301,7 +3713,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0131783"
+    "winning-ticket": "0131783",
+    "color": "rosso/rot"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3309,7 +3722,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0016564"
+    "winning-ticket": "0016564",
+    "color": "bianco/weiß"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3317,7 +3731,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0066212"
+    "winning-ticket": "0066212",
+    "color": "rosso/rot"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3325,7 +3740,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0145212"
+    "winning-ticket": "0145212",
+    "color": "bianco/weiß"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3333,7 +3749,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0161209"
+    "winning-ticket": "0161209",
+    "color": "rosso/rot"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3341,7 +3758,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0051812"
+    "winning-ticket": "0051812",
+    "color": "bianco/weiß"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3349,7 +3767,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0024390"
+    "winning-ticket": "0024390",
+    "color": "rosso/rot"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3357,7 +3776,8 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0048002"
+    "winning-ticket": "0048002",
+    "color": "bianco/weiß"
   },
   {
     "name": "Bozner Weisse GmbH- Batzen Bräu ",
@@ -3365,6 +3785,7 @@
     "prize-de": "6-Pack Batzen Bier",
     "quantity": "1",
     "value": "11",
-    "winning-ticket": "0031262"
+    "winning-ticket": "0031262",
+    "color": "rosso/rot"
   }
 ]
