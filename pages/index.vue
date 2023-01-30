@@ -131,7 +131,17 @@
               :key="index"
               class="prize"
             >
-              <b>{{ item.number + '. ' + item.code + ': ' + item.prize }}</b>
+              <b>{{
+                item.number +
+                '. ' +
+                item.code +
+                ' (' +
+                (item.isRedTicket
+                  ? $t('common.redTicket')
+                  : $t('common.whiteTicket')) +
+                '): ' +
+                item.prize
+              }}</b>
               <span> - </span>
               {{ item.shopName }}
             </p>
