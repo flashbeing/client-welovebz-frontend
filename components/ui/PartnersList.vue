@@ -92,6 +92,10 @@ export default {
           name: '0471 30 70 00',
           link: 'tel:+390471307000',
         },
+        {
+          name: this.$t('common.privacyPolicy'),
+          link: '/privacy',
+        },
       ]
     },
   },

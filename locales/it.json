@@ -1,5 +1,7 @@
 {
   "common": {
+    "privacyPolicy": "Privacy policy",
+    "transparencyObligation": "Obbligo di trasparenza",
     "comingSoon": "coming soon...",
     "christmas": "christmas",
     "surprise": "surprise",
@@ -83,5 +85,10 @@
     "confesercenti": "Confesercenti",
     "cnaShv": "CNA-SHV",
     "lvh": "lvh.apa"
+  },
+  "contacts": {
+    "legalStreet": "Via Alto Adige 60",
+    "email": "welovebz@pec.it",
+    "phone": "0471 307000"
   }
 }

@@ -1,11 +1,13 @@
 <template>
   <header>
     <div class="center">
-      <img
-        :src="require('~/assets/images/welovebz_logo.png')"
-        alt="WeLoveBZ Logo"
-        class="logo"
-      />
+      <nuxt-link :to="localePath('/')">
+        <img
+          :src="require('~/assets/images/welovebz_logo.png')"
+          alt="WeLoveBZ Logo"
+          class="logo"
+        />
+      </nuxt-link>
       <div class="right-header">
         <div class="lang-selector-container" @click="toggleShowSelector">
           <span>{{ selectedLocale.toUpperCase() }}</span
@@ -111,6 +113,10 @@ export default {
           {
             path: '/pdf/impressum.pdf',
             name: this.$t('common.impressum'),
+          },
+          {
+            path: '/pdf/transparency.pdf',
+            name: this.$t('common.transparencyObligation'),
           },
           /* {
             path: '/pdf/contacts.pdf',
